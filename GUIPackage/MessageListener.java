@@ -7,7 +7,7 @@ import java.beans.PropertyChangeListener;
 
 public class MessageListener implements PropertyChangeListener {
 
-    private MyController controller; // Test
+    private MyController controller;
 
     public MessageListener(MyController controller) {
         this.controller = controller;
