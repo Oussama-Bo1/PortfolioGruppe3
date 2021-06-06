@@ -25,7 +25,6 @@ public class ListForm {
                 }
 
                 textField1.setText(text);
-                textField1.set
             }
         });
     }
