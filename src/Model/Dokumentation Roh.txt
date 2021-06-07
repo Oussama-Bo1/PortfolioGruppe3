@@ -1,0 +1,9 @@
+
+
+https://www.freeformatter.com/regex-tester.html
+
+Habe mich sehr lange damit rumgeschlagen, wie ich den YAML-Leser schreiben soll. Wir sollen keine externen bibliotheken benutzen, und weil YAML relativ viele schreibweisen für die gleiche Sache hat, ist es schwer zu überlegen, wie aufwendig man das aufsetzen will.
+Aber weil die Aufgabe nicht war einen YAML Interpreter zu schreiben, hab ich einen simplen gemacht, der nur die einfachste YAML-Listensyntax lesen kann.
+Listentitel:
+- Element 1
+- Element 2
