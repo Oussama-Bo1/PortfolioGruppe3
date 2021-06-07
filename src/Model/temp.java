@@ -10,6 +10,10 @@ public class temp {
         DatabaseManager dbm = new DatabaseManager();
         List<String> countries = dbm.getAvailableCountries();
         for (String country : countries){
+            System.out.println(country);
+        }
+
+        for (String country : countries){
             HashMap<String,List<String>> plzs = dbm.getPostcodes(country);
             for (Map.Entry<String, List<String>> entry : plzs.entrySet()){
                 System.out.println(entry.getKey());
