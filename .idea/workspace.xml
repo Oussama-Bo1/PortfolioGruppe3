@@ -2,38 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d759abc-627b-4f8e-a2fb-f4ee95dc5471" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UML/PortfolioGruppe3.uml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/GuiApp.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/MessageListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/GUIPackage/MessageListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/src/com/dhbw/container/FileChooserForm.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/src/com/dhbw/container/FileChooserForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/src/com/dhbw/container/MyDialog.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/src/com/dhbw/container/MyDialog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/src/com/dhbw/controls/ButtonForm.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/src/com/dhbw/controls/ButtonForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/src/com/dhbw/controls/ButtonForm2.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/src/com/dhbw/controls/ButtonForm2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/src/com/dhbw/controls/CheckBoxForm.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/src/com/dhbw/controls/CheckBoxForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/src/com/dhbw/controls/ComboBoxForm.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/src/com/dhbw/controls/ComboBoxForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/src/com/dhbw/controls/ListForm.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/src/com/dhbw/controls/ListForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/src/com/dhbw/controls/RadioButtonForm.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/src/com/dhbw/controls/RadioButtonForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/src/com/dhbw/controls/ScrollBarForm.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/src/com/dhbw/controls/ScrollBarForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/src/com/dhbw/controls/SliderForm.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/src/com/dhbw/controls/SliderForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/src/com/dhbw/information/ProgressBarForm.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/src/com/dhbw/information/ProgressBarForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/src/com/dhbw/information/TextAreaForm.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/src/com/dhbw/information/TextAreaForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/src/com/dhbw/information/TextPaneForm.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/src/com/dhbw/information/TextPaneForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIPackage/src/com/dhbw/main/MainClass.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,16 +14,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1tXD5jPuFfhXCLX3XBmnj4Ew9sV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/UML" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -64,10 +38,27 @@
       <option name="presentableId" value="Default" />
       <updated>1622906359133</updated>
       <workItem from="1622906360391" duration="63000" />
+      <workItem from="1622906724106" duration="2347000" />
+      <workItem from="1622919422004" duration="914000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
