@@ -1,31 +1,24 @@
 package View;
 
+
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-import java.util.ArrayList;
 
 public class Main {
 
-    private String[] countries;
     private JFrame frame;
     private JTextPane txtCity;
     private JTextPane txtZipcode;
-    private City[] cities, germany, austria, usa;
+    // private City[] cities, germany, austria, usa;
 
     public static void main(String[] args) {
         Main window = new Main();
         window.frame.setVisible(true);
     }
 
-    public void setCountries(String [] countries1) {
-        this.countries = countries1;
-    }
-
     public Main() {
         initialize();
-        germany = new City[6];
+      /*  germany = new City[6];
         germany[0] = new City("Mannheim-Jungbusch", 68159);
         germany[1] = new City("Mannheim-Innenstadt", 68159);
         germany[2] = new City("Mannheim-Neckarau", 68199);
@@ -39,6 +32,7 @@ public class Main {
         usa = new City[1];
         usa[0] = new City("Washington D.C.", 20502);
         cities = germany;
+        */
     }
 
 
@@ -63,7 +57,7 @@ public class Main {
 
 
         JButton btnLookForZipCode = new JButton("PLZ suchen");
-        btnLookForZipCode.addActionListener(new ActionListener() {
+       /* btnLookForZipCode.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 ArrayList<Integer> plzs = new ArrayList<Integer>();
                 txtZipcode.setText("");
@@ -83,12 +77,12 @@ public class Main {
                     txtZipcode.setText("");
                 }
             }
-        });
+        });*/
         btnLookForZipCode.setBounds(10, 186, 311, 23);
         frame.getContentPane().add(btnLookForZipCode);
 
         JButton btnLookForCity = new JButton("Name suchen");
-        btnLookForCity.addActionListener(new ActionListener() {
+      /* btnLookForCity.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 txtCity.setText("");
                 lblInfo.setText("Stadt suchen");
@@ -107,7 +101,7 @@ public class Main {
                     lblInfo.setText("Die Eingabe der PLZ muss eine Nummer sein!");
                 }
             }
-        });
+        });*/
         btnLookForCity.setBounds(331, 186, 155, 23);
         frame.getContentPane().add(btnLookForCity);
 
@@ -124,11 +118,12 @@ public class Main {
         lblZipcode.setBounds(331, 47, 82, 14);
         frame.getContentPane().add(lblZipcode);
 
-        cbCountryList = new JComboBox<String>(countries);
+        String[] countries = {"Deutschland", "Oesterreich", "USA"}; //Array gegen verschiedene Dateien austauschen
+        cbCountryList = new JComboBox<String>();
         cbCountryList.setBounds(10, 23, 120, 22);
-        cbCountryList.setSelectedItem("Deutschland");
-        cbCountryList.addActionListener(new ActionListener() {
-            public void actionPerformed(ActionEvent e) {
+        // cbCountryList.setSelectedItem("Deutschland");
+        // cbCountryList.addActionListener(new ActionListener() {
+           /* public void actionPerformed(ActionEvent e) {
                 String country = (String) cbCountryList.getSelectedItem();
                 switch (country) {
                     case "Deutschland":
@@ -142,7 +137,7 @@ public class Main {
                         break;
                 }
             }
-        });
+        });*/
         frame.getContentPane().add(cbCountryList);
 
         JLabel lblCountry = new JLabel("Land");
@@ -151,7 +146,7 @@ public class Main {
 
     }
 
-    public City[] getCitiesForPLZ(int plz) {
+    /*public City[] getCitiesForPLZ(int plz) {
         ArrayList<City> r = new ArrayList<>();
         for(City c : cities) {
             if(c.getPLZ() == plz) {
@@ -163,19 +158,20 @@ public class Main {
             result[i] = r.get(i);
         }
         return result;
-    }
+    }*/
 
-    public City[] getPLZforCity(String name) {
-        ArrayList<City> r = new ArrayList<>();
-        for(City c : cities) {
-            if(c.getName().toLowerCase().contains(name.toLowerCase())) {
-                r.add(c);
+            /*public City[] getPLZforCity(String name) {
+                ArrayList<City> r = new ArrayList<>();
+                for (City c : cities) {
+                    if (c.getName().toLowerCase().contains(name.toLowerCase())) {
+                        r.add(c);
+                    }
+                }
+                City[] result = new City[r.size()];
+                for (int i = 0; i < result.length; i++) {
+                    result[i] = r.get(i);
+                }
+                return result;
             }
-        }
-        City[] result = new City[r.size()];
-        for(int i = 0; i<result.length; i++) {
-            result[i] = r.get(i);
-        }
-        return result;
-    }
+        }*/
 }
