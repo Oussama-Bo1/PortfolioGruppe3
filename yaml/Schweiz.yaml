@@ -1,1925 +1,2698 @@
 ---
-Tesserete:
-- 6950
-Gams:
-- 9473
-Immensee:
-- 6405
-Rosswald:
-- 3913
-Erlenbach ZH:
-- 8703
-Casima:
-- 6875
-Le Crêt-près-Semsales:
-- 1611
-Gsteig b. Gstaad:
-- 3785
-Birmenstorf AG:
-- 5413
-Tennwil:
-- 5617
-Denens:
-- 1135
-Hemmiken:
-- 4465
-Tolochenaz:
-- 1131
-Safnern:
-- 2553
-Obersaxen Meierhof:
-- 7134
-Freienstein:
-- 8427
-Lütschental:
-- 3816
-Gals:
-- 3238
-Montagny-près-Yverdon:
-- 1442
-Wil AG:
-- 5276
-Wallenwil:
-- 8360
-Burg AG:
-- 5736
-Chesières:
-- 1885
-Rovio:
-- 6821
-Cassina d'Agno:
-- 6990
-Arni BE:
-- 3508
-Unterschächen:
-- 6465
-Itingen:
-- 4452
-Rüti b. Lyssach:
-- 3421
-Les Moulins:
-- 1660
-Neyruz FR:
-- 1740
-Hettiswil b. Hindelbank:
-- 3325
-Ehrendingen:
-- 5420
-Vellerat:
-- 2830
-Seigneux:
-- 1525
-Vuarmarens:
-- 1674
-Willisdorf:
-- 8253
-Le Bry:
-- 1645
-Gerzensee:
-- 3115
-Font:
-- 1473
-Hottwil:
-- 5277
-Netstal:
-- 8754
-Thalkirch:
-- 7109
-Walenstadt:
-- 8880
-Vuisternens-en-Ogoz:
-- 1696
-Basel:
-- 4000
-- 4001
-- 4051
-- 4052
-- 4053
-- 4054
-- 4055
-- 4056
-- 4057
-- 4058
-- 4059
-Werthenstein:
-- 6106
-Schönenberg ZH:
-- 8824
-Villars-Bramard:
-- 1682
-Adlikon b. Andelfingen:
-- 8452
-Zeiningen:
-- 4314
-Scuol:
-- 7550
-Grand-Lancy:
-- 1212
-Zug:
-- 6300
-Bassecourt:
-- 2854
-Cumbel:
-- 7142
-Roggliswil:
-- 6265
-Hermetschwil-Staffeln:
-- 5626
-Neuheim:
-- 6345
-Böttstein:
-- 5315
-Hilfikon:
-- 5613
-Röschenz:
-- 4244
-Mulegns:
-- 7455
-St. Margrethen SG:
-- 9430
-Beurnevésin:
-- 2935
-Hallwil:
-- 5705
-Courchapoix:
-- 2825
-Kloster Fahr:
-- 8109
-Ostermundigen:
-- 3072
-Orsonnens:
-- 1694
-Ichertswil:
-- 4571
-Busswil TG:
-- 8370
-Büsserach:
-- 4227
-Grund b. Gstaad:
-- 3783
-Boltigen:
-- 3766
-Chabrey:
-- 1589
-Champzabé:
-- 3976
-Valeyres-sous-Rances:
-- 1358
-Wagen:
-- 8646
-Osogna:
-- 6703
-Andelfingen:
-- 8450
-Münchwilen AG:
-- 4333
-St. Peterzell:
-- 9127
-Kirchdorf AG:
-- 5416
-Menziken:
-- 5737
-Lyss:
-- 3250
-Donatyre:
-- 1582
-Filisur:
-- 7477
-Freienbach:
-- 8807
-Speicherschwendi:
-- 9037
-Rossrüti:
-- 9512
-Dino:
-- 6967
-Vezia:
-- 6943
-Mauensee:
-- 6216
-Bischofszell:
-- 9220
-Niedergösgen:
-- 5013
-Verbier:
-- 1936
-Untervaz Bahnhof:
-- 7201
-Monte Brè sopra Locarno:
-- 6605
-Olsberg:
-- 4305
-Steinach:
-- 9323
-Ambrì:
-- 6775
-Klosters:
-- 7250
-Vezio:
-- 6938
-Aigle:
-- 1860
-La Tour-de-Trême:
-- 1635
-Muntelier:
-- 3286
-Habkern:
-- 3804
-Montana:
-- 3963
-Rheineck:
-- 9424
-Hergiswil b. Willisau:
-- 6133
-Seuzach:
-- 8472
-Semione:
-- 6714
-Verdasio:
-- 6655
-Därligen:
-- 3707
-Wiler b. Utzenstorf:
-- 3428
-Solothurn:
-- 4500
-Bressaucourt:
-- 2904
-Torricella:
-- 6808
-Apples:
-- 1143
-Lommiswil:
-- 4514
-Couvet:
-- 2108
-Besencens:
-- 1609
-Eschikofen:
-- 8553
-Siblingen:
-- 8225
-Thônex:
-- 1226
-Chailly-Montreux:
-- 1816
-Malters:
-- 6102
-Mettau:
-- 5274
-Dagmersellen:
-- 6252
-Walzenhausen:
-- 9428
-Flurlingen:
-- 8247
-Sugnens:
-- 1043
-Dielsdorf:
-- 8157
-Villarimboud:
-- 1691
-Triboltingen:
-- 8273
-Champvent:
-- 1443
-Mattstetten:
-- 3322
-La Sagne NE:
-- 2314
-Ecoteaux:
-- 1612
-Cuarnens:
-- 1148
-Full-Reuenthal:
-- 5324
-Pragg-Jenaz:
-- 7231
-Brione (Verzasca):
-- 6634
-Wegenstetten:
-- 4317
-Tübach:
-- 9327
-Unterems:
-- 3948
-Büetigen:
-- 3263
-Bonfol:
-- 2944
-Schwanden (Sigriswil):
-- 3657
-Vétroz:
-- 1963
-Waltalingen:
-- 8468
-Camischolas:
-- 7187
-Daiwil:
-- 6126
-Villars-sous-Mont:
-- 1666
-Asuel:
-- 2954
-Marbach SG:
-- 9437
-Wettingen:
-- 5430
-Tentlingen:
-- 1734
-La Punt-Chamues-ch:
-- 7522
-Pieterlen:
-- 2542
-Gimel:
-- 1188
-Sumvitg:
-- 7175
-Essertines-sur-Rolle:
-- 1186
-Thal:
-- 9425
-Grono:
-- 6537
-Windlach:
-- 8175
-Orbe:
-- 1350
-Boveresse:
-- 2113
-Gnosca:
-- 6525
-Kerns:
-- 6064
-Burgistein:
-- 3664
-Plaun da Lej:
-- 7517
-Cauco:
-- 6546
-Vallamand:
-- 1586
-S. Carlo (Poschiavo):
-- 7741
-Bôle:
-- 2014
-Ringgenberg BE:
-- 3852
-Porto Ronco:
-- 6613
-Zermatt:
-- 3920
-Seseglio:
-- 6832
-Sörenberg:
+STIERVA:
+- 7459
+BALTSCHIEDER:
+- 3937
+ECHICHENS:
+- 1112
+NEFTENBACH:
+- 8413
+STOOS SZ:
+- 6433
+FAHRNI B. THUN:
+- 3617
+HEMISHOFEN:
+- 8261
+LUSSY-SUR-MORGES:
+- 1167
+LENGNAU BE:
+- 2543
+BALDEGG:
+- 6283
+SÖRENBERG:
 - 6174
-Brusino Arsizio:
-- 6827
-Bibern SO:
-- 4578
-Trimbach:
-- 4632
-Lugaggia:
-- 6953
-Eysins:
-- 1262
-Cureglia:
-- 6944
-Ennetbaden:
-- 5408
-Epesses:
-- 1098
-Nassen:
-- 9123
-Ruswil:
-- 6017
-Turbenthal:
-- 8488
-Niederbüren:
-- 9246
-Buonas:
-- 6343
-Moutier:
-- 2740
-Mühlethal:
-- 4812
-Oberthal:
-- 3531
-Muzzano:
-- 6933
-Schaan:
-- 9494
-Nods:
-- 2518
-Peyres-Possens:
-- 1063
-Niederhasli:
-- 8155
-Rivera:
-- 6802
-Sobrio:
-- 6749
-Escholzmatt:
-- 6182
-Troistorrents:
-- 1872
-Palagnedra:
-- 6657
-Anières:
-- 1247
-Hütten:
-- 8825
-Molinis:
-- 7056
-Rickenbach SO:
-- 4613
-Winterberg ZH:
-- 8312
-Speicher:
-- 9042
-Les Pommerats:
-- 2353
-Gross:
-- 8841
-Neunkirch:
-- 8213
-Le Brouillet:
-- 2406
-Reutigen:
-- 3647
-Bulle:
-- 1630
-Carabietta:
-- 6919
-Givrins:
-- 1271
-Guttannen:
-- 3864
-La Fouly VS:
-- 1944
-Rothenbrunnen:
-- 7405
-Wabern:
-- 3084
-Oberhof:
-- 5062
-Bettlach:
-- 2544
-Essert-Pittet:
-- 1435
-Ronco sopra Ascona:
-- 6622
-Rohrmatt:
-- 6132
-Hauteville:
-- 1648
-Asp:
-- 5025
-Matten (St. Stephan):
-- 3773
-Happerswil:
-- 8585
-Beinwil SO:
-- 4229
-Rekingen AG:
-- 5332
-Mühlau:
-- 5642
-Oberstetten:
-- 9249
-Sedrun:
-- 7188
-St-Brais:
-- 2364
-Sils im Domleschg:
-- 7411
-Niederösch:
-- 3424
-Les Monts-de-Corsier:
-- 1808
-Neuhaus SG:
-- 8732
-Bournens:
-- 1035
-Neggio:
-- 6991
-Kyburg:
-- 8314
-Maracon:
-- 1613
-Fieschertal:
-- 3984
-Henggart:
-- 8444
-Castasegna:
-- 7608
-Sessa:
-- 6997
-Arezen:
-- 7104
-Court:
-- 2738
-Wilen (Sarnen):
-- 6062
-Diepflingen:
-- 4442
-Gebenstorf:
-- 5412
-Bitsch:
-- 3982
-Miécourt:
-- 2946
-Molare:
-- 6760
-Birmensdorf ZH:
-- 8903
-Schupfart:
-- 4325
-Oeschgen:
-- 5072
-Auw:
-- 5644
-Sennwald:
-- 9466
-Autigny:
-- 1742
-Dintikon:
-- 5606
-Hosenruck:
-- 9515
-Münchwilen TG:
-- 9542
-Crémines:
-- 2746
-Ennetbürgen:
-- 6373
-Sulz AG:
-- 5085
-Praratoud:
-- 1528
-Oberriet SG:
-- 9463
-Gorduno:
-- 6518
-Les Vieux-Prés:
-- 2054
-Gebertingen:
-- 8725
-Geiss:
-- 6123
-Piotta:
-- 6776
-La Chaux-de-Fonds:
-- 2300
-Ecuvillens:
-- 1730
-Altikon:
-- 8479
-Niederried b. Kallnach:
-- 3283
-Luzein:
-- 7242
-Mézières FR:
-- 1684
-Rüegsbach:
-- 3418
-Fräschels:
-- 3284
-Küssnacht am Rigi:
-- 6403
-Ramsen:
-- 8262
-Wattwil:
-- 9630
-Ramsei:
-- 3435
-Bösingen:
-- 3178
-Barzheim:
-- 8241
-Blausee-Mitholz:
-- 3717
-Schübelbach:
-- 8862
-Paudex:
-- 1094
-Vernayaz:
-- 1904
-Rickenbach ZH:
-- 8545
-Birgisch:
-- 3903
-Hauterive NE:
-- 2068
-Buch b. Märwil:
-- 9562
-Schänis:
-- 8718
-Agiez:
-- 1352
-Origlio:
-- 6945
-Les Haudères:
-- 1984
-Vercorin:
-- 3967
-Embd:
-- 3926
-Orny:
-- 1317
-Müselbach:
-- 9602
-Schlattingen:
-- 8255
-Camperio:
-- 6718
-Pura:
-- 6984
-Triesenberg:
-- 9497
-Stabio:
-- 6855
-Clugin:
-- 7442
-Unterterzen:
-- 8882
-St-Barthélemy VD:
-- 1040
-Küttigkofen:
-- 4581
-Carena:
-- 6584
-Coldrerio:
-- 6877
-Curaglia:
-- 7184
-Putz:
-- 7224
-Oberstammheim:
-- 8477
-Vufflens-la-Ville:
-- 1302
-Indemini:
-- 6571
-Gansingen:
-- 5272
-Hombrechtikon:
-- 8634
-Oberwil b. Zug:
-- 6317
-Uitikon Waldegg:
-- 8142
-Brione sopra Minusio:
-- 6645
-Oberneunforn:
-- 8526
-Rennaz:
-- 1847
-Flumserberg Tannenbodenalp:
-- 8898
-Bilten:
-- 8865
-Schluein:
-- 7151
-Sagno:
-- 6839
-Hohtenn:
-- 3949
-Luzern:
-- 6000
-- 6003
-- 6005
-- 6004
-- 6014
-- 6015
-- 6006
-Mergoscia:
-- 6647
-Ersigen:
-- 3423
-Les Posses-sur-Bex:
-- 1882
-Andeer:
-- 7440
-Oeschenbach:
-- 4943
-Chésopelloz:
-- 1720
-Saxon:
-- 1907
-Winikon:
-- 6235
-Surin:
-- 7148
-Le Pâquier NE:
-- 2058
-Nidau:
-- 2560
-Bristen:
-- 6475
-S. Antonio (Val Morobbia):
-- 6583
-Champtauroz:
-- 1537
-Le Lieu:
-- 1345
-Montsevelier:
-- 2828
-Meltingen:
-- 4233
-Bever:
-- 7502
-Corin-de-la-Crête:
-- 3960
-Torny-le-Grand:
-- 1748
-Rüderswil:
-- 3437
-Danis:
-- 7163
-Reisiswil:
-- 4919
-Oberglatt ZH:
-- 8154
-Reutlingen (Winterthur):
-- 8404
-Zweisimmen:
-- 3770
-Berlens:
-- 1680
-Sax:
-- 9468
-Leissigen:
-- 3706
-Flums Hochwiese:
-- 8893
-Wila:
-- 8492
-Ponte Tresa:
-- 6988
-Frenkendorf:
-- 4402
-Boudevilliers:
-- 2043
-Reute AR:
-- 9411
-Scharnachtal:
-- 3722
-Oftringen:
-- 4665
-Guschelmuth:
-- 1792
-Tagelswangen:
-- 8317
-Berschis:
-- 8892
-Wolfenschiessen:
-- 6386
-Meilen:
-- 8706
-Wynau:
-- 4923
-Auddes-sur-Riddes:
-- 1914
-Movelier:
-- 2812
-Icogne:
-- 1977
-Wasen im Emmental:
-- 3457
-Les Rasses:
-- 1452
-Seon:
-- 5703
-Spreitenbach:
-- 8957
-Uors (Lumnezia):
-- 7114
-Wohlen AG:
-- 5610
-Schüpbach:
-- 3535
-Kiental:
-- 3723
-Orzens:
-- 1413
-Payerne:
-- 1530
-Pont-la-Ville:
+FIDAZ:
+- 7019
+EBNET:
+- 6163
+PONT-LA-VILLE:
 - 1649
-Iseltwald:
+PRADEN:
+- 7063
+ARBEDO:
+- 6517
+APPENZELL EGGERSTANDEN:
+- 9050
+RORSCHACHERBERG:
+- 9404
+VESSY:
+- 1234
+LÖMMENSCHWIL:
+- 9308
+HITTNAU:
+- 8335
+MALIX:
+- 7074
+DÄTTWIL AG:
+- 5405
+SEEDORF UR:
+- 6462
+DONATYRE:
+- 1582
+SOLOTHURN:
+- 4500
+SIBLINGEN:
+- 8225
+VILLENEUVE VD:
+- 1844
+EGERKINGEN:
+- 4622
+OBERSAXEN FRIGGAHÜS:
+- 7136
+WITTERSWIL:
+- 4108
+CUREGLIA:
+- 6944
+JUF:
+- 7448
+KNUTWIL:
+- 6213
+LAVERTEZZO:
+- 6633
+BESENCENS:
+- 1609
+GRANGES-PACCOT:
+- 1763
+MAUENSEE:
+- 6216
+BIRGISCH:
+- 3903
+AMMERZWIL BE:
+- 3257
+KANDERSTEG:
+- 3718
+ST. URSEN:
+- 1717
+ROTHENBRUNNEN:
+- 7405
+RHEINECK:
+- 9424
+OESCHGEN:
+- 5072
+UNTERVAZ:
+- 7204
+AGNO:
+- 6982
+SCHLUEIN:
+- 7151
+CARROUGE VD:
+- 1084
+GOPPENSTEIN:
+- 3917
+PLAGNE:
+- 2536
+TRIMBACH:
+- 4632
+WINDLACH:
+- 8175
+BADEN:
+- 5400
+- 5404
+NEUHAUSEN AM RHEINFALL:
+- 8212
+SURREIN:
+- 7173
+SEVELEN:
+- 9475
+ALLMENDINGEN B. BERN:
+- 3112
+ULMIZ:
+- 3214
+RIAZ:
+- 1632
+SORAL:
+- 1286
+ERSTFELD:
+- 6472
+REUTIGEN:
+- 3647
+SCHAFHAUSEN IM EMMENTAL:
+- 3415
+BELMONT-SUR-LAUSANNE:
+- 1092
+BOURNENS:
+- 1035
+OSSINGEN:
+- 8475
+LUGAGGIA:
+- 6953
+BÜETIGEN:
+- 3263
+BRAMOIS:
+- 1967
+BÜREN SO:
+- 4413
+DACHSEN:
+- 8447
+KAPPEL SO:
+- 4616
+REISISWIL:
+- 4919
+RICHTERSWIL:
+- 8805
+CASLANO:
+- 6987
+AGRA:
+- 6927
+STEFFISBURG:
+- 3613
+- 3612
+DÄRLIGEN:
+- 3707
+LA CURE:
+- 1265
+MELANO:
+- 6818
+NIEDERMUHLERN:
+- 3087
+BAUEN:
+- 6466
+ANDIAST:
+- 7159
+ST. URBAN:
+- 4915
+VALEYRES-SOUS-URSINS:
+- 1412
+CHANÉAZ:
+- 1409
+INDEMINI:
+- 6571
+MUTTEN:
+- 7431
+COLDRERIO:
+- 6877
+NIEDERRIED B. KALLNACH:
+- 3283
+GUNZGEN:
+- 4617
+LES BOIS:
+- 2336
+FLIMS DORF:
+- 7017
+GUNTERSHAUSEN B. AADORF:
+- 8357
+LATTERBACH:
+- 3758
+LENGNAU AG:
+- 5426
+RIEX:
+- 1097
+CHEYRES:
+- 1468
+LITTENHEID:
+- 9573
+RÜETERSWIL:
+- 8735
+VAUMARCUS:
+- 2028
+HERMATSWIL:
+- 8330
+ALTDORF SH:
+- 8243
+PREZ-VERS-SIVIRIEZ:
+- 1677
+SOMMENTIER:
+- 1688
+ALTENRHEIN:
+- 9423
+SEIGNEUX:
+- 1525
+CHOËX:
+- 1871
+CHEVROUX:
+- 1545
+BÜREN NW:
+- 6382
+SANGERNBODEN:
+- 1738
+EGNACH:
+- 9322
+GIEZ:
+- 1429
+BETTENHAUSEN:
+- 3366
+GOLINO:
+- 6656
+COURGEVAUX:
+- 1796
+HASLIBERG GOLDERN:
+- 6085
+SCHWARZENBERG LU:
+- 6103
+RIEDERALP:
+- 3987
+BEDANO:
+- 6930
+VERSOIX:
+- 1290
+EYHOLZ:
+- 3930
+MONTAGNOLA:
+- 6926
+HERZOGENBUCHSEE:
+- 3360
+GALLENKIRCH:
+- 5224
+KOTTWIL:
+- 6217
+WINTERTHUR:
+- 8400
+- 8406
+- 8405
+- 8408
+- 8409
+SAMSTAGERN:
+- 8833
+KEFIKON TG:
+- 8546
+FREIENWIL:
+- 5423
+WITTNAU:
+- 5064
+SCHNEISINGEN:
+- 5425
+SCHWENDEN IM DIEMTIGTAL:
+- 3757
+MANNENS:
+- 1775
+LE CERNEUX-VEUSIL:
+- 2345
+CRÉMINES:
+- 2746
+RÜFENACH AG:
+- 5235
+MIRCHEL:
+- 3532
+BUCHRAIN:
+- 6033
+LES ENFERS:
+- 2363
+- 2875
+BERCHER:
+- 1038
+KÜSNACHT ZH:
+- 8700
+PREONZO:
+- 6523
+LES CLÉES:
+- 1356
+HILFIKON:
+- 5613
+SILS IM DOMLESCHG:
+- 7411
+MASEIN:
+- 7425
+HERGISWIL B. WILLISAU:
+- 6133
+FREIDORF TG:
+- 9306
+RÖSCHENZ:
+- 4244
+RÜSCHEGG GAMBACH:
+- 3153
+PRARATOUD:
+- 1528
+MÖHLIN:
+- 4313
+CLARENS:
+- 1815
+AGASUL:
+- 8308
+KRAUCHTHAL:
+- 3326
+MORGINS:
+- 1875
+TARTEGNIN:
+- 1180
+LES CHARBONNIÈRES:
+- 1343
+BRENT:
+- 1817
+TOOS:
+- 8577
+WEISSENSTEIN B. SOLOTHURN:
+- 4515
+MOLÉSON-SUR-GRUYÈRES:
+- 1663
+BRENO:
+- 6937
+BUOCHS:
+- 6374
+SARMENSTORF:
+- 5614
+POHLERN:
+- 3638
+RÜTI ZH:
+- 8630
+ALTDORF UR:
+- 6460
+SENNWALD:
+- 9466
+COINTRIN:
+- 1216
+FLUMS:
+- 8890
+BONVILLARS:
+- 1427
+LIESBERG:
+- 4253
+EPPENBERG:
+- 5012
+NUVILLY:
+- 1485
+NEUENKIRCH:
+- 6206
+HOCHFELDEN:
+- 8182
+GREPPEN:
+- 6404
+NUFENEN:
+- 7437
+LA VERRERIE:
+- 1624
+SAVOGNIN:
+- 7460
+ROSSEMAISON:
+- 2842
+MASTRILS:
+- 7303
+TESSERETE:
+- 6950
+GANDRIA:
+- 6978
+THALKIRCH:
+- 7109
+SIGNÈSE (AYENT):
+- 1966
+ZUCKENRIET:
+- 9526
+BUCH B. MÄRWIL:
+- 9562
+ST-SULPICE NE:
+- 2123
+BOTTENWIL:
+- 4814
+FREGIÉCOURT:
+- 2953
+YENS:
+- 1169
+REIGOLDSWIL:
+- 4418
+HÄFELFINGEN:
+- 4445
+MATHOD:
+- 1438
+DAVESCO-SORAGNO:
+- 6964
+BRISLACH:
+- 4225
+TUTTWIL:
+- 9546
+ST-PIERRE-DE-CLAGES:
+- 1955
+UNTERSCHÄCHEN:
+- 6465
+GADMEN:
+- 3863
+PRAHINS:
+- 1408
+RÜSCHEGG HEUBACH:
+- 3154
+ROGGENBURG:
+- 2814
+VERNAYAZ:
+- 1904
+GADENSTÄTT:
+- 7244
+SITTERDORF:
+- 8589
+OFTRINGEN:
+- 4665
+TERMINE:
+- 6998
+AROSIO:
+- 6939
+WEINGARTEN-KALTHÄUSERN:
+- 9508
+LA TANNE:
+- 2720
+RIAZZINO:
+- 6595
+SUR:
+- 7456
+LENGGENWIL:
+- 9525
+ST-LIVRES:
+- 1176
+GETTNAU:
+- 6142
+ADETSWIL:
+- 8345
+CAMPSUT-CRÖT:
+- 7446
+SUCHY:
+- 1433
+MOVELIER:
+- 2812
+HERLISBERG:
+- 6028
+BEATENBERG:
+- 3803
+FLUMSERBERG TANNENBODENALP:
+- 8898
+CURAGLIA:
+- 7184
+KLEINE SCHEIDEGG:
+- 3823
+CAMIGNOLO:
+- 6803
+BELLERIVE VD:
+- 1585
+BORGNONE:
+- 6658
+LAAX GR 2:
+- 7032
+GEMPEN:
+- 4145
+RIOM:
+- 7463
+MOLONDIN:
+- 1415
+SURSEE:
+- 6210
+SCHWANDEN IM EMMENTAL:
+- 3433
+ELLIKON AM RHEIN:
+- 8464
+ST. PANTALEON:
+- 4421
+EBERSECKEN:
+- 6245
+BOSCO/GURIN:
+- 6685
+BIOGGIO:
+- 6934
+FONTAINES NE:
+- 2046
+STA. MARIA VAL MÜSTAIR:
+- 7536
+METTEMBERT:
+- 2806
+KALLERN:
+- 5625
+KLEINLÜTZEL:
+- 4245
+BERSCHIS:
+- 8892
+PARSONZ:
+- 7464
+GELTERKINDEN:
+- 4460
+GRUBEN:
+- 3946
+DIETFURT:
+- 9615
+AZMOOS:
+- 9478
+UTZIGEN:
+- 3068
+DÄNIKON ZH:
+- 8114
+BENGLEN:
+- 8121
+DÖRFLINGEN:
+- 8239
+CAMPERIO:
+- 6718
+LIEZ (ST-MARTIN):
+- 1969
+AUTAFOND:
+- 1782
+FREIMETTIGEN:
+- 3510
+SUHR:
+- 5034
+BRETIGNY-SUR-MORRENS:
+- 1053
+GIPF-OBERFRICK:
+- 5073
+NEUDORF:
+- 6025
+MESOCCO:
+- 6563
+VILLMERGEN:
+- 5612
+ALVANEU DORF:
+- 7492
+MÂCHE:
+- 1987
+SCHOCHERSWIL:
+- 8581
+LES BIOUX:
+- 1346
+CHIPPIS:
+- 3965
+LANGNAU B. REIDEN:
+- 6262
+AARBERG:
+- 3270
+IGIS:
+- 7206
+LA CONVERSION:
+- 1093
+MELTINGEN:
+- 4233
+ATTINGHAUSEN:
+- 6468
+HENAU:
+- 9247
+GERZENSEE:
+- 3115
+LES HAUTS-GENEVEYS:
+- 2208
+SEMPACH STATION:
+- 6203
+ETOY:
+- 1163
+DEITINGEN:
+- 4543
+BRAUNAU:
+- 9502
+ST-SULPICE VD:
+- 1025
+SEEDORF BE:
+- 3267
+TRACHSELWALD:
+- 3456
+ONNENS FR:
+- 1756
+BÖSINGEN:
+- 3178
+FEUERTHALEN:
+- 8245
+MELIDE:
+- 6815
+ENGLISBERG:
+- 3086
+HEMMIKEN:
+- 4465
+BAD ZURZACH:
+- 5330
+BELMONT-SUR-YVERDON:
+- 1432
+METTLEN:
+- 9517
+AFFOLTERN AM ALBIS:
+- 8910
+SISSELN AG:
+- 4334
+RIEDSTÄTT:
+- 3159
+OBERTHAL:
+- 3531
+BÄTTWIL:
+- 4112
+WETTINGEN:
+- 5430
+SCHUPFART:
+- 4325
+BETTLACH:
+- 2544
+LAUPEN BE:
+- 3177
+ROHRMATT:
+- 6132
+PIETERLEN:
+- 2542
+LIGNEROLLE:
+- 1357
+BETTWIL:
+- 5618
+ROMANSHORN:
+- 8590
+MÜSTAIR:
+- 7537
+VELLERAT:
+- 2830
+TRUBSCHACHEN:
+- 3555
+SCHELLENBERG:
+- 9488
+HÄGGLINGEN:
+- 5607
+FLANTHEY:
+- 3978
+REALTA:
+- 7408
+MASSONNENS:
+- 1692
+PRAZ (VULLY):
+- 1788
+STEINEBRUNN:
+- 9314
+RAFZ:
+- 8197
+COLLONGES:
+- 1903
+LES EVOUETTES:
+- 1897
+VULPERA:
+- 7552
+MÜLLHEIM DORF:
+- 8555
+VALLAMAND:
+- 1586
+SESEGLIO:
+- 6832
+AESCH (NEFTENBACH):
+- 8412
+OTELFINGEN:
+- 8112
+KLEINDIETWIL:
+- 4936
+WALLENWIL:
+- 8360
+BRATSCH:
+- 3957
+HENGGART:
+- 8444
+UERIKON:
+- 8713
+FRÄSCHELS:
+- 3284
+PESEUX:
+- 2034
+VOLKEN:
+- 8459
+RAVOIRE:
+- 1928
+AMSTEG:
+- 6474
+GAIS:
+- 9056
+TARASP:
+- 7553
+MÜHLETHAL:
+- 4812
+BANNWIL:
+- 4913
+RAIN:
+- 6026
+DIELSDORF:
+- 8157
+MATZENDORF:
+- 4713
+WILEN (SARNEN):
+- 6062
+CHAVANNES-SUR-MOUDON:
+- 1512
+OBERHALLAU:
+- 8216
+GALS:
+- 3238
+CHESIÈRES:
+- 1885
+BOSCO LUGANESE:
+- 6935
+ORSONNENS:
+- 1694
+GRAFENORT:
+- 6388
+BASADINGEN:
+- 8254
+LA SAGNE NE:
+- 2314
+BOLTIGEN:
+- 3766
+NEUNKIRCH:
+- 8213
+DAVOS CLAVADEL:
+- 7272
+HOSENRUCK:
+- 9515
+OETWIL AN DER LIMMAT:
+- 8955
+AVULLY:
+- 1237
+LA COMBALLAZ:
+- 1862
+CHEMIN:
+- 1927
+PONTENET:
+- 2733
+MEDELS IM RHEINWALD:
+- 7436
+GSTAAD:
+- 3780
+SERNEUS:
+- 7249
+HINTERRHEIN:
+- 7438
+VORDEMWALD:
+- 4803
+ELGG:
+- 8353
+AARWANGEN:
+- 4912
+MENZBERG:
+- 6125
+STARRKIRCH-WIL:
+- 4656
+EMMENBRÜCKE:
+- 6020
+VILLARS-LE-GRAND:
+- 1584
+AMDEN:
+- 8873
+SALOUF:
+- 7462
+EMMEN:
+- 6032
+OBEREMBRACH:
+- 8425
+SIGLISTORF:
+- 5462
+TROGEN:
+- 9043
+BERG SG:
+- 9305
+WIMMIS:
+- 3752
+ELLIKON AN DER THUR:
+- 8548
+RÜTI GL:
+- 8782
+HÖRHAUSEN:
+- 8507
+PORZA:
+- 6948
+SEMPACH:
+- 6204
+PRÉVERENGES:
+- 1028
+MEZZOVICO:
+- 6805
+BÜRGLEN OW:
+- 6078
+OBERHELFENSCHWIL:
+- 9621
+UFHUSEN:
+- 6153
+RANDA:
+- 3928
+SYENS:
+- 1510
+GAMS:
+- 9473
+SAILLON:
+- 1913
+BIDOGNO:
+- 6958
+BENNAU:
+- 8836
+INTSCHI:
+- 6476
+BIRONICO:
+- 6804
+CORMONDRÈCHE:
+- 2036
+ACHSETEN:
+- 3725
+MONTAGNE-DE-SONVILIER:
+- 2615
+MUMPF:
+- 4322
+ALTEN:
+- 8453
+TRUTTIKON:
+- 8467
+NECKER:
+- 9126
+ALVASCHEIN:
+- 7451
+BRIONE (VERZASCA):
+- 6634
+AROLLA:
+- 1986
+LA FOULY VS:
+- 1944
+KALTBRUNN:
+- 8722
+LAUPEN ZH:
+- 8637
+EBMATINGEN:
+- 8123
+AVEGNO:
+- 6670
+TÄGERIG:
+- 5522
+LIESTAL:
+- 4410
+GEUENSEE:
+- 6232
+FONT:
+- 1473
+GENTHOD:
+- 1294
+LA SARRAZ:
+- 1315
+SIMPLON HOSPIZ:
+- 3907
+CORIPPO:
+- 6631
+NEIRIVUE:
+- 1669
+HETTISWIL B. HINDELBANK:
+- 3325
+OBERRIED AM BRIENZERSEE:
+- 3854
+BROGLIO:
+- 6693
+LE CHÂTELARD-PRÈS-ROMONT:
+- 1689
+LYSS:
+- 3250
+VULLIERENS:
+- 1115
+ENNETMOOS:
+- 6372
+TWANN:
+- 2513
+KLÖNTAL:
+- 8750
+NENZLINGEN:
+- 4224
+HETTENSCHWIL:
+- 5317
+TRIENT:
+- 1929
+HOFFELD:
+- 9114
+WILDHAUS:
+- 9658
+BUSSWIL B. MELCHNAU:
+- 4917
+REINACH AG:
+- 5734
+BRUNNENTHAL:
+- 3307
+MITTELLUNDEN:
+- 7222
+NÜRENSDORF:
+- 8309
+BIBERN SO:
+- 4578
+BÜRGLEN UR:
+- 6463
+MONTAGNY-LA-VILLE:
+- 1776
+HERZNACH:
+- 5027
+HAUSEN AM ALBIS:
+- 8915
+MAISPRACH:
+- 4464
+SCHWANDEN (SIGRISWIL):
+- 3657
+SCHWENDE:
+- 9057
+RHÄZÜNS:
+- 7403
+CAMUNS:
+- 7113
+RÜTI B. LYSSACH:
+- 3421
+MALANS GR:
+- 7208
+TOBEL:
+- 9555
+REINACH BL:
+- 4153
+SCHWEIZERSHOLZ:
+- 9223
+WALLISWIL B. NIEDERBIPP:
+- 3380
+CUGY FR:
+- 1482
+PFEFFINGEN:
+- 4148
+GAMPELEN:
+- 3236
+TORNY-LE-GRAND:
+- 1748
+ONNENS VD:
+- 1425
+BRAMBODEN:
+- 6167
+TRASADINGEN:
+- 8219
+BUCHS ZH:
+- 8107
+GUTENBURG:
+- 4932
+ARDON:
+- 1957
+MARBACH LU:
+- 6196
+EVILARD:
+- 2533
+ATHENAZ (AVUSY):
+- 1285
+ISTIGHOFEN:
+- 8575
+ISONE:
+- 6810
+LES BRENETS:
+- 2416
+LE LANDERON:
+- 2525
+EIKEN:
+- 5074
+FERDEN:
+- 3916
+GUTTET-FESCHEL:
+- 3956
+CASTAGNOLA:
+- 6976
+REUTE AR:
+- 9411
+RÜDERSWIL:
+- 3437
+MONTMOLLIN:
+- 2037
+AURESSIO:
+- 6661
+KÜTTIGEN:
+- 5024
+ALBERSWIL:
+- 6248
+KÖLLIKEN:
+- 5742
+RÜEGSBACH:
+- 3418
+WIESENDANGEN:
+- 8542
+DINO:
+- 6967
+PORRENTRUY:
+- 2900
+GUTENSWIL:
+- 8605
+EGOLZWIL:
+- 6243
+MELCHSEE-FRUTT:
+- 6068
+SIGIGEN:
+- 6019
+KERZERS:
+- 3210
+WALLISELLEN:
+- 8304
+HOMBRECHTIKON:
+- 8634
+DOMPIERRE FR:
+- 1563
+ORBE:
+- 1350
+REICHENBACH IM KANDERTAL:
+- 3713
+RIVEO:
+- 6674
+PITASCH:
+- 7111
+GÄNSBRUNNEN:
+- 4716
+CHEZ-LE-BART:
+- 2025
+BIBERSTEIN:
+- 5023
+DAMVANT:
+- 2914
+GENÈVE:
+- 1206
+- 1205
+- 1204
+- 1203
+- 1202
+- 1201
+- 1200
+- 1209
+- 1208
+- 1207
+SPLÜGEN:
+- 7435
+MOGHEGNO:
+- 6677
+LEISSIGEN:
+- 3706
+HAUSEN AG:
+- 5212
+FAULENSEE:
+- 3705
+ISELTWALD:
 - 3807
-Dorénaz:
-- 1905
-Courchavon:
-- 2922
-Näfels:
-- 8752
-Thun:
+OBERSTAMMHEIM:
+- 8477
+SUBERG:
+- 3262
+VILLIGEN:
+- 5234
+LE SÉPEY:
+- 1863
+STEINEN:
+- 6422
+MÖNCHALTORF:
+- 8617
+FRÜMSEN:
+- 9467
+LAX:
+- 3994
+MENDRISIO:
+- 6850
+GOLDINGEN:
+- 8638
+FLAACH:
+- 8416
+ARDEZ:
+- 7546
+FLAMATT:
+- 3175
+ALTNAU:
+- 8595
+FANAS:
+- 7215
+RECHERSWIL:
+- 4565
+OBERRICKENBACH:
+- 6387
+MORGES:
+- 1110
+GONTENSCHWIL:
+- 5728
+GUTTANNEN:
+- 3864
+MONTAGNY-LES-MONTS:
+- 1774
+OBERTERZEN:
+- 8884
+ROCHES BE:
+- 2762
+DIESSE:
+- 2517
+BÄRSCHWIL:
+- 4252
+URDORF:
+- 8902
+TOFFEN:
+- 3125
+SEMSALES:
+- 1623
+THAL:
+- 9425
+KRATTIGEN:
+- 3704
+LE CHÂTELARD VS:
+- 1925
+GSTEIG B. GSTAAD:
+- 3785
+LANGENBRUCK:
+- 4438
+EGLISWIL:
+- 5704
+NEBIKON:
+- 6244
+DELLEY:
+- 1567
+ROSSHÄUSERN:
+- 3204
+BIRMENSTORF AG:
+- 5413
+VILLA BEDRETTO:
+- 6781
+VILTERS:
+- 7324
+UEBERSTORF:
+- 3182
+LE TRÉTIEN:
+- 1923
+RIVAZ:
+- 1071
+ROMANEL-SUR-LAUSANNE:
+- 1032
+WOLFENSCHIESSEN:
+- 6386
+BÔLE:
+- 2014
+SCHELTEN:
+- 2827
+LES AVANCHETS:
+- 1220
+UNTERVAZ BAHNHOF:
+- 7201
+LOHNSTORF:
+- 3127
+DOMAT/EMS:
+- 7013
+MONTCHERAND:
+- 1354
+STERNENBERG:
+- 8499
+ADELBODEN:
+- 3715
+PONTO VALENTINO:
+- 6724
+BETTENS:
+- 1042
+S. BERNARDINO:
+- 6565
+BALDINGEN:
+- 5333
+GOLDSWIL B. INTERLAKEN:
+- 3805
+WORBLAUFEN:
+- 3048
+LUCELLE:
+- 2807
+REITNAU:
+- 5057
+COMANO:
+- 6949
+LE SOLLIAT:
+- 1347
+SEELISBERG:
+- 6377
+ROSSRÜTI:
+- 9512
+OBERKULM:
+- 5727
+SCHONGAU:
+- 6288
+BECKENRIED:
+- 6375
+MERLIGEN:
+- 3658
+FLÜELI-RANFT:
+- 6073
+HÄUSERNMOOS IM EMMENTAL:
+- 3463
+JONEN:
+- 8916
+ST. MARGARETHEN TG:
+- 9543
+LENTIGNY:
+- 1745
+MEIENRIED:
+- 3294
+HEITENRIED:
+- 1714
+BLATTEN (LÖTSCHEN):
+- 3919
+PFAFFNAU:
+- 6264
+NODS:
+- 2518
+RIEIN:
+- 7128
+FLENDRUZ:
+- 1659
+PULLY:
+- 1009
+WITTWIL:
+- 5053
+ECOTEAUX:
+- 1612
+ROOT LÄNGENBOLD:
+- 6039
+MEX VS:
+- 1890
+HEIMBERG:
+- 3627
+VILLARLOD:
+- 1695
+JENINS:
+- 7307
+LOMMISWIL:
+- 4514
+MEX VD:
+- 1031
+AESCHLEN B. OBERDIESSBACH:
+- 3672
+MENZIKEN:
+- 5737
+CONTONE:
+- 6594
+HÖLSTEIN:
+- 4434
+ROCHE-D'OR:
+- 2912
+SCHWENDI IM WEISSTANNENTAL:
+- 7325
+CHAMPZABÉ:
+- 3976
+S. ANTONINO:
+- 6592
+THÜRNEN:
+- 4441
+MEYRIEZ:
+- 3280
+WÄNGI:
+- 9545
+CHAPELLE (BROYE):
+- 1534
+LUDIANO:
+- 6721
+PENEY-LE-JORAT:
+- 1059
+VALENDAS:
+- 7122
+TEUFEN AR:
+- 9053
+GRANDCOUR:
+- 1543
+MOLENO:
+- 6524
+CUMPADIALS:
+- 7176
+AADORF:
+- 8355
+FLÜHLI LU:
+- 6173
+EPALINGES:
+- 1066
+UNTERIBERG:
+- 8842
+TREYCOVAGNES:
+- 1436
+GRINDELWALD:
+- 3818
+FIDERIS:
+- 7235
+BOTTIGHOFEN:
+- 8598
+KLEINWANGEN:
+- 6277
+BUCHS LU:
+- 6211
+OBERSTECKHOLZ:
+- 4924
+FRAUBRUNNEN:
+- 3312
+VATTIZ:
+- 7146
+SCHMIDIGEN-MÜHLEWEG:
+- 3464
+STRADA:
+- 7558
+ROMOOS:
+- 6113
+UVRIER:
+- 1958
+LES COLLONS:
+- 1988
+WASSEN UR:
+- 6484
+TENNA:
+- 7106
+BIRSFELDEN:
+- 4127
+SCHINZNACH DORF:
+- 5107
+SCHMITTEN FR:
+- 3185
+ENNENDA:
+- 8755
+LANGNAU IM EMMENTAL:
+- 3550
+BELLELAY:
+- 2713
+WOLFERTSWIL:
+- 9116
+KYBURG-BUCHEGG:
+- 4586
+EMBD:
+- 3926
+ORNY:
+- 1317
+WASEN IM EMMENTAL:
+- 3457
+PURA:
+- 6984
+REALP:
+- 6491
+WIL AG:
+- 5276
+FISCHENTHAL:
+- 8497
+HÜTTIKON:
+- 8115
+LOURTIER:
+- 1948
+MORRENS VD:
+- 1054
+RICKEN SG:
+- 8726
+LANGENTHAL:
+- 4900
+LES TAVERNES:
+- 1607
+COURTEMAÎCHE:
+- 2923
+STEINACH:
+- 9323
+CORBEYRIER:
+- 1856
+ST-SAPHORIN-SUR-MORGES:
+- 1113
+POLLEGIO:
+- 6742
+SUSCH:
+- 7542
+TARTAR:
+- 7422
+VALLON:
+- 1565
+FINSTERHENNEN:
+- 2577
+PROSITO:
+- 6526
+MERENSCHWAND:
+- 5634
+RUPPERSWIL:
+- 5102
+FLUMSERBERG SAXLI:
+- 8894
+WANGEN B. DÜBENDORF:
+- 8602
+RUDOLFSTETTEN:
+- 8964
+ROSSWALD:
+- 3913
+RICHIGEN:
+- 3078
+DARDIN:
+- 7164
+CÉLIGNY:
+- 1298
+LIGORNETTO:
+- 6853
+LUTRY:
+- 1095
+GUNTEN:
+- 3654
+COURLEVON:
+- 1795
+VÉSENAZ:
+- 1222
+WEIACH:
+- 8187
+NEYRUZ-SUR-MOUDON:
+- 1515
+MÜLLHEIM-WIGOLTINGEN:
+- 8554
+VAULION:
+- 1325
+GORGIER:
+- 2023
+WALD ZH:
+- 8636
+NEUÄGERI:
+- 6314
+OERLINGEN:
+- 8461
+OLEYRES:
+- 1580
+HEIDEN:
+- 9410
+BRUNNADERN:
+- 9125
+GRABSERBERG:
+- 9472
+SILENEN:
+- 6473
+BOLLIGEN:
+- 3065
+ATTISWIL:
+- 4536
+NIEDERDORF:
+- 4435
+RÜSCHLIKON:
+- 8803
+LUGANO:
+- 6900
+LUGNORRE:
+- 1789
+AUENSTEIN:
+- 5105
+DÖTTINGEN:
+- 5312
+PUTZ:
+- 7224
+BLEIKEN B. OBERDIESSBACH:
+- 3674
+WENSLINGEN:
+- 4493
+RIED-MÖREL:
+- 3986
+ALLSCHWIL:
+- 4123
+SCHALUNEN:
+- 3314
+GUNTMADINGEN:
+- 8223
+LE CRÊT-PRÈS-SEMSALES:
+- 1611
+FAHRWANGEN:
+- 5615
+RIEDHOLZ:
+- 4533
+METZERLEN:
+- 4116
+BALM B. GÜNSBERG:
+- 4525
+RÜTI B. BÜREN:
+- 3295
+MORBIO INFERIORE:
+- 6834
+SEON:
+- 5703
+LANGWIES:
+- 7057
+PRATO-SORNICO:
+- 6694
+CLARMONT:
+- 1127
+VASÖN:
+- 7317
+PAMBIO-NORANCO:
+- 6915
+ALTERSWIL FR:
+- 1715
+LES CULLAYES:
+- 1080
+ISENFLUH:
+- 3822
+LES MOULINS:
+- 1660
+CUARNENS:
+- 1148
+YVORNE:
+- 1853
+BUCHS SG:
+- 9470
+FRAUENKAPPELEN:
+- 3202
+BAUMA:
+- 8494
+LES PLANCHETTES:
+- 2325
+ROTHENBURG:
+- 6023
+CHIASSO:
+- 6830
+RANZO:
+- 6577
+CORZONESO:
+- 6722
+ROTHENHAUSEN:
+- 9565
+HERTENSTEIN AG:
+- 5415
+BUBENDORF:
+- 4416
+LA TZOUMAZ:
+- 1918
+BÜTSCHWIL:
+- 9606
+PENSIER:
+- 1783
+ROVRAY:
+- 1463
+PERROY:
+- 1166
+RIZENBACH:
+- 3206
+EDLIBACH:
+- 6313
+STEG IM TÖSSTAL:
+- 8496
+SONOGNO:
+- 6637
+WILA:
+- 8492
+HÖFEN B. THUN:
+- 3631
+CHAMPVENT:
+- 1443
+CASSINA D'AGNO:
+- 6990
+EDERSWILER:
+- 2813
+BÄRAU:
+- 3552
+SELMA:
+- 6545
+ARAN:
+- 1091
+NEUENDORF:
+- 4623
+ROSSENS FR:
+- 1728
+ROGGWIL BE:
+- 4914
+RENENS VD:
+- 1020
+LEUTWIL:
+- 5725
+AUSSERFERRERA:
+- 7444
+EPSACH:
+- 3272
+STUDEN BE:
+- 2557
+VELTHEIM AG:
+- 5106
+GRÄNICHEN:
+- 5722
+MANNO:
+- 6928
+OPPLIGEN:
+- 3629
+BUSSY-SUR-MOUDON:
+- 1514
+GÖTIGHOFEN:
+- 8583
+UNTERRAMSERN:
+- 4588
+RUEYRES:
+- 1046
+EGGERBERG:
+- 3939
+THUN:
 - 3604
 - 3603
 - 3600
 - 3608
-Flühli LU:
-- 6173
-Tatroz:
-- 1617
-Salenstein:
-- 8268
-Plasselb:
-- 1737
-Zielebach:
-- 4564
-Collex:
-- 1239
-Le Lignon:
-- 1219
-Würenlingen:
-- 5303
-Maschwanden:
-- 8933
-Bachs:
-- 8164
-Aran:
-- 1091
-Lachen SZ:
-- 8853
-Aarau:
-- 5000
-- 5004
-Mosnang:
-- 9607
-Pont-de-la-Morge (Sion):
-- 1962
-Cormérod:
-- 1721
-Amlikon-Bissegg:
-- 8514
-Enney:
-- 1667
-Höri:
-- 8181
-Allerheiligenberg:
-- 4615
-Chaumont:
-- 2067
-Lohn SH:
-- 8235
-Flanthey:
-- 3978
-Vira (Gambarogno):
-- 6574
-Buchs LU:
-- 6211
-Bosco/Gurin:
-- 6685
-Inwil:
-- 6034
-Dietfurt:
-- 9615
-Tschingel ob Gunten:
-- 3656
-Juf:
-- 7448
-Schwanden im Emmental:
-- 3433
-Courlevon:
-- 1795
-Juriens:
-- 1326
-Morbio Superiore:
-- 6835
-Martina:
-- 7560
-Arch:
-- 3296
-Hünibach:
-- 3626
-Metzerlen:
-- 4116
-Heimenschwand:
-- 3615
-Pagig:
-- 7028
-Gutenswil:
-- 8605
-Zeihen:
-- 5079
-Molondin:
-- 1415
-Balm b. Günsberg:
-- 4525
-Niederneunforn:
-- 8525
-Laupen BE:
-- 3177
-Unterendingen:
-- 5305
-Melchtal:
-- 6067
-Estavannens:
-- 1665
-Allenwinden:
-- 6319
-Köniz:
-- 3098
-Altwis:
-- 6286
-Bavois:
-- 1372
-Courroux:
-- 2822
-Siviez (Nendaz):
-- 1997
-Calonico:
-- 6746
-Gretschins:
-- 9479
-Adetswil:
-- 8345
-Adelboden:
-- 3715
-Oberrickenbach:
-- 6387
-Jongny:
-- 1805
-Mürren:
-- 3825
-Presinge:
-- 1243
-Villa Luganese:
-- 6966
-Cologny:
-- 1223
-Zell LU:
-- 6144
-Goldingen:
-- 8638
-Bignasco:
-- 6676
-Galmiz:
-- 3285
-Unterwasser:
-- 9657
-Caviano:
-- 6578
-Trübbach:
-- 9477
-Guntershausen b. Aadorf:
-- 8357
-Villiers:
-- 2057
-Fontnas:
-- 9476
-Urnäsch:
-- 9107
-Yverdon-les-Bains:
-- 1400
-Le Grand-Saconnex:
-- 1218
-Chessel:
-- 1846
-Miège:
-- 3972
-Saas im Prättigau:
-- 7247
-Buix:
-- 2925
-Wislikofen:
-- 5463
-Chavannes-près-Renens:
-- 1022
-Wahlendorf:
-- 3046
-Champoussin:
-- 1873
-Savosa:
-- 6942
-Neerach:
-- 8173
-Moosseedorf:
-- 3302
-Walliswil b. Wangen:
-- 3377
-Fey (Nendaz):
-- 1996
-Friltschen:
-- 9504
-Buchs SG:
-- 9470
-Mülligen:
-- 5243
-Vionnaz:
-- 1895
-Prêles:
-- 2515
-Leibstadt:
-- 5325
-Le Mont-sur-Lausanne:
-- 1052
-Hausen AG:
-- 5212
-Eschert:
-- 2743
-Dotnacht:
-- 8566
-Lostallo:
-- 6558
-Breganzona:
-- 6932
-Farden:
-- 7433
-Bad Zurzach:
-- 5330
-Auswil:
-- 4944
-Magliaso:
-- 6983
-Lostorf:
-- 4654
-Verscio:
-- 6653
-Gutenburg:
-- 4932
-Dietwil:
-- 6042
-Buttwil:
-- 5632
-Kaiseraugst:
-- 4303
-Zullwil:
-- 4234
-Buttes:
-- 2115
-Lussy-sur-Morges:
-- 1167
-Sevgein:
-- 7127
-Bubendorf:
-- 4416
-Grüt (Gossau ZH):
-- 8624
-Lanzenneunforn:
-- 8506
-Obersaxen Giraniga:
-- 7135
-Le Châtelard VS:
-- 1925
-Grub AR:
-- 9035
-Fétigny:
-- 1532
-Herdern:
-- 8535
-Diesbach GL:
-- 8777
-Praz-de-Fort:
-- 1943
-Regensberg:
-- 8158
-Hochwald:
-- 4146
-Ochlenberg:
-- 3367
-Les Monts-de-Pully:
-- 1068
-Root Längenbold:
-- 6039
-Tschierv:
-- 7532
-Coppet:
-- 1296
-Präz:
-- 7424
-Deitingen:
-- 4543
-Tschlin:
-- 7559
-Mont-Tramelan:
-- 2723
-La Comballaz:
-- 1862
-Schwarzenbach SG:
-- 9536
-Perlen:
-- 6035
-Eschenz:
-- 8264
-Vandoeuvres:
-- 1253
-Miralago:
-- 7743
-Sala Capriasca:
-- 6954
-Arcegno:
-- 6618
-Felsenau AG:
-- 5316
-Weinfelden:
-- 8570
-Disentis/Mustér:
-- 7180
-Etagnières:
-- 1037
-Oberengstringen:
-- 8102
-Brienzwiler:
-- 3856
-Rueyres:
-- 1046
-Wilen b. Wollerau:
-- 8832
-Dulliken:
-- 4657
-Trogen:
-- 9043
-Maisprach:
-- 4464
-Böbikon:
-- 5334
-Murg:
-- 8877
-Aeschau:
-- 3536
-Veltheim AG:
-- 5106
-Les Hauts-Geneveys:
-- 2208
-Epalinges:
-- 1066
-Lausen:
-- 4415
-Arbaz:
-- 1974
-Hersberg:
-- 4423
-Chermignon-d'en-Bas:
-- 3971
-Törbel:
-- 3923
-Meinisberg:
-- 2554
-Wangen b. Olten:
-- 4612
-Kirchberg SG:
-- 9533
-Heimisbach:
-- 3453
-Bure:
-- 2915
-Chénens:
-- 1744
-Breitenbach:
-- 4226
-Langendorf:
-- 4513
-Orselina:
-- 6644
-Bärschwil:
-- 4252
-Schwanden b. Brienz:
-- 3855
-Büren NW:
-- 6382
-Enges:
-- 2073
-Wil SG:
-- 9500
-Dozwil:
-- 8582
-Combremont-le-Petit:
-- 1536
-Richenthal:
-- 6263
-Kesswil:
-- 8593
-Utzenstorf:
-- 3427
-Flerden:
-- 7426
-Sulzbach:
-- 8614
-Sigirino:
-- 6806
-Lohnstorf:
-- 3127
-Iragna:
-- 6707
-Frauenkappelen:
-- 3202
-Ennetmoos:
-- 6372
-Etzelkofen:
-- 3306
-Riedikon:
-- 8616
-Nänikon:
-- 8606
-Rorschacherberg:
-- 9404
-Sur:
-- 7456
-Tumegl/Tomils:
-- 7418
-Oberhallau:
-- 8216
-Ermatingen:
-- 8272
-Buchs ZH:
-- 8107
-Eclépens:
-- 1312
-Oberkirch LU:
-- 6208
-Leuggelbach:
-- 8774
-Peseux:
-- 2034
-Tecknau:
-- 4492
-Rizenbach:
-- 3206
-Glovelier:
-- 2855
-Stels:
-- 7226
-Buus:
-- 4463
-Rüschegg Heubach:
-- 3154
-Staldenried:
-- 3933
-Tuggen:
-- 8856
-Guttet-Feschel:
-- 3956
-Trans:
-- 7407
-Ballwil:
-- 6275
-Ossingen:
-- 8475
-Summaprada:
-- 7421
-Mastrils:
-- 7303
-Biasca:
-- 6710
-Naters:
-- 3904
-Meggen:
-- 6045
-Windisch:
-- 5210
-Walde SG:
-- 8727
-Frauenfeld:
-- 8500
-Purasca:
-- 6989
-Genève 15 Aéroport:
-- 1215
-Saland:
-- 8493
-Aldesago:
-- 6974
-Aeugstertal:
-- 8914
-Bütschwil:
-- 9606
-Corzoneso:
-- 6722
-Wilihof:
-- 6236
-Böckten:
-- 4461
-Küblis:
-- 7240
-Tägertschi:
-- 3111
-Arth:
-- 6415
-Oerlingen:
-- 8461
-Balterswil:
-- 8362
-Prarreyer (Versegères):
-- 1947
-Schweizersholz:
-- 9223
-Gilly:
-- 1182
-Villeret:
-- 2613
-Rütschelen:
-- 4933
-St. Moritz:
-- 7500
-Freienwil:
-- 5423
-Petit-Lancy:
-- 1213
-Oberburg:
-- 3414
-Les Prés-d'Orvin:
-- 2534
-Marbach LU:
-- 6196
-Oberwald:
-- 3999
-Stoos SZ:
-- 6433
-Schalunen:
-- 3314
-Allschwil:
-- 4123
-Hörhausen:
-- 8507
-Schinznach Dorf:
-- 5107
-Schachen b. Herisau:
-- 9112
-Ocourt:
-- 2889
-Tersnaus:
-- 7116
-Wetzikon ZH:
-- 8623
-- 8620
-Tartegnin:
-- 1180
-Orges:
-- 1430
-Niedermuhlern:
-- 3087
-Belalp:
-- 3914
-Cornol:
-- 2952
-Riazzino:
-- 6595
-Chambrelien:
-- 2019
-Oberaach:
-- 8587
-Villars-le-Grand:
-- 1584
-Schwarzenegg:
-- 3616
-Schenkon:
-- 6214
-Untervaz:
-- 7204
-Krattigen:
-- 3704
-Wileroltigen:
-- 3207
-Worben:
-- 3252
-Kandergrund:
-- 3716
-Grandcour:
-- 1543
-La Joux FR:
-- 1697
-Marly:
-- 1723
-Truttikon:
-- 8467
-Aettenschwil:
-- 5645
-Mosen:
-- 6295
-Walliswil b. Niederbipp:
-- 3380
-Unterbach BE:
-- 3857
-Termen:
-- 3912
-Therwil:
-- 4106
-Ranflüh:
-- 3439
-Vorderthal:
-- 8857
-Obersaxen Friggahüs:
-- 7136
-Gampel:
-- 3945
-Wil ZH:
-- 8196
-Tschugg:
-- 3233
-Sorengo:
-- 6924
-Bramboden:
-- 6167
-Meienried:
-- 3294
-Engi:
-- 8765
-Chiggiogna:
-- 6764
-Cham:
-- 6330
-Chancy:
-- 1284
-Arnex-sur-Orbe:
-- 1321
-Arzo:
-- 6864
-Bottmingen:
-- 4103
-Feutersoey:
-- 3784
-Liesberg:
-- 4253
-Ausserbinn:
-- 3995
-Hasliberg Reuti:
-- 6086
-Bächli (Hemberg):
-- 9633
-Ottikon (Gossau ZH):
-- 8626
-Reichenburg:
-- 8864
-Davos Monstein:
-- 7278
-Schinznach Bad:
-- 5116
-La Forclaz VD:
-- 1866
-Corcelles NE:
-- 2035
-Evionnaz:
-- 1902
-Châtel-sur-Montsalvens:
-- 1653
-Gletterens:
-- 1544
-Ellikon an der Thur:
-- 8548
-Büren SO:
-- 4413
-Hermance:
-- 1248
-Buchrain:
-- 6033
-Balerna:
-- 6828
-Oulens-sur-Lucens:
-- 1522
-Agarn:
-- 3951
-Saulcy:
-- 2873
-Winznau:
-- 4652
-Münsterlingen:
-- 8596
-Grub SG:
-- 9036
-Wangen b. Dübendorf:
-- 8602
-Biglen:
-- 3507
-Mädris-Vermol:
-- 8886
-Ropraz:
-- 1088
-Wiler b. Seedorf:
-- 3266
-Neuendorf:
-- 4623
-Stein am Rhein:
-- 8260
-Anwil:
-- 4469
-Schönenberg an der Thur:
-- 9215
-Auboranges:
-- 1673
-Vaduz:
-- 9490
-Zeneggen:
-- 3934
-Balm b. Messen:
-- 3254
-Onnens FR:
-- 1756
-Alberswil:
-- 6248
-Cadro:
-- 6965
-Surcasti:
-- 7115
-Dardagny:
-- 1283
-Arvigo:
-- 6543
-Sottens:
-- 1062
-Aproz (Nendaz):
-- 1994
-Cheiry:
-- 1529
-Faulensee:
-- 3705
-Vergeletto:
-- 6664
-Conches:
-- 1231
-Baldingen:
-- 5333
-Bassins:
-- 1269
-Ebikon:
-- 6030
-Morlon:
-- 1638
-Vicques:
-- 2824
-Boussens:
-- 1034
-Turbach:
-- 3781
-Hubersdorf:
-- 4535
-Trey:
-- 1552
-Oppligen:
-- 3629
-Puplinge:
-- 1241
-Niederwil SO:
-- 4523
-Chironico:
-- 6747
-Vessy:
-- 1234
-Augst BL:
-- 4302
-Seedorf BE:
-- 3267
-Niederwil SG:
-- 9203
-Kleinandelfingen:
-- 8451
-Dombresson:
-- 2056
-Wittinsburg:
-- 4443
-Malix:
-- 7074
-Arogno:
-- 6822
-Frasnacht:
-- 9320
-Bärau:
-- 3552
-Brittnau:
-- 4805
-Schwenden im Diemtigtal:
-- 3757
-Allmendingen b. Bern:
-- 3112
-Gruben:
-- 3946
-Lausanne:
-- 1000
-- 1011
-- 1010
-- 1007
-- 1006
-- 1005
-- 1004
-- 1003
-- 1018
-- 1015
-- 1012
-Cagiallo:
-- 6955
-Staad SG:
-- 9422
-Les Bayards:
-- 2127
-Courfaivre:
-- 2853
-Giffers:
-- 1735
-Teufen AR:
-- 9053
-Niederglatt SG:
-- 9240
-Ebnet:
-- 6163
-Gadmen:
-- 3863
-Titterten:
-- 4425
-Rümlingen:
-- 4444
-Tüscherz-Alfermée:
-- 2512
-Vulliens:
-- 1085
-Martigny:
-- 1920
-Brütten:
-- 8311
-Grenchen:
-- 2540
-Burgdorf:
-- 3400
-Corban:
-- 2826
-Schlierbach:
-- 6231
-Ganterschwil:
-- 9608
-Zollikofen:
-- 3052
-Eschenbach LU:
-- 6274
-Uetliberg:
-- 8143
-Sonogno:
-- 6637
-Belmont-sur-Lausanne:
-- 1092
-Schuders:
-- 7228
-Vuiteboeuf:
-- 1445
-Tavannes:
-- 2710
-Trin:
-- 7014
-Cumpadials:
-- 7176
-Kägiswil:
-- 6056
-Knonau:
-- 8934
-Felsberg:
-- 7012
-Oberuzwil:
-- 9242
-Hirschthal:
-- 5042
-Courtemautruy:
-- 2950
-Wilen (Gottshaus):
-- 9225
-Pugerna:
-- 6823
-Buch am Irchel:
-- 8414
-Cunter:
-- 7452
-Granges VS:
-- 3977
-Baden:
-- 5400
-- 5404
-Crassier:
-- 1263
-Eschenbach SG:
-- 8733
-Prato-Sornico:
-- 6694
-Thunstetten:
-- 4922
-Ried-Mörel:
-- 3986
-Romanens:
-- 1626
-Echarlens:
-- 1646
-Birrwil:
-- 5708
-Amsoldingen:
-- 3633
-Hinterkappelen:
-- 3032
-Diegten:
-- 4457
-Rheinfelden:
-- 4310
-Ulmiz:
-- 3214
-Cinuos-chel:
-- 7526
-Fenil-sur-Corsier:
-- 1809
-Saanenmöser:
-- 3777
-Tinizong:
-- 7453
-Gretzenbach:
-- 5014
-Les Geneveys-sur-Coffrane:
-- 2206
-Spiringen:
-- 6464
-Saignelégier:
-- 2350
-Glis:
-- 3902
-Hinteregg:
-- 8132
-Le Pont:
-- 1342
-Lauerz:
-- 6424
-Bauen:
-- 6466
-Finsterhennen:
-- 2577
-Bollion:
-- 1470
-Brunegg:
-- 5505
-Romanel-sur-Morges:
-- 1122
-Döttingen:
-- 5312
-St. Margrethenberg:
-- 7313
-Bargen SH:
-- 8233
-Eclagnens:
-- 1376
-Villaraboud:
-- 1679
-Soral:
-- 1286
-Riemenstalden:
-- 6452
-Samnaun-Compatsch:
-- 7562
-Moléson-sur-Gruyères:
-- 1663
-Kriechenwil:
-- 3179
-Villarlod:
-- 1695
-Schindellegi:
-- 8834
-Fiez:
-- 1420
-Latsch:
-- 7484
-Schlieren:
-- 8952
-St. Urban:
-- 4915
-Oberhofen am Thunersee:
-- 3653
-Niederglatt ZH:
-- 8172
-Gy:
-- 1251
-Kilchberg ZH:
-- 8802
-Choëx:
-- 1871
-Ried (Muotathal):
-- 6436
-Lana (Evolène):
-- 1983
-Göschenen:
-- 6487
-Mels:
-- 8887
-Ricketwil (Winterthur):
-- 8352
-Neuenegg:
-- 3176
-Oberarth:
-- 6414
-Davos Platz:
-- 7270
-Tann:
-- 8632
-Reinach BL:
-- 4153
-Pampigny:
-- 1142
-Madetswil:
-- 8322
-Nyon:
-- 1260
-Hägendorf:
-- 4614
-Visperterminen:
-- 3932
-Belp:
-- 3123
-Sachseln:
-- 6072
-Geltwil:
-- 5637
-Coeuve:
-- 2932
-Signau:
-- 3534
-Malans GR:
-- 7208
-Gattikon:
-- 8136
-Wildberg:
+LE BÉMONT:
+- 2360
+MUHEN:
+- 5037
+OBERRIEDEN:
+- 8942
+COURNILLENS:
+- 1784
+BILTEN:
+- 8865
+LEIMBACH TG:
+- 8584
+ESSLINGEN:
+- 8133
+LES REUSSILLES:
+- 2722
+WILDBERG:
 - 8489
-Reinach AG:
-- 5734
-Ebersecken:
-- 6245
-Uebeschi:
-- 3635
-Gempen:
-- 4145
-Walchwil:
-- 6318
-Engelburg:
-- 9032
-Granges-Paccot:
-- 1763
-Longirod:
-- 1261
-Brunnen:
-- 6440
-Conters im Prättigau:
-- 7241
-Cavigliano:
-- 6654
-Ligerz:
-- 2514
-Clarmont:
-- 1127
-Ballens:
-- 1144
-Eggerberg:
-- 3939
-Lütisburg Station:
-- 9601
-St. Ursen:
-- 1717
-Gränichen:
-- 5722
-Campo (Blenio):
-- 6720
-Horn:
-- 9326
-Lax:
-- 3994
-Alpthal:
-- 8849
-Hünenberg See:
-- 6333
-Hagenbuch ZH:
-- 8523
-Fleurier:
-- 2114
-Litzirüti:
-- 7058
-Trub:
-- 3556
-Horw:
-- 6048
-Trun:
-- 7166
-Randogne:
-- 3975
-La Vue-des-Alpes:
-- 2052
-Subingen:
-- 4553
-Breno:
-- 6937
-Rehetobel:
-- 9038
-Sementina:
+FLOND:
+- 7137
+SCHAAN:
+- 9494
+COMBREMONT-LE-PETIT:
+- 1536
+DUGGINGEN:
+- 4202
+LAVIGNY:
+- 1175
+ARCH:
+- 3296
+TSCHAPPINA:
+- 7428
+EBERTSWIL:
+- 8925
+HORNUSSEN:
+- 5075
+BUONAS:
+- 6343
+LES PRÉS-D'ORVIN:
+- 2534
+GATTIKON:
+- 8136
+BIRMENSDORF ZH:
+- 8903
+TEUFFENTHAL B. THUN:
+- 3623
+UTZENSTORF:
+- 3427
+MÔTIER (VULLY):
+- 1787
+PARPAN:
+- 7076
+HÖRI:
+- 8181
+RUSSO:
+- 6662
+ST. ANTONI:
+- 1713
+BURSINS:
+- 1183
+NIEDERRIED B. INTERLAKEN:
+- 3853
+BEINWIL SO:
+- 4229
+SPEICHERSCHWENDI:
+- 9037
+USTER:
+- 8610
+DAILLENS:
+- 1306
+AESCH LU:
+- 6287
+WANZWIL:
+- 3372
+RINIKEN:
+- 5223
+VICQUES:
+- 2824
+MADETSWIL:
+- 8322
+BUTTISHOLZ:
+- 6018
+INNERTKIRCHEN:
+- 3862
+RÖMERSWIL LU:
+- 6027
+GISIKON:
+- 6038
+CHESSEL:
+- 1846
+ANGLIKON:
+- 5611
+BERG AM IRCHEL:
+- 8415
+LA TOUR-DE-PEILZ:
+- 1814
+VILLARS-TIERCELIN:
+- 1058
+PUPLINGE:
+- 1241
+ERLACH:
+- 3235
+BÜLACH:
+- 8180
+ORTSCHWABEN:
+- 3042
+SALORINO:
+- 6872
+TUMEGL/TOMILS:
+- 7418
+ARNEX-SUR-NYON:
+- 1277
+HALLAU:
+- 8215
+MONTMAGNY:
+- 1587
+CASTASEGNA:
+- 7608
+BREMGARTEN B. BERN:
+- 3047
+LAUPERSWIL:
+- 3438
+MEYRIN:
+- 1217
+AEFLIGEN:
+- 3426
+ANDWIL TG:
+- 8586
+DOPPLESCHWAND:
+- 6112
+BUIX:
+- 2925
+STEIN SG:
+- 9655
+VERS-CHEZ-PERRIN:
+- 1551
+UHWIESEN:
+- 8248
+HASLE LU:
+- 6166
+GLION:
+- 1823
+GY:
+- 1251
+FELDBACH:
+- 8714
+UNTERBÄCH VS:
+- 3944
+SCHWERZENBACH:
+- 8603
+MURI AG:
+- 5630
+AGRISWIL:
+- 3216
+GÖSCHENEN:
+- 6487
+ST-CERGUE:
+- 1264
+GRANCY:
+- 1117
+FELDBRUNNEN:
+- 4532
+CONTHEY:
+- 1964
+HÜNTWANGEN:
+- 8194
+BARMELWEID:
+- 5017
+VENS (SEMBRANCHER):
+- 1933
+HESSIGKOFEN:
+- 4577
+ARVIGO:
+- 6543
+ZELG (WOLFHALDEN):
+- 9427
+JUNGFRAUJOCH:
+- 3801
+BÖBIKON:
+- 5334
+RÜMLINGEN:
+- 4444
+PRATTELN:
+- 4133
+LAUENEN B. GSTAAD:
+- 3782
+VILLARS-STE-CROIX:
+- 1029
+SPIRINGEN:
+- 6464
+RÜTLI:
+- 6441
+STETTEN AG:
+- 5608
+ANDWIL SG:
+- 9204
+YVONAND:
+- 1462
+KYBURG:
+- 8314
+AESCH BL:
+- 4147
+FELSBERG:
+- 7012
+EGG SZ:
+- 8847
+GLETTERENS:
+- 1544
+TSCHIERTSCHEN:
+- 7064
+OBERFLACHS:
+- 5108
+HOFSTATT:
+- 6154
+LANA (EVOLÈNE):
+- 1983
+BRENLES:
+- 1683
+MONTREUX:
+- 1820
+TERMEN:
+- 3912
+LES MONTS-DE-PULLY:
+- 1068
+NOVAZZANO:
+- 6883
+WÖLFLINSWIL:
+- 5063
+NEUHAUS SG:
+- 8732
+UEKEN:
+- 5028
+ELFINGEN:
+- 5077
+MADRANO:
+- 6780
+SEDRUN:
+- 7188
+NIEDERTEUFEN:
+- 9052
+FAHRWEID:
+- 8951
+CERNIER:
+- 2053
+CUGNASCO:
+- 6516
+ROMANENS:
+- 1626
+AMSOLDINGEN:
+- 3633
+BRAGGIO:
+- 6544
+RHEINFELDEN:
+- 4310
+GENOLIER:
+- 1272
+BIVIO:
+- 7457
+GSTEIGWILER:
+- 3814
+VIONNAZ:
+- 1895
+VUARMARENS:
+- 1674
+VERGELETTO:
+- 6664
+CHESEAUX-SUR-LAUSANNE:
+- 1033
+CARTIGNY:
+- 1236
+ESTÉVENENS:
+- 1687
+VÉROSSAZ:
+- 1891
+MONTFAVERGIER:
+- 2362
+- 2874
+BURGDORF:
+- 3400
+GACHNANG:
+- 8547
+SCHLIERBACH:
+- 6231
+HELLSAU:
+- 3429
+PRÄZ:
+- 7424
+OBERHOFEN AG:
+- 5273
+NEUENHOF:
+- 5432
+LE PRÉDAME:
+- 2714
+ESSERT-PITTET:
+- 1435
+CASIMA:
+- 6875
+WEESEN:
+- 8872
+OBFELDEN:
+- 8912
+GRANDFONTAINE:
+- 2908
+ICOGNE:
+- 1977
+FONTANEZIER:
+- 1423
+CHÂTILLENS:
+- 1610
+CORSIER GE:
+- 1246
+BURE:
+- 2915
+MOSNANG:
+- 9607
+KIRCHLEERAU:
+- 5054
+GÜTTINGEN:
+- 8594
+RHEINAU:
+- 8462
+MÜNSTERLINGEN:
+- 8596
+CAMPO (VALLEMAGGIA):
+- 6684
+TITTERTEN:
+- 4425
+WANGEN B. OLTEN:
+- 4612
+ZEGLINGEN:
+- 4495
+CHÊNE-BOURG:
+- 1225
+GROSSWANGEN:
+- 6022
+ZUNZGEN:
+- 4455
+COGLIO:
+- 6678
+MURG:
+- 8877
+KULMERAU:
+- 6234
+BUCHS AG:
+- 5033
+VILLARABOUD:
+- 1679
+MÖRIGEN:
+- 2572
+TRÜBBACH:
+- 9477
+STEIN AG:
+- 4332
+ATTIKON:
+- 8544
+GELTERFINGEN:
+- 3126
+FLUMS HOCHWIESE:
+- 8893
+LÜ:
+- 7534
+BEDIGLIORA:
+- 6981
+LE LIGNON:
+- 1219
+BALERNA:
+- 6828
+LES VALETTES (BOVERNIER):
+- 1932
+BÖCKTEN:
+- 4461
+BENNWIL:
+- 4431
+MONTRICHER:
+- 1147
+FRICK:
+- 5070
+SULLENS:
+- 1036
+HORRIWIL:
+- 4557
+BUUS:
+- 4463
+OBSTALDEN:
+- 8758
+WALD AR:
+- 9044
+ROGGWIL TG:
+- 9325
+BOSSONNENS:
+- 1615
+BLEIENBACH:
+- 3368
+COFFRANE:
+- 2207
+HALTEN:
+- 4566
+SAICOURT:
+- 2732
+MITTELHÄUSERN:
+- 3147
+UNDERVELIER:
+- 2863
+EGLISAU:
+- 8193
+SCHLOSSWIL:
+- 3082
+FURNA:
+- 7232
+SAFIEN PLATZ:
+- 7107
+SEMENTINA:
 - 6514
-Brent:
-- 1817
-Au ZH:
-- 8804
-Rapperswil BE:
-- 3255
-Basadingen:
-- 8254
-Bonnefontaine:
-- 1724
-Altendorf:
+FLAWIL:
+- 9230
+BRUGG AG:
+- 5200
+ECLAGNENS:
+- 1376
+LOBSIGEN:
+- 3268
+LA CHAUX-DE-FONDS:
+- 2300
+VÄTTIS:
+- 7315
+SCHAFISHEIM:
+- 5503
+NIEDERLENZ:
+- 5702
+ROGGLISWIL:
+- 6265
+BASSINS:
+- 1269
+NIEDERNEUNFORN:
+- 8525
+EISCHOLL:
+- 3943
+CHAMPOUSSIN:
+- 1873
+ARTH:
+- 6415
+EINIGEN:
+- 3646
+SATIGNY:
+- 1242
+OBERBIPP:
+- 4538
+BONFOL:
+- 2944
+CARENA:
+- 6584
+CHAPELLE (GLÂNE):
+- 1608
+OBERFRITTENBACH:
+- 3551
+BÜRON:
+- 6233
+RICKENBACH B. SCHWYZ:
+- 6432
+MEIKIRCH:
+- 3045
+LADIR:
+- 7155
+PRAGG-JENAZ:
+- 7231
+SCHNAUS:
+- 7130
+SCHWELLBRUNN:
+- 9103
+BUSSWIL TG:
+- 8370
+GRANGES (VEVEYSE):
+- 1614
+VEVEY:
+- 1800
+FISCHBACH-GÖSLIKON:
+- 5525
+DIERIKON:
+- 6036
+LÄNGENBÜHL:
+- 3636
+DEISSWIL B. MÜNCHENBUCHSEE:
+- 3053
+MALVAGLIA:
+- 6713
+BRAUNWALD:
+- 8784
+GOMMISWALD:
+- 8737
+GRÜNENMATT:
+- 3452
+WIEZIKON B. SIRNACH:
+- 8372
+LUTERBACH:
+- 4542
+ZIELEBACH:
+- 4564
+GLAND:
+- 1196
+FISCHBACH LU:
+- 6145
+MAGDEN:
+- 4312
+BOFFLENS:
+- 1353
+GOSSLIWIL:
+- 4579
+ALVANEU BAD:
+- 7473
+UETIKON AM SEE:
+- 8707
+BRETZWIL:
+- 4207
+JONGNY:
+- 1805
+WALCHWIL:
+- 6318
+ICHERTSWIL:
+- 4571
+SCHAFFHAUSEN:
+- 8200
+- 8203
+- 8208
+- 8207
+BIEL/BIENNE:
+- 2504
+- 2503
+- 2502
+- 2500
+- 2505
+TECKNAU:
+- 4492
+CAVERGNO:
+- 6690
+ALTWIS:
+- 6286
+MON:
+- 7458
+STETTFURT:
+- 9507
+STUDEN SZ:
+- 8845
+SIHLBRUGG STATION:
+- 8135
+DINHARD:
+- 8474
+CERNIAT FR:
+- 1654
+HERBETSWIL:
+- 4715
+VILLETTE (LAVAUX):
+- 1096
+STEIN AR:
+- 9063
+MURAZ (COLLOMBEY):
+- 1893
+LA CÔTE-AUX-FÉES:
+- 2117
+FIGINO:
+- 6918
+OBERWIL-LIELI:
+- 8966
+FLURLINGEN:
+- 8247
+AUSWIL:
+- 4944
+PLAN-LES-OUATES:
+- 1228
+EGGERSRIET:
+- 9034
+SAAS-FEE:
+- 3906
+QUINTEN:
+- 8878
+ARVILLARD (SALINS):
+- 1991
+ALTENDORF:
 - 8852
-Oberwil b. Büren:
-- 3298
-Campascio:
-- 7748
-Lignerolle:
-- 1357
-Bern:
+EMMETTEN:
+- 6376
+NESCHWIL:
+- 8484
+BEINWIL AM SEE:
+- 5712
+KIENERSRÜTI:
+- 3628
+DONGIO:
+- 6715
+AFFOLTERN IM EMMENTAL:
+- 3416
+ARZO:
+- 6864
+BUTTIKON SZ:
+- 8863
+MÄRSTETTEN:
+- 8560
+MIDDES:
+- 1749
+COTTENS VD:
+- 1116
+TORRICELLA:
+- 6808
+OBERSCHROT:
+- 1716
+DULLY:
+- 1195
+CHAM:
+- 6330
+DIEMTIGEN:
+- 3754
+LENZERHEIDE/LAI:
+- 7078
+KLOSTERS DORF:
+- 7252
+WENGI B. FRUTIGEN:
+- 3714
+BETTMERALP:
+- 3992
+ENGI:
+- 8765
+PORTO RONCO:
+- 6613
+SALGESCH:
+- 3970
+GÄCHLINGEN:
+- 8214
+TSCHIERV:
+- 7532
+ST. PETERZELL:
+- 9127
+CRUSCH:
+- 7554
+CANOBBIO:
+- 6952
+MUTRUX:
+- 1428
+ROMONT BE:
+- 2538
+LITZIRÜTI:
+- 7058
+TEUFEN ZH:
+- 8428
+NEUCHÂTEL:
+- 2000
+REHETOBEL:
+- 9038
+CHERMIGNON-D'EN-BAS:
+- 3971
+DERENDINGEN:
+- 4552
+ESTAVANNENS:
+- 1665
+POSIEUX:
+- 1725
+VEX:
+- 1981
+RUSWIL:
+- 6017
+ETAGNIÈRES:
+- 1037
+BOWIL:
+- 3533
+LE CERNEUX-PÉQUIGNOT:
+- 2414
+GROSSHÖCHSTETTEN:
+- 3506
+HERRENSCHWANDEN:
+- 3037
+TREY:
+- 1552
+BRÜLISAU:
+- 9058
+HÄGENDORF:
+- 4614
+THALWIL:
+- 8800
+OBERWANGEN B. BERN:
+- 3173
+MÜHLEBERG:
+- 3203
+LANZENHÄUSERN:
+- 3148
+PRATO (LEVENTINA):
+- 6773
+RANFLÜH:
+- 3439
+ZUMIKON:
+- 8126
+LA CROIX-DE-ROZON:
+- 1257
+OBBÜRGEN:
+- 6363
+KNOBLISBÜHL:
+- 8881
+WIKON:
+- 4806
+HASLIBERG WASSERWENDI:
+- 6084
+SCHLIEREN:
+- 8952
+METTMENSTETTEN:
+- 8932
+GANTERSCHWIL:
+- 9608
+MÜHLEHORN:
+- 8874
+BALLWIL:
+- 6275
+NOVILLE:
+- 1845
+TATROZ:
+- 1617
+VILLNACHERN:
+- 5213
+SOBRIO:
+- 6749
+VUCHERENS:
+- 1509
+RIVERA:
+- 6802
+WILEN B. WIL:
+- 9535
+LES SAGNETTES:
+- 2124
+CARABBIA:
+- 6913
+NIEDERURNEN:
+- 8867
+LAURA:
+- 6549
+ERISWIL:
+- 4952
+CORMÉROD:
+- 1721
+FRASNACHT:
+- 9320
+NORÉAZ:
+- 1757
+TRIN MULIN:
+- 7016
+TÄSCH:
+- 3929
+WITTINSBURG:
+- 4443
+WUPPENAU:
+- 9514
+OBERBALM:
+- 3096
+ENNETBADEN:
+- 5408
+UETLIBURG SG:
+- 8738
+TRIN:
+- 7014
+PUGERNA:
+- 6823
+RICKENBACH B. WIL:
+- 9532
+BIASCA:
+- 6710
+ALPTHAL:
+- 8849
+EIGENTHAL:
+- 6013
+ZERNEZ:
+- 7530
+VERCORIN:
+- 3967
+MÜLLIGEN:
+- 5243
+MONTAVON:
+- 2857
+PAZZALLO:
+- 6912
+HEIMISWIL:
+- 3412
+IRAGNA:
+- 6707
+NEUKIRCH AN DER THUR:
+- 9217
+BÄCHLI (HEMBERG):
+- 9633
+UFFIKON:
+- 6253
+SCHENKON:
+- 6214
+ZUZGEN:
+- 4315
+AREZEN:
+- 7104
+BOURRIGNON:
+- 2803
+LE NOIRMONT:
+- 2340
+BRUNEGG:
+- 5505
+BOLLION:
+- 1470
+MONTMELON:
+- 2883
+RICHENTHAL:
+- 6263
+BALSTHAL:
+- 4710
+EPENDES FR:
+- 1731
+VINELZ:
+- 3234
+APROZ (NENDAZ):
+- 1994
+HELLIKON:
+- 4316
+SALAND:
+- 8493
+CHAMPAGNE:
+- 1424
+ARCONCIEL:
+- 1732
+SCHWÄNDI B. SCHWANDEN:
+- 8762
+FRAUENFELD:
+- 8500
+THALHEIM AN DER THUR:
+- 8478
+HAPPERSWIL:
+- 8585
+MIRALAGO:
+- 7743
+SERPIANO:
+- 6867
+CASTEL SAN PIETRO:
+- 6874
+BÜTTIKON AG:
+- 5619
+BOTTMINGEN:
+- 4103
+PECCIA:
+- 6695
+WALTENSCHWIL:
+- 5622
+GIFFERS:
+- 1735
+EISTEN:
+- 3922
+ELM:
+- 8767
+STABIO:
+- 6855
+LE MONT-PÈLERIN:
+- 1801
+BRUDERHOLZ:
+- 4101
+OBERHASLI:
+- 8156
+ALT ST. JOHANN:
+- 9656
+LÜSSLINGEN:
+- 4574
+ZUFIKON:
+- 5621
+SAAS-ALMAGELL:
+- 3905
+PONTE TRESA:
+- 6988
+FIEZ:
+- 1420
+BERLINGEN:
+- 8267
+UNTERSIGGENTHAL:
+- 5417
+VANDOEUVRES:
+- 1253
+GROSSDIETWIL:
+- 6146
+WOHLENSCHWIL:
+- 5512
+ARISDORF:
+- 4422
+HERSBERG:
+- 4423
+THIELLE:
+- 2075
+MÖNTHAL:
+- 5237
+OBERÖNZ:
+- 3363
+MAGLIASO:
+- 6983
+WILDEGG:
+- 5103
+PLAUN DA LEJ:
+- 7517
+LES AVANTS:
+- 1833
+TANN:
+- 8632
+LANTSCH/LENZ:
+- 7083
+AATHAL-SEEGRÄBEN:
+- 8607
+LA HEUTTE:
+- 2604
+ECLÉPENS:
+- 1312
+ST. NIKLAUSEN OW:
+- 6066
+NYON:
+- 1260
+MITLÖDI:
+- 8756
+VILLARS-SUR-GLÂNE:
+- 1752
+CORSIER-SUR-VEVEY:
+- 1804
+DEGEN:
+- 7145
+MUOLEN:
+- 9313
+SCHWARZENBACH (HUTTWIL):
+- 4953
+BRONTALLO:
+- 6692
+SEMIONE:
+- 6714
+OBERNAU:
+- 6012
+EUTHAL:
+- 8844
+ZELL LU:
+- 6144
+RIED (MUOTATHAL):
+- 6436
+STETTEN SH:
+- 8234
+HEILIGENSCHWENDI:
+- 3625
+GOCKHAUSEN:
+- 8044
+TEGNA:
+- 6652
+UNTERSTAMMHEIM:
+- 8476
+RÜTIHOF:
+- 5406
+MAIRENGO:
+- 6763
+HERMANCE:
+- 1248
+WILER B. SEEDORF:
+- 3266
+GLIS:
+- 3902
+HEDINGEN:
+- 8908
+BALLENS:
+- 1144
+BELALP:
+- 3914
+MONETO:
+- 6659
+ENGWANG:
+- 8556
+MARIN-EPAGNIER:
+- 2074
+ROMAINMÔTIER:
+- 1323
+BELLMUND:
+- 2564
+PETIT-MARTEL:
+- 2316
+CHAVANNES-PRÈS-RENENS:
+- 1022
+LUVEN:
+- 7141
+NAX:
+- 1973
+MONTHEROD:
+- 1174
+BIRRWIL:
+- 5708
+BUSSY-CHARDONNEY:
+- 1136
+PFAFFHAUSEN:
+- 8118
+VNÀ:
+- 7557
+GERSAU:
+- 6442
+GENESTRERIO:
+- 6852
+FERLENS VD:
+- 1076
+MÜNCHENWILER:
+- 1797
+ROPRAZ:
+- 1088
+CHARMOILLE:
+- 2947
+BELP:
+- 3123
+SCHAANWALD:
+- 9486
+SALA CAPRIASCA:
+- 6954
+SEEWIS DORF:
+- 7212
+MERGOSCIA:
+- 6647
+LÜTZELFLÜH-GOLDBACH:
+- 3432
+RAMISWIL:
+- 4719
+FLUMSERBERG PORTELS:
+- 8895
+ULISBACH:
+- 9631
+LÉCHELLES:
+- 1773
+DICKEN:
+- 9115
+HÜSWIL:
+- 6152
+MELS:
+- 8887
+LES FRIQUES:
+- 1566
+S. CARLO (POSCHIAVO):
+- 7741
+VILLARS-SOUS-MONT:
+- 1666
+AUGIO:
+- 6547
+DAMPHREUX:
+- 2933
+LULLY VD:
+- 1132
+STAUFEN:
+- 5603
+ZERMATT:
+- 3920
+SCHMITTEN (ALBULA):
+- 7493
+FARVAGNY-LE-PETIT:
+- 1726
+FISLISBACH:
+- 5442
+OSCHWAND:
+- 3476
+DINTIKON:
+- 5606
+SULZBACH:
+- 8614
+EMDTHAL:
+- 3711
+BELLWALD:
+- 3997
+AUSSERBINN:
+- 3995
+VELLA:
+- 7144
+HAGENDORN:
+- 6332
+OBERWANGEN TG:
+- 8374
+SCHMIEDRUED:
+- 5046
+MONNAZ:
+- 1125
+BESENBÜREN:
+- 5627
+BUBIKON:
+- 8608
+LA ROCHE FR:
+- 1634
+HAAG (RHEINTAL):
+- 9469
+MILKEN:
+- 3157
+COLOMBIER VD:
+- 1114
+CHEVILLY:
+- 1316
+MELCHTAL:
+- 6067
+VUGELLES-LA MOTHE:
+- 1431
+HABKERN:
+- 3804
+CAVARDIRAS:
+- 7182
+PONTRESINA:
+- 7504
+ILLIGHAUSEN:
+- 8574
+COURROUX:
+- 2822
+HEIMENHAUSEN:
+- 3373
+MATRAN:
+- 1753
+BERN:
 - 3000
 - 3013
 - 3012
@@ -1936,1119 +2709,809 @@ Bern:
 - 3015
 - 3014
 - 3027
-Wangenried:
-- 3374
-Chur:
-- 7000
-Damvant:
-- 2914
-Lussy FR:
-- 1690
-Maules:
-- 1625
-Buchberg:
-- 8454
-Fahrwangen:
-- 5615
-Le Pâquier-Montbarry:
-- 1661
-Wilderswil:
-- 3812
-Onnens VD:
-- 1425
-Müntschemier:
-- 3225
-Sempach:
-- 6204
-Corcelles-près-Payerne:
-- 1562
-Siglistorf:
-- 5462
-Oberrüti:
-- 5647
-Busswil b. Melchnau:
-- 4917
-Gstaad:
-- 3780
-Boudry:
-- 2017
-Salorino:
-- 6872
-Blauen:
-- 4223
-Meikirch:
-- 3045
-Roche VD:
-- 1852
-Treycovagnes:
-- 1436
-Willadingen:
-- 3425
-La Roche FR:
-- 1634
-Kilchberg BL:
-- 4496
-Neschwil:
-- 8484
-Seltisberg:
-- 4411
-Jouxtens-Mézery:
-- 1008
-Montmagny:
-- 1587
-Salgesch:
-- 3970
-Detligen:
-- 3036
-Mühleberg:
-- 3203
-Le Prese:
-- 7746
-Grafenried:
-- 3308
-Matran:
-- 1753
-Cresta (Avers):
-- 7447
-Lü:
-- 7534
-Nottwil:
-- 6207
-Feldbrunnen:
-- 4532
-Muri b. Bern:
-- 3074
-Buchillon:
-- 1164
-Suchy:
-- 1433
-Gudo:
-- 6515
-Contone:
-- 6594
-Clavaleyres:
-- 1595
-Rufi:
-- 8723
-Souboz:
-- 2748
-Churwalden:
-- 7075
-Sta. Maria Val Müstair:
-- 7536
-Zuzgen:
-- 4315
-Düdingen:
-- 3186
-Villeneuve VD:
-- 1844
-Kienersrüti:
-- 3628
-Zeglingen:
-- 4495
-Niederrohrdorf:
-- 5443
-Erlinsbach:
-- 5018
-Bouloz:
-- 1699
-Vinelz:
-- 3234
-Därstetten:
-- 3763
-Mühlehorn:
-- 8874
-Untersteckholz:
-- 4916
-Au SG:
-- 9434
-Dällikon:
-- 8108
-Seewis Dorf:
-- 7212
-Fanas:
-- 7215
-Hemishofen:
-- 8261
-Senarclens:
-- 1304
-Ebmatingen:
-- 8123
-Riken AG:
-- 4853
-Bruson:
-- 1934
-Golino:
-- 6656
-Mammern:
-- 8265
-Müllheim-Wigoltingen:
-- 8554
-Tägerschen:
-- 9554
-Saas-Balen:
-- 3908
-Cressier FR:
-- 1785
-Moneto:
-- 6659
-Unterlunkhofen:
-- 8918
-Boswil:
-- 5623
-Grellingen:
-- 4203
-Egnach:
-- 9322
-Esslingen:
-- 8133
-Frasses:
-- 1483
-Le Brassus:
-- 1348
-Ferden:
-- 3916
-Pfeffingen:
-- 4148
-Zumholz:
-- 1719
-Niederurnen:
-- 8867
-Léchelles:
-- 1773
-Schöftland:
-- 5040
-Saxeten:
-- 3813
-Bigenthal:
-- 3513
-Samstagern:
-- 8833
-Cries (Vollèges):
-- 1941
-Ried-Brig:
-- 3911
-Eigenthal:
-- 6013
-Wienacht-Tobel:
-- 9405
-Domat/Ems:
-- 7013
-Stadel b. Niederglatt:
-- 8174
-Bussy-sur-Moudon:
-- 1514
-Bioley-Magnoux:
-- 1407
-Seedorf UR:
-- 6462
-Nesslau:
-- 9650
-Henau:
-- 9247
-Bargen BE:
-- 3282
-Hüswil:
-- 6152
-Treiten:
-- 3226
-Montagne-de-Sonvilier:
-- 2615
-Achseten:
-- 3725
-Muttenz:
-- 4132
-Sta. Maria in Calanca:
-- 6541
-Rosshäusern:
-- 3204
-Schwarzhäusern:
-- 4911
-Plagne:
-- 2536
-Bettwiesen:
-- 9553
-Campo (Vallemaggia):
-- 6684
-Kaltbrunn:
-- 8722
-Mâche:
-- 1987
-Istighofen:
-- 8575
-Emmetten:
-- 6376
-Rupperswil:
-- 5102
-Mutten:
-- 7431
-Brüttisellen:
-- 8306
-Lüen:
-- 7027
-Raperswilen:
-- 8558
-Rüti b. Büren:
-- 3295
-Nendeln:
-- 9485
-Tremona:
-- 6865
-Zufikon:
-- 5621
-Champagne:
-- 1424
-Fahy:
-- 2916
-Monnaz:
-- 1125
-Endingen:
-- 5304
-Samedan:
-- 7503
-Chernex:
-- 1822
-Steg im Tösstal:
-- 8496
-Balzers:
-- 9496
-Magglingen/Macolin:
-- 2532
-Koblenz:
-- 5322
-Montagnola:
-- 6926
-Chéserex:
-- 1275
-Ascona:
-- 6612
-Oberhasli:
-- 8156
-Kienberg:
-- 4468
-Rumendingen:
-- 3472
-Thierachern:
-- 3634
-Weisstannen:
-- 7326
-Vicosoprano:
-- 7603
-Schönengrund:
-- 9105
-Duggingen:
-- 4202
-Hausen am Albis:
-- 8915
-Préverenges:
-- 1028
-Lupsingen:
-- 4419
-La Verrerie:
-- 1624
-Cressier NE:
-- 2088
-Oberrindal:
-- 9604
-Klingnau:
-- 5313
-Stettfurt:
-- 9507
-Linescio:
-- 6682
-Steg VS:
-- 3940
-Iseo:
-- 6993
-Vésenaz:
-- 1222
-Rütihof:
-- 5406
-Lenk im Simmental:
-- 3775
-Gerra (Gambarogno):
-- 6576
-Kreuzlingen:
-- 8280
-Kandersteg:
-- 3718
-Flumserberg Portels:
-- 8895
-Chapelle (Broye):
-- 1534
-Céligny:
-- 1298
-Pfäfers:
-- 7312
-Pensier:
-- 1783
-Les Avants:
-- 1833
-Müllheim Dorf:
-- 8555
-Milken:
-- 3157
-Givisiez:
-- 1762
-Hildisrieden:
-- 6024
-Bichelsee:
-- 8363
-Le Bémont JU:
-- 2877
-Amden:
-- 8873
-Soubey:
-- 2887
-Ebertswil:
-- 8925
-Les Tavernes:
-- 1607
-Hilterfingen:
-- 3652
-Ortschwaben:
-- 3042
-Rorschach:
-- 9400
-Eggiwil:
-- 3537
-Oberlunkhofen:
-- 8917
-Villars-Ste-Croix:
-- 1029
-Planken:
-- 9498
-Lodrino:
-- 6527
-Ecublens VD:
-- 1024
-Laupen ZH:
-- 8637
-Bertschikon:
-- 8543
-Merishausen:
-- 8232
-Aetingen:
-- 4587
-Rigi Kaltbad:
-- 6356
-Neukirch an der Thur:
-- 9217
-Gossliwil:
-- 4579
-Zollikerberg:
-- 8125
-Attelwil:
-- 5056
-Reidermoos:
-- 6260
-Unterlangenegg:
-- 3614
-Novazzano:
-- 6883
-St. Antoni:
-- 1713
-Vaux-sur-Morges:
-- 1126
-Morcote:
-- 6922
-Thürnen:
-- 4441
-Rodersdorf:
-- 4118
-Erschwil:
-- 4228
-Stilli:
-- 5233
-Blatten (Lötschen):
-- 3919
-Praden:
-- 7063
-Fahrni b. Thun:
-- 3617
-Diepoldsau:
-- 9444
-Adliswil:
-- 8134
-Luterbach:
-- 4542
-Hochfelden:
-- 8182
-Liddes:
-- 1945
-Gächliwil:
-- 4584
-Emmen:
-- 6032
-Hundwil:
-- 9064
-Dornach:
-- 4143
-Hornussen:
-- 5075
-Flaach:
-- 8416
-Lutzenberg:
-- 9426
-Monthey:
-- 1870
-Campocologno:
-- 7744
-Porza:
-- 6948
-Campsut-Cröt:
-- 7446
-Bursins:
-- 1183
-Le Cerneux-Veusil:
-- 2345
-Villarepos:
-- 1583
-Randa:
-- 3928
-Bonstetten:
-- 8906
-Corbeyrier:
-- 1856
-Bönigen b. Interlaken:
-- 3806
-Rüfenach AG:
-- 5235
-Büsingen:
-- 8238
-Rickenbach BL:
-- 4462
-Braggio:
-- 6544
-Cornaux NE:
-- 2087
-Bremblens:
-- 1121
-Braunwald:
-- 8784
-Duillier:
-- 1266
-Flims Waldhaus:
-- 7018
-Biel-Benken BL:
-- 4105
-Neuchâtel:
-- 2000
-Mumpf:
-- 4322
-Bonaduz:
-- 7402
-Teufenthal AG:
-- 5723
-Pomy:
-- 1405
-Alten:
-- 8453
-Morgins:
-- 1875
-Bolligen:
-- 3065
-Diemtigen:
-- 3754
-Auressio:
-- 6661
-Crusch:
-- 7554
-Jens:
-- 2565
-Seehof:
-- 2747
-Les Collons:
-- 1988
-Gimmelwald:
-- 3826
-Noville:
-- 1845
-Lamboing:
-- 2516
-Bremgarten b. Bern:
-- 3047
-Hellsau:
-- 3429
-Egolzwil:
-- 6243
-Grosshöchstetten:
-- 3506
-Guggisberg:
-- 3158
-Kirchenthurnen:
-- 3128
-Heiligenschwendi:
-- 3625
-Betten:
-- 3991
-Gravesano:
+HORN:
+- 9326
+PONTHAUX:
+- 1772
+NIEDERGÖSGEN:
+- 5013
+ORPUND:
+- 2552
+CUREGGIA:
+- 6963
+TRUB:
+- 3556
+HORW:
+- 6048
+CHAUMONT:
+- 2067
+BARZHEIM:
+- 8241
+LES EMIBOIS:
+- 2338
+GRAVESANO:
 - 6929
-Andiast:
-- 7159
-Syens:
-- 1510
-Sulz LU:
-- 6284
-Oberwil BL:
-- 4104
-Villeneuve FR:
-- 1527
-Schlans:
-- 7168
-Villars-Mendraz:
-- 1061
-Wiezikon b. Sirnach:
-- 8372
-Lömmenschwil:
-- 9308
-Sarnen:
-- 6060
-Seftigen:
-- 3662
-Thalheim an der Thur:
-- 8478
-Rüschegg Gambach:
-- 3153
-Hüniken:
-- 4554
-Inkwil:
-- 3375
-Port:
-- 2562
-Cimo:
-- 6992
-Twann:
-- 2513
-Ruppoldsried:
-- 3251
-Ardon:
-- 1957
-Valangin:
-- 2042
-Oensingen:
+TRUN:
+- 7166
+HÄGGENSCHWIL:
+- 9312
+BOUDEVILLIERS:
+- 2043
+SEUZACH:
+- 8472
+NÄFELS:
+- 8752
+LAMPENBERG:
+- 4432
+OBEREGG:
+- 9413
+WALZENHAUSEN:
+- 9428
+REBEUVELIER:
+- 2832
+TENNIKEN:
+- 4456
+SAULCY:
+- 2873
+ANDEER:
+- 7440
+LUPSINGEN:
+- 4419
+HEERBRUGG:
+- 9435
+BIGLEN:
+- 3507
+MORENS FR:
+- 1541
+CASTIONE:
+- 6532
+SÉVERY:
+- 1141
+GUDO:
+- 6515
+CALONICO:
+- 6746
+CHUR:
+- 7000
+HÜNIBACH:
+- 3626
+LIBINGEN:
+- 9614
+RIEDIKON:
+- 8616
+MADULAIN:
+- 7523
+BRUNNEN:
+- 6440
+VERDASIO:
+- 6655
+MAMMERN:
+- 8265
+EVIONNAZ:
+- 1902
+CHAMPEX-LAC:
+- 1938
+VUFFLENS-LA-VILLE:
+- 1302
+ASCHARINA:
+- 7245
+CONFIGNON:
+- 1232
+ROTHWALD:
+- 3901
+HINTEREGG:
+- 8132
+RIED-BRIG:
+- 3911
+BUCKTEN:
+- 4446
+ZUMHOLZ:
+- 1719
+CORBAN:
+- 2826
+CAPOLAGO:
+- 6825
+RETSCHWIL:
+- 6285
+ERSIGEN:
+- 3423
+UNTERENTFELDEN:
+- 5035
+SAAS-GRUND:
+- 3910
+ECHARLENS:
+- 1646
+DUVIN:
+- 7112
+AEGERTEN:
+- 2558
+LAUFENBURG:
+- 5080
+MAULES:
+- 1625
+DAVOS DORF:
+- 7260
+BAVOIS:
+- 1372
+HERRLIBERG:
+- 8704
+CHAMBRELIEN:
+- 2019
+MEIEN:
+- 6485
+WALDENBURG:
+- 4437
+WASTERKINGEN:
+- 8195
+HOMBERG B. THUN:
+- 3622
+KESTENHOLZ:
+- 4703
+KÜNTEN:
+- 5444
+WÜNNEWIL:
+- 3184
+RUFI:
+- 8723
+DARDAGNY:
+- 1283
+OENSINGEN:
 - 4702
-Hellbühl:
-- 6016
-Halten:
-- 4566
-Aumont:
-- 1484
-Perrefitte:
-- 2742
-Bernex:
-- 1233
-Im Fang:
-- 1656
-Pontenet:
-- 2733
-Cernier:
-- 2053
-Wintersingen:
-- 4451
-Aclens:
-- 1123
-Küsnacht ZH:
-- 8700
-Schleitheim:
-- 8226
-Safenwil:
-- 5745
-Obstalden:
-- 8758
-Ziegelbrücke:
-- 8866
-Promontogno:
-- 7606
-Tobel:
-- 9555
-Camignolo:
-- 6803
-Lüchingen:
-- 9450
-Lavigny:
-- 1175
-Isone:
-- 6810
-Granges (Veveyse):
-- 1614
-Damphreux:
-- 2933
-Eiken:
-- 5074
-Gibswil-Ried:
-- 8498
-Zollikon:
-- 8702
-Medels im Rheinwald:
-- 7436
-Säriswil:
-- 3049
-Unteriberg:
-- 8842
-Merligen:
-- 3658
-Attalens:
-- 1616
-Niederscherli:
-- 3145
-Yvorne:
-- 1853
-Zweidlen:
-- 8192
-Lopagno:
-- 6956
-Kleingurmels:
-- 3212
-Magden:
-- 4312
-Rohr b. Olten:
-- 4655
-Walterswil BE:
-- 4942
-Birrhard:
-- 5244
-Prez-vers-Siviriez:
-- 1677
-Kappelen:
-- 3273
-St-Saphorin-sur-Morges:
-- 1113
-Gunten:
-- 3654
-Vucherens:
-- 1509
-Teufen ZH:
-- 8428
-Ligornetto:
-- 6853
-Zwillikon:
+DIESBACH GL:
+- 8777
+WERMATSWIL:
+- 8615
+MORCOTE:
+- 6922
+TRIESEN:
+- 9495
+BALZERS:
+- 9496
+CHOULEX:
+- 1244
+ZWILLIKON:
 - 8909
-Romont BE:
-- 2538
-Lenzerheide/Lai:
-- 7078
-Kaltenbach:
-- 8259
-Affoltern im Emmental:
-- 3416
-Ballaigues:
-- 1338
-Rickenbach LU:
-- 6221
-Bellach:
-- 4512
-Chavannes-les-Forts:
-- 1676
-Riveo:
-- 6674
-Weiach:
-- 8187
-Autafond:
-- 1782
-Conthey:
-- 1964
-Breil/Brigels:
-- 7165
-Gerlafingen:
-- 4563
-Chanéaz:
-- 1409
-Schongau:
-- 6288
-Mühledorf BE:
-- 3116
-Landschlacht:
-- 8597
-Uttwil:
-- 8592
-Bussy-Chardonney:
-- 1136
-Geuensee:
-- 6232
-Rebstein:
-- 9445
-Cheyres:
-- 1468
-Wittenbach:
-- 9300
-Mönchaltorf:
-- 8617
-Termine:
-- 6998
-Baldegg:
-- 6283
-Heimiswil:
-- 3412
-Riedholz:
-- 4533
-Eichberg:
-- 9453
-Rothenburg:
-- 6023
-Bevaix:
-- 2022
-Studen BE:
-- 2557
-Rocourt:
-- 2907
-Rheinau:
-- 8462
-Riedstätt:
-- 3159
-Nuvilly:
-- 1485
-Cerentino:
-- 6683
-Middes:
-- 1749
-Lugnorre:
-- 1789
-Oetwil am See:
-- 8618
-Schüpfen:
-- 3054
-Rottenschwil:
-- 8919
-Besazio:
-- 6863
-Sattel:
-- 6417
-Dietikon:
-- 8953
-Paspels:
-- 7417
-Ellikon am Rhein:
-- 8464
-Kappel SO:
-- 4616
-Brenles:
-- 1683
-Hüttikon:
-- 8115
-Malvaglia:
-- 6713
-Magnedens:
+MAGNEDENS:
 - 1727
-Rivaz:
-- 1071
-Collonges:
-- 1903
-Yvonand:
-- 1462
-Othmarsingen:
-- 5504
-Carona:
-- 6914
-Obergesteln:
-- 3988
-Wiedlisbach:
-- 4537
-Rüfenacht BE:
-- 3075
-Schwende:
-- 9057
-Marnand:
-- 1524
-Niederstocken:
-- 3632
-Ardez:
-- 7546
-Les Bioux:
-- 1346
-Vaz/Obervaz:
-- 7082
-Riniken:
-- 5223
-Les Verrières:
-- 2126
-Schlatt b. Winterthur:
-- 8418
-Schmitten (Albula):
-- 7493
-Worblaufen:
-- 3048
-Perroy:
-- 1166
-Mariastein:
-- 4115
-Vufflens-le-Château:
-- 1134
-Mellingen:
-- 5507
-Egg (Flawil):
-- 9231
-Meisterschwanden:
-- 5616
-Berlingen:
-- 8267
-Rheinsulz:
-- 5084
-Einigen:
-- 3646
-Ipsach:
-- 2563
-Teuffenthal b. Thun:
-- 3623
-Le Muids:
-- 1273
-Dättwil AG:
-- 5405
-Saas-Fee:
-- 3906
-Weiningen ZH:
-- 8104
-Fregiécourt:
-- 2953
-Chippis:
-- 3965
-Balmberg:
-- 4524
-Fischingen:
-- 8376
-Vallorbe:
-- 1337
-Oberried am Brienzersee:
-- 3854
-Gottlieben:
-- 8274
-Gampelen:
-- 3236
-Riein:
-- 7128
-Lustdorf:
-- 8512
-Hunzenschwil:
-- 5502
-Casaccia:
-- 7602
-Pully:
-- 1009
-Richigen:
-- 3078
-Hallau:
-- 8215
-Iffwil:
-- 3305
-Môtiers NE:
-- 2112
-La Cure:
-- 1265
-Oberterzen:
-- 8884
-Neftenbach:
-- 8413
-Läufelfingen:
-- 4448
-Buttikon SZ:
-- 8863
-Flums:
-- 8890
-Bannwil:
-- 4913
-Bioggio:
-- 6934
-Rothrist:
-- 4852
-Trélex:
-- 1270
-Soulce:
-- 2864
-Schwarzenbach (Huttwil):
-- 4953
-Samnaun Dorf:
-- 7563
-Ponto Valentino:
-- 6724
-Vich:
-- 1267
-Grabserberg:
-- 9472
-Jonen:
-- 8916
-Recherswil:
-- 4565
-Schafhausen im Emmental:
-- 3415
-Ettingen:
-- 4107
-Egliswil:
-- 5704
-Helgisried-Rohrbach:
-- 3155
-Roches BE:
-- 2762
-Rüdtligen:
-- 3422
-Erstfeld:
-- 6472
-Valzeina:
-- 7213
-Rodi-Fiesso:
-- 6772
-Uznach:
-- 8730
-Stehrenberg:
-- 9503
-Neuägeri:
-- 6314
-Mörigen:
-- 2572
-Châtillon JU:
-- 2843
-Oberwangen b. Bern:
-- 3173
-Wängi:
-- 9545
-Soazza:
-- 6562
-Brontallo:
-- 6692
-Le Mont-Pèlerin:
-- 1801
-Matzingen:
+LÜEN:
+- 7027
+RÄMISMÜHLE:
+- 8487
+BELLEVUE:
+- 1293
+RÉCHY:
+- 3966
+KILLWANGEN:
+- 8956
+DAVOS GLARIS:
+- 7277
+UETLIBERG:
+- 8143
+CORGÉMONT:
+- 2606
+ROHR B. OLTEN:
+- 4655
+COLOMBIER NE:
+- 2013
+OBERSAXEN AFFEIER:
+- 7133
+LACONNEX:
+- 1287
+BREMBLENS:
+- 1121
+PRATVAL:
+- 7415
+VERSCIO:
+- 6653
+MUTTENZ:
+- 4132
+WOHLEN AG:
+- 5610
+MEIERSKAPPEL:
+- 6344
+GASENRIED:
+- 3924
+CAMPASCIO:
+- 7748
+CERENTINO:
+- 6683
+LES HAUDÈRES:
+- 1984
+LE MONT-SUR-LAUSANNE:
+- 1052
+OBERUZWIL:
+- 9242
+AESCH ZH:
+- 8904
+ZUZWIL SG:
+- 9524
+WAHLENDORF:
+- 3046
+SAMNAUN-COMPATSCH:
+- 7562
+WETTSWIL:
+- 8907
+ST-OYENS:
+- 1187
+FONTAINES-SUR-GRANDSON:
+- 1421
+BRONSCHHOFEN:
+- 9552
+BRETONNIÈRES:
+- 1329
+GELTWIL:
+- 5637
+AIRE-LA-VILLE:
+- 1288
+LOSTORF:
+- 4654
+COEUVE:
+- 2932
+KIRCHLINDACH:
+- 3038
+ERLENBACH IM SIMMENTAL:
+- 3762
+THÔNEX:
+- 1226
+DIEGTEN:
+- 4457
+DÜRNTEN:
+- 8635
+KÄNERKINDEN:
+- 4447
+SILS/SEGL BASELGIA:
+- 7515
+MATZINGEN:
 - 9548
-Attikon:
-- 8544
-Nebikon:
-- 6244
-Wattenwil:
-- 3665
-Noiraigue:
+GÜMLIGEN:
+- 3073
+FRASSES:
+- 1483
+BITSCH:
+- 3982
+SCHWARZENBURG:
+- 3150
+NOIRAIGUE:
 - 2103
-Edlibach:
-- 6313
-Lavey-les-Bains:
-- 1892
-Alvaschein:
-- 7451
-Lavertezzo:
-- 6633
-Gentilino:
+FAHY:
+- 2916
+APPLES:
+- 1143
+NIEDERWANGEN B. BERN:
+- 3172
+PLANKEN:
+- 9498
+LES DIABLERETS:
+- 1865
+MINUSIO:
+- 6648
+ARNEX-SUR-ORBE:
+- 1321
+BREITENBACH:
+- 4226
+WILCHINGEN:
+- 8217
+BRISTEN:
+- 6475
+GISWIL:
+- 6074
+BRUZELLA:
+- 6837
+OBERWENINGEN:
+- 8165
+VILLARS-MENDRAZ:
+- 1061
+CUNTER:
+- 7452
+MONTSEVELIER:
+- 2828
+BUCH SH:
+- 8263
+RÜEDISBACH:
+- 3474
+SAVOSA:
+- 6942
+BOVERESSE:
+- 2113
+ETZGEN:
+- 5275
+RIFFERSWIL:
+- 8911
+BUCH B. FRAUENFELD:
+- 8524
+HUNDWIL:
+- 9064
+SCHLOSSRUED:
+- 5044
+WAHLEN B. LAUFEN:
+- 4246
+ZIHLSCHLACHT:
+- 8588
+VERNAMIÈGE:
+- 1961
+STALDENRIED:
+- 3933
+LACHEN SZ:
+- 8853
+BELPBERG:
+- 3124
+GENTILINO:
 - 6925
-Genève:
-- 1206
-- 1205
-- 1204
-- 1203
-- 1202
-- 1201
-- 1200
-- 1209
-- 1208
-- 1207
-Cama:
-- 6557
-Niederönz:
+BUTTES:
+- 2115
+ISEO:
+- 6993
+GÜMMENEN:
+- 3205
+PFÄFFIKON SZ:
+- 8808
+EGGIWIL:
+- 3537
+FEX:
+- 7514
+NUSSBAUMEN TG:
+- 8537
+FEY:
+- 1044
+MÜHLRÜTI:
+- 9613
+STANS:
+- 6370
+BÜSSERACH:
+- 4227
+REKINGEN AG:
+- 5332
+CHERNEX:
+- 1822
+SCHWADERLOCH:
+- 5326
+LES PACCOTS:
+- 1619
+OBERGOLDBACH:
+- 3434
+OBERBÜTSCHEL:
+- 3088
+FEUSISBERG:
+- 8835
+LÜCHINGEN:
+- 9450
+ORIGLIO:
+- 6945
+SCHÖNENBERG AN DER THUR:
+- 9215
+ST-GINGOLPH:
+- 1898
+MONTHEY:
+- 1870
+TERSNAUS:
+- 7116
+ZIZERS:
+- 7205
+PREMIER:
+- 1324
+WATTENWIL:
+- 3665
+GRUND B. GSTAAD:
+- 3783
+MELLINGEN:
+- 5507
+HENDSCHIKEN:
+- 5604
+TUGGEN:
+- 8856
+RINGGENBERG BE:
+- 3852
+WEINFELDEN:
+- 8570
+DOTTIKON:
+- 5605
+KERNENRIED:
+- 3309
+STA. MARIA IN CALANCA:
+- 6541
+MEISTERSCHWANDEN:
+- 5616
+ALLENWINDEN:
+- 6319
+HINTERFULTIGEN:
+- 3089
+MUNTELIER:
+- 3286
+RÜDTLIGEN:
+- 3422
+TAVANASA:
+- 7162
+REGENSBERG:
+- 8158
+POMY:
+- 1405
+LAUSEN:
+- 4415
+LODRINO:
+- 6527
+ENGELBURG:
+- 9032
+NIEDERÖNZ:
 - 3362
-Satigny:
-- 1242
-Gontenbad:
+STETTLEN:
+- 3066
+FRILTSCHEN:
+- 9504
+CHIRONICO:
+- 6747
+LA CHAUX (COSSONAY):
+- 1308
+ADLIGENSWIL:
+- 6043
+OBERWIL B. ZUG:
+- 6317
+BROT-PLAMBOZ:
+- 2318
+RHEINSULZ:
+- 5084
+LE FUET:
+- 2712
+SCHLATTINGEN:
+- 8255
+UNTERWASSER:
+- 9657
+HEIMISBACH:
+- 3453
+BRUSON:
+- 1934
+TRIESENBERG:
+- 9497
+TIEFENCASTEL:
+- 7450
+RUSSIKON:
+- 8332
+KIRCHDORF AG:
+- 5416
+LA NEUVEVILLE:
+- 2520
+S. ANTONIO (VAL MOROBBIA):
+- 6583
+ST-BARTHÉLEMY VD:
+- 1040
+MÔTIERS NE:
+- 2112
+HERMRIGEN:
+- 3274
+TREYTORRENS (PAYERNE):
+- 1538
+AUTAVAUX:
+- 1475
+BELPRAHON:
+- 2744
+CRISSIER:
+- 1023
+MATTSTETTEN:
+- 3322
+FELBEN-WELLHAUSEN:
+- 8552
+PRODUIT (LEYTRON):
+- 1912
+MARNAND:
+- 1524
+RÜDLINGEN:
+- 8455
+ERMATINGEN:
+- 8272
+HOHTENN:
+- 3949
+PAYERNE:
+- 1530
+GAMSEN:
+- 3900
+GONTENBAD:
 - 9108
-Savognin:
-- 7460
-Gingins:
-- 1276
-Croy:
-- 1322
-Meyrin:
-- 1217
-Ried (Frutigen):
-- 3724
-Les Clées:
-- 1356
-Untersiggenthal:
-- 5417
-Corcelles-sur-Chavornay:
-- 1374
-Susch:
-- 7542
-Maroggia:
-- 6817
-Rechthalten:
-- 1718
-Gettnau:
-- 6142
-Schattdorf:
+VILLARS-SUR FONTENAIS:
+- 2903
+HERMETSCHWIL-STAFFELN:
+- 5626
+BURG IM LEIMENTAL:
+- 4117
+SELTISBERG:
+- 4411
+GYSENSTEIN:
+- 3503
+BÜHLER:
+- 9055
+WALLBACH:
+- 4323
+MONTPREVEYRES:
+- 1081
+LANGENDORF:
+- 4513
+GRELLINGEN:
+- 4203
+JENS:
+- 2565
+BONCOURT:
+- 2926
+FONTNAS:
+- 9476
+COLOGNY:
+- 1223
+WINKEL:
+- 8185
+OULENS-SUR-LUCENS:
+- 1522
+AESCHAU:
+- 3536
+CAMISCHOLAS:
+- 7187
+KIENTAL:
+- 3723
+CORCELLES-PRÈS-PAYERNE:
+- 1562
+MEGGEN:
+- 6045
+BRIONE SOPRA MINUSIO:
+- 6645
+JONSCHWIL:
+- 9243
+WILLERZELL:
+- 8846
+OPPENS:
+- 1047
+URNÄSCH:
+- 9107
+CRESTA (AVERS):
+- 7447
+NUNNINGEN:
+- 4208
+HOFSTETTEN B. BRIENZ:
+- 3858
+MAIENFELD:
+- 7304
+FÜRSTENAUBRUCK:
+- 7413
+RÖTHENBACH IM EMMENTAL:
+- 3538
+WYSSACHEN:
+- 4954
+WIDNAU:
+- 9443
+DÄTTLIKON:
+- 8421
+VALZEINA:
+- 7213
+MONTENOL:
+- 2884
+SCHATTDORF:
 - 6467
-Zuoz:
-- 7524
-Les Brenets:
-- 2416
-Boll:
-- 3067
-Bellinzona:
-- 6500
-- 6503
-Altishofen:
-- 6246
-Güttingen:
-- 8594
-Homburg:
-- 8508
-Schwändi b. Schwanden:
-- 8762
-Bättwil:
-- 4112
-Tenna:
-- 7106
-Realp:
-- 6491
-Rümlang:
-- 8153
-Splügen:
-- 7435
-Wimmis:
-- 3752
-Mägenwil:
-- 5506
-St. Margarethen TG:
-- 9543
-Weiningen TG:
-- 8532
-Hagendorn:
-- 6332
-Villigen:
-- 5234
-Rüegsau:
-- 3417
-Dangio-Torre:
-- 6717
-Riederalp:
-- 3987
-Montmelon:
-- 2883
-Liesberg Dorf:
-- 4254
-Mon:
-- 7458
-Mols:
-- 8885
-Fisibach:
-- 5467
-St. Stephan:
-- 3772
-Riffenmatt:
-- 3156
-Isenfluh:
-- 3822
-Schmerikon:
-- 8716
-Rohrbachgraben:
-- 4938
-Radelfingen b. Aarberg:
-- 3271
-Lentigny:
-- 1745
-Flendruz:
-- 1659
-Langwiesen:
-- 8246
-Posieux:
-- 1725
-Lutry:
-- 1095
-St. Gallen:
+HUMLIKON:
+- 8457
+DÜRRENROTH:
+- 3465
+MADONNA DEL PIANO:
+- 6995
+VUIPPENS:
+- 1633
+CIMO:
+- 6992
+KALTBACH:
+- 6212
+DÜRRENÄSCH:
+- 5724
+SCHLATT B. WINTERTHUR:
+- 8418
+PORT:
+- 2562
+FELDIS/VEULDEN:
+- 7404
+SCHÖFTLAND:
+- 5040
+ITTENTHAL:
+- 5083
+GLURINGEN:
+- 3998
+COURTEDOUX:
+- 2905
+LE GRAND-SACONNEX:
+- 1218
+MURIST:
+- 1489
+MURI B. BERN:
+- 3074
+EMMENMATT:
+- 3543
+CHEVENEZ:
+- 2906
+HABSBURG:
+- 5245
+ZUZWIL BE:
+- 3303
+ISOLE DI BRISSAGO:
+- 6614
+PIANEZZO:
+- 6582
+HOLDERBANK SO:
+- 4718
+RÜTTENEN:
+- 4522
+STEG VS:
+- 3940
+CORSEREY:
+- 1747
+WINTERSINGEN:
+- 4451
+LIEBISTORF:
+- 3213
+L'ABBAYE:
+- 1344
+SCHLANS:
+- 7168
+FÉTIGNY:
+- 1532
+JURIENS:
+- 1326
+MÉNIÈRES:
+- 1533
+STADEL B. NIEDERGLATT:
+- 8174
+LIGNIÈRES:
+- 2523
+DIETERSWIL:
+- 3256
+EFFINGEN:
+- 5078
+LA VUE-DES-ALPES:
+- 2052
+NEU ST. JOHANN:
+- 9652
+RÜTI B. RIGGISBERG:
+- 3099
+OBERRINDAL:
+- 9604
+PLATTA:
+- 7185
+OTTOBERG:
+- 8561
+CADENAZZO:
+- 6593
+BRAIL:
+- 7527
+MÉZIÈRES VD:
+- 1083
+HÜNIKEN:
+- 4554
+CHAMP-DU-MOULIN:
+- 2149
+NIEDERBÜREN:
+- 9246
+HORBODEN:
+- 3755
+CHANCY:
+- 1284
+BÄCH SZ:
+- 8806
+FREIENSTEIN:
+- 8427
+RÜMIKON AG:
+- 5464
+ROCOURT:
+- 2907
+FORCH:
+- 8127
+VOLKETSWIL:
+- 8604
+ENGGISTEIN:
+- 3077
+SCHÖNRIED:
+- 3778
+FEHRALTORF:
+- 8320
+WAUWIL:
+- 6242
+OEY:
+- 3753
+MONIBLE:
+- 2715
+OTHMARSINGEN:
+- 5504
+VORDERTHAL:
+- 8857
+DOTZIGEN:
+- 3293
+CORNOL:
+- 2952
+ESCHERT:
+- 2743
+HERMENCHES:
+- 1513
+NIEDERGESTELN:
+- 3942
+FEUTERSOEY:
+- 3784
+HOCHDORF:
+- 6280
+BOSWIL:
+- 5623
+SPIEGEL B. BERN:
+- 3095
+DREIEN:
+- 9612
+MAGADINO:
+- 6573
+BUCHEN IM PRÄTTIGAU:
+- 7223
+OBERWIL B. BÜREN:
+- 3298
+SEVGEIN:
+- 7127
+PIAZZOGNA:
+- 6579
+GRANGES-PRÈS-MARNAND:
+- 1523
+DORÉNAZ:
+- 1905
+POMPAPLES:
+- 1318
+DIEPOLDSAU:
+- 9444
+RIEDTWIL:
+- 3475
+MONTE CARASSO:
+- 6513
+ANIÈRES:
+- 1247
+HOFSTETTEN ZH:
+- 8354
+LE BRASSUS:
+- 1348
+KESSWIL:
+- 8593
+BOULOZ:
+- 1699
+BONADUZ:
+- 7402
+CHEIRY:
+- 1529
+CORTAILLOD:
+- 2016
+OBERHOF:
+- 5062
+HELDSWIL:
+- 9216
+BERGDIETIKON:
+- 8962
+ABTWIL AG:
+- 5646
+PENTHÉRÉAZ:
+- 1375
+HERDERN:
+- 8535
+ARANNO:
+- 6994
+SCHÜPFHEIM:
+- 6170
+ERLENBACH ZH:
+- 8703
+MATTEN (ST. STEPHAN):
+- 3773
+ESCHENZ:
+- 8264
+GURTNELLEN:
+- 6482
+JENAZ:
+- 7233
+HÄRKINGEN:
+- 4624
+FRUTHWILEN:
+- 8269
+MORLON:
+- 1638
+BUTTWIL:
+- 5632
+BELLACH:
+- 4512
+VAUX-SUR-MORGES:
+- 1126
+LUTZENBERG:
+- 9426
+ST. GALLEN:
 - 9007
 - 9008
 - 9000
@@ -3058,974 +3521,2449 @@ St. Gallen:
 - 9016
 - 9010
 - 9011
-Alle:
-- 2942
-Niederhünigen:
-- 3504
-Aranno:
-- 6994
-Surcuolm:
-- 7138
-Niederwald:
-- 3989
-Schwendi im Weisstannental:
-- 7325
-Utzigen:
-- 3068
-Anzonico:
-- 6748
-Eyholz:
-- 3930
-Oeschseite:
-- 3776
-Thalwil:
-- 8800
-Valchava:
-- 7535
-Castagnola:
-- 6976
-Luthern Bad:
-- 6156
-Chez-le-Bart:
-- 2025
-Niederuzwil:
-- 9244
-Bottenwil:
-- 4814
-St-Ursanne:
-- 2882
-Trubschachen:
-- 3555
-Confignon:
-- 1232
-Eriswil:
-- 4952
-Echichens:
-- 1112
-Pfaffnau:
-- 6264
-Schelten:
-- 2827
-Degersheim:
-- 9113
-Cointrin:
-- 1216
-Herzogenbuchsee:
-- 3360
-Epautheyres:
-- 1417
-Montmollin:
-- 2037
-Stugl/Stuls:
-- 7482
-Quinten:
-- 8878
-S. Benedetg:
-- 7174
-Pfeffikon LU:
-- 5735
-Retschwil:
-- 6285
-Heerbrugg:
-- 9435
-Broglio:
-- 6693
-Urmein:
-- 7427
-Vex:
-- 1981
-Fraubrunnen:
-- 3312
-Schüpfheim:
-- 6170
-Bellelay:
-- 2713
-Selma:
-- 6545
-Müstair:
-- 7537
-Montenol:
-- 2884
-Montagny-la-Ville:
-- 1776
-Siviriez:
-- 1678
-Ascharina:
-- 7245
-Montherod:
-- 1174
-Rapperswil SG:
-- 8640
-Wolfertswil:
-- 9116
-Diesse:
-- 2517
-Les Agettes:
-- 1992
-Vasön:
-- 7317
-Segnas:
-- 7186
-Nidfurn:
-- 8772
-Willisau:
-- 6130
-Heitenried:
-- 1714
-Burg im Leimental:
-- 4117
-Studen SZ:
-- 8845
-Vaumarcus:
-- 2028
-Necker:
-- 9126
-Habsburg:
-- 5245
-Caux:
-- 1824
-Rüti b. Riggisberg:
-- 3099
-Walterswil SO:
-- 5746
-Ranzo:
-- 6577
-Bauma:
-- 8494
-S. Antonino:
-- 6592
-Hergiswil NW:
-- 6052
-Bidogno:
-- 6958
-Andwil SG:
-- 9204
-Kastanienbaum:
-- 6047
-Carrouge VD:
-- 1084
-Fidaz:
-- 7019
-La Tanne:
-- 2720
-Altbüron:
-- 6147
-Lüscherz:
-- 2576
-Mont-de-Buttes:
-- 2116
-Praz (Vully):
-- 1788
-Himmelried:
-- 4204
-St-Triphon:
+PFUNGEN:
+- 8422
+REIDERMOOS:
+- 6260
+LIDDES:
+- 1945
+CORNAUX NE:
+- 2087
+LES BAYARDS:
+- 2127
+DAVOS MONSTEIN:
+- 7278
+HOLDERBANK AG:
+- 5113
+PEIDEN:
+- 7110
+ST-TRIPHON:
 - 1867
-Wisen SO:
-- 4634
-Ravoire:
-- 1928
-Clèbes (Nendaz):
-- 1993
-Cimadera:
-- 6959
-Andwil TG:
-- 8586
-Corgémont:
-- 2606
-Hölstein:
-- 4434
-Corippo:
-- 6631
-Coglio:
-- 6678
-Prévondavaux:
-- 1410
-Genthod:
-- 1294
-Haslen AI:
-- 9054
-Schlosswil:
-- 3082
-Kaisten:
-- 5082
-Les Granges (Salvan):
-- 1922
-Moleno:
-- 6524
-Rueras:
-- 7189
-Effingen:
-- 5078
-Manno:
-- 6928
-Steinhausen:
-- 6312
-Sagogn:
-- 7152
-Tägerig:
-- 5522
-Corbières:
-- 1647
-Horboden:
-- 3755
-Kleindietwil:
-- 4936
-Lindau:
-- 8315
-Vogorno:
-- 6632
-Waltenschwil:
-- 5622
-Muhen:
-- 5037
-Uster:
-- 8610
-Comano:
-- 6949
-Alikon:
-- 5643
-Champéry:
-- 1874
-Schötz:
-- 6247
-Sornetan:
-- 2716
-Wildegg:
-- 5103
-Penthalaz:
-- 1305
-Intschi:
-- 6476
-Rämismühle:
-- 8487
-Linden:
-- 3673
-Bretigny-sur-Morrens:
-- 1053
-Bedigliora:
-- 6981
-Brügglen:
-- 4582
-Venthône:
-- 3973
-Le Sépey:
-- 1863
-Niederrickenbach:
-- 6383
-Cudrefin:
-- 1588
-Benken ZH:
-- 8463
-Niederlenz:
-- 5702
-Massongex:
-- 1869
-Engwang:
-- 8556
-Vuarrens:
-- 1418
-Petit-Martel:
-- 2316
-Chevenez:
-- 2906
-Ufhusen:
-- 6153
-Gasenried:
-- 3924
-Kloten:
-- 8302
-Signèse (Ayent):
-- 1966
-La Chaux-du-Milieu:
-- 2405
-Büttikon AG:
-- 5619
-Schwaderloch:
-- 5326
-Russo:
-- 6662
-Vättis:
-- 7315
-Sergey:
-- 1355
-Dommartin:
-- 1041
-Leggia:
-- 6556
-Sommeri:
-- 8580
-Quarten:
-- 8883
-Elm:
-- 8767
-Gähwil:
-- 9534
-Le Châtelard-près-Romont:
-- 1689
-Oberfrittenbach:
-- 3551
-Vers-chez-Perrin:
-- 1551
-Schönried:
-- 3778
-Montagne-de-Courtelary:
-- 2608
-Seewen SO:
-- 4206
-Steinmaur:
-- 8162
-Marin-Epagnier:
-- 2074
-Rhäzüns:
-- 7403
-Romainmôtier:
-- 1323
-Grünenmatt:
-- 3452
-Vattiz:
-- 7146
-Seewen SZ:
-- 6423
-Humlikon:
-- 8457
-Burtigny:
-- 1268
-Islisberg:
-- 8905
-Haslen GL:
-- 8773
-Montricher:
-- 1147
-Cormondrèche:
-- 2036
-Bougy-Villars:
-- 1172
-Seelisberg:
-- 6377
-Thielle:
-- 2075
-Aubonne:
-- 1170
-Magadino:
-- 6573
-Seeberg:
-- 3365
-Prangins:
-- 1197
-Vallon:
-- 1565
-Gossau ZH:
-- 8625
-Cerniat FR:
-- 1654
-Langenthal:
-- 4900
-Innerberg:
-- 3044
-Mettlen:
-- 9517
-Hinterrhein:
-- 7438
-Sarmenstorf:
-- 5614
-Glion:
-- 1823
-Rossemaison:
-- 2842
-Eptingen:
-- 4458
-Klöntal:
-- 8750
-Wangen SZ:
-- 8855
-Vico Morcote:
-- 6921
-Martigny-Croix:
-- 1921
-Nax:
-- 1973
-Aegerten:
-- 2558
-Flamatt:
-- 3175
-Vnà:
-- 7557
-Brienz/Brinzauls GR:
-- 7084
-Insone:
-- 6951
-Siat:
-- 7157
-Rüschlikon:
-- 8803
-Scharans:
+LOHN-AMMANNSEGG:
+- 4573
+LES POMMERATS:
+- 2353
+HEILIGKREUZ (MELS):
+- 8888
+NIDFURN:
+- 8772
+VILLARS-SOUS-YENS:
+- 1168
+SCHARANS:
 - 7412
-Lugano:
-- 6900
-Häfelfingen:
-- 4445
-Davesco-Soragno:
-- 6964
-Anzère:
-- 1972
-Hospental:
-- 6493
-Trachselwald:
-- 3456
-Mönthal:
-- 5237
-Vrin:
-- 7149
-Waltensburg/Vuorz:
-- 7158
-Ormalingen:
-- 4466
-Rütli:
-- 6441
-Scherz:
-- 5246
-Astano:
-- 6999
-Ergisch:
-- 3947
-Heiden:
-- 9410
-Corseaux:
-- 1802
-Mitlödi:
-- 8756
-Dottikon:
-- 5605
-Vilters:
-- 7324
-Häggenschwil:
-- 9312
-Wilchingen:
-- 8217
-Chêne-Bougeries:
-- 1224
-Mesocco:
-- 6563
-Tenero:
-- 6598
-Freimettigen:
-- 3510
-Gluringen:
-- 3998
-Appenzell Eggerstanden:
-- 9050
-Dardin:
-- 7164
-Mutrux:
-- 1428
-Bionnens:
-- 1670
-Plan-les-Ouates:
-- 1228
-Cottens VD:
-- 1116
-Miglieglia:
-- 6986
-Ueken:
-- 5028
-Waldhäusern AG:
-- 5624
-Villarvolard:
-- 1651
-Kleinlützel:
-- 4245
-Bivio:
-- 7457
-Prahins:
-- 1408
-Bottighofen:
-- 8598
-Münchenwiler:
-- 1797
-Rüdlingen:
-- 8455
-Herrenschwanden:
-- 3037
-Dongio:
-- 6715
-Davos Glaris:
-- 7277
-S. Pietro:
-- 6854
-Vendlincourt:
-- 2943
-Hinterfultigen:
-- 3089
-Oberrieden:
-- 8942
-Biembach im Emmental:
-- 3419
-Bettens:
-- 1042
-Horgenberg:
-- 8815
-Boncourt:
-- 2926
-Ftan:
-- 7551
-Vals:
-- 7132
-Rüttenen:
-- 4522
-Ammerzwil BE:
-- 3257
-Etzgen:
-- 5275
-Buseno:
-- 6542
-Lustmühle:
-- 9062
-Saas-Almagell:
-- 3905
-Bubikon:
-- 8608
-Bruzella:
-- 6837
-Frümsen:
-- 9467
-Emmenmatt:
-- 3543
-Wyssachen:
-- 4954
-Gipf-Oberfrick:
-- 5073
-Sigigen:
-- 6019
-Richterswil:
-- 8805
-Châbles FR:
-- 1474
-Gontenschwil:
-- 5728
-Riddes:
-- 1908
-Hasliberg Wasserwendi:
-- 6084
-Nunningen:
-- 4208
-Füllinsdorf:
-- 4414
-Montalchez:
-- 2027
-St-Sulpice NE:
-- 2123
-Goppenstein:
-- 3917
-St-Gingolph:
-- 1898
-Maienfeld:
-- 7304
-Jona:
-- 8645
-Noréaz:
-- 1757
-Fischenthal:
-- 8497
-Emdthal:
-- 3711
-Liestal:
-- 4410
-Täsch:
-- 3929
-Ménières:
-- 1533
-Aquila:
-- 6719
-Brügg BE:
-- 2555
-Erlinsbach SO:
-- 5015
-Morbio Inferiore:
-- 6834
-Euthal:
-- 8844
-Scheid:
-- 7419
-Leukerbad:
-- 3954
-Feuerthalen:
-- 8245
-Meyriez:
-- 3280
-Rossens FR:
-- 1728
-Bellerive VD:
-- 1585
-Roche-d'Or:
-- 2912
-Le Bémont:
-- 2360
-Bülach:
-- 8180
-Neuhausen am Rheinfall:
-- 8212
-Fideris:
-- 7235
-Frick:
-- 5070
-St-Aubin-Sauges:
-- 2024
-Prez-vers-Noréaz:
-- 1746
-Montpreveyres:
-- 1081
-Weier im Emmental:
-- 3462
-St-Légier-La Chiésaz:
-- 1806
-Greppen:
-- 6404
-Furna:
-- 7232
-Torgon:
-- 1899
-Unterstammheim:
-- 8476
-Rothenhausen:
-- 9565
-Lufingen:
-- 8426
-Fankhaus (Trub):
-- 3557
-Rietheim:
-- 5323
-Steinebrunn:
-- 9314
-Liez (St-Martin):
-- 1969
-Preonzo:
-- 6523
-Kaiserstuhl AG:
-- 5466
-Parpan:
-- 7076
-Dättlikon:
-- 8421
-Wenslingen:
-- 4493
-Obermumpf:
-- 4324
-Pompaples:
-- 1318
-Büron:
-- 6233
-Gumefens:
-- 1643
-Ladir:
-- 7155
-Buckten:
-- 4446
-Riehen:
-- 4125
-Grangettes-près-Romont:
-- 1686
-Savagnier:
-- 2065
-Quartino:
-- 6572
-Vevey:
-- 1800
-Jonschwil:
-- 9243
-Aarburg:
-- 4663
-Hofen SH:
-- 8242
-Emmenbrücke:
-- 6020
-Athenaz (Avusy):
-- 1285
-Boningen:
-- 4618
-La Tzoumaz:
-- 1918
-Versoix:
-- 1290
-Le Prédame:
-- 2714
-Arvillard (Salins):
-- 1991
-Wiler (Lötschen):
-- 3918
-Gland:
-- 1196
-Soglio:
-- 7610
-Boppelsen:
-- 8113
-Lüsslingen:
-- 4574
-Ermenswil:
-- 8734
-Oberurnen:
-- 8868
-Buttisholz:
-- 6018
-Hermrigen:
-- 3274
-Härkingen:
-- 4624
-Vullierens:
-- 1115
-Muri AG:
-- 5630
-Champfèr:
-- 7512
-Hauptwil:
-- 9213
-Unterengstringen:
-- 8103
-Cadenazzo:
-- 6593
-Bourg-St-Pierre:
-- 1946
-Les Cullayes:
-- 1080
-Oberembrach:
-- 8425
-Wald AR:
-- 9044
-Auvernier:
-- 2012
-Arconciel:
-- 1732
-Isenthal:
-- 6461
-Les Diablerets:
-- 1865
-Surava:
-- 7472
-Fontaines NE:
-- 2046
-Reichenbach im Kandertal:
-- 3713
-Staufen:
-- 5603
-Wallbach:
-- 4323
-Engollon:
-- 2063
-Commugny:
+ABLÄNDSCHEN:
+- 1657
+LEUZIGEN:
+- 3297
+COMMUGNY:
 - 1291
-Sion:
-- 1950
-Mauren TG:
-- 8576
-Champlan (Grimisuat):
-- 1971
-Wittnau:
-- 5064
-Castel San Pietro:
-- 6874
-St-Sulpice VD:
-- 1025
-Wiesendangen:
-- 8542
-La Croix-de-Rozon:
-- 1257
-La Rippe:
-- 1278
-Leimbach TG:
-- 8584
-Dachsen:
-- 8447
-Essertes:
-- 1078
-Wohlen b. Bern:
-- 3033
-Russikon:
-- 8332
-Piazzogna:
-- 6579
-Hettenschwil:
-- 5317
-Bernhardzell:
-- 9304
-Zwingen:
-- 4222
-Zuzwil BE:
-- 3303
-Oberflachs:
-- 5108
-Les Evouettes:
-- 1897
-Silenen:
-- 6473
-Chiasso:
-- 6830
-Rutschwil (Dägerlen):
-- 8471
-Sennhof (Winterthur):
-- 8482
-Mont-Soleil:
-- 2610
-Barmelweid:
-- 5017
-Hüntwangen:
-- 8194
-Mamishaus:
-- 3152
-Dully:
-- 1195
-Caslano:
-- 6987
-Oberiberg:
-- 8843
-Sils/Segl Baselgia:
-- 7515
-Grancy:
-- 1117
-Klosters Dorf:
-- 7252
-Fex:
-- 7514
-Fey:
-- 1044
-Les Acacias:
-- 1227
-Le Crêt-du-Locle:
-- 2322
-Le Solliat:
-- 1347
-Riedtwil:
-- 3475
-Gunzwil:
-- 6222
-Gossau SG:
-- 9200
-Dürnten:
-- 8635
-Sempach Station:
-- 6203
-Kestenholz:
-- 4703
-Leontica:
+EPENDES VD:
+- 1434
+ANDERMATT:
+- 6490
+CHÊNE-PÂQUIER:
+- 1464
+SONCEBOZ-SOMBEVAL:
+- 2605
+MÜRREN:
+- 3825
+COURCHAVON:
+- 2922
+BESAZIO:
+- 6863
+KLOSTER FAHR:
+- 8109
+ZUOZ:
+- 7524
+RÜEGSAU:
+- 3417
+COLLEX:
+- 1239
+NÄNIKON:
+- 8606
+ENNETBÜRGEN:
+- 6373
+PLONS:
+- 8889
+TURGI:
+- 5300
+KÜTTIGKOFEN:
+- 4581
+CHAILLY-MONTREUX:
+- 1816
+WANGS:
+- 7323
+HASLEN GL:
+- 8773
+KNONAU:
+- 8934
+FIESCHERTAL:
+- 3984
+UITIKON WALDEGG:
+- 8142
+LIENZ:
+- 9464
+COLLONGE-BELLERIVE:
+- 1245
+CAMA:
+- 6557
+WALTALINGEN:
+- 8468
+VICH:
+- 1267
+HOFSTETTEN SO:
+- 4114
+DALPE:
+- 6774
+SOUBEY:
+- 2887
+LEONTICA:
 - 6716
-Grächen:
-- 3925
-Beringen:
-- 8222
-Bowil:
-- 3533
-Salmsach:
+EICHBERG:
+- 9453
+CROY:
+- 1322
+SALMSACH:
 - 8599
-Delley:
-- 1567
-Li Curt:
-- 7745
-Pontresina:
-- 7504
-Aven:
-- 1976
-Büren zum Hof:
-- 3313
-Wikon:
-- 4806
-Camorino:
+OESCHENBACH:
+- 4943
+MOLS:
+- 8885
+VERBIER:
+- 1936
+BOLL:
+- 3067
+HASLEN AI:
+- 9054
+ACLENS:
+- 1123
+AUMONT:
+- 1484
+LAUERZ:
+- 6424
+VILLARS-BRAMARD:
+- 1682
+ZIGNAU:
+- 7167
+LÜTISBURG STATION:
+- 9601
+CORMORET:
+- 2612
+STUGL/STULS:
+- 7482
+CHAMPTAUROZ:
+- 1537
+AROSA:
+- 7050
+BONINGEN:
+- 4618
+RÜMLANG:
+- 8153
+CHARMEY (GRUYÈRE):
+- 1637
+TÜSCHERZ-ALFERMÉE:
+- 2512
+BALGACH:
+- 9436
+STÄFA:
+- 8712
+GWATT (THUN):
+- 3645
+LICHTENSTEIG:
+- 9620
+WILIHOF:
+- 6236
+UNTERTERZEN:
+- 8882
+FLIMS WALDHAUS:
+- 7018
+RANCATE:
+- 6862
+WIESEN GR:
+- 7494
+LA VRACONNAZ:
+- 1454
+SUGNENS:
+- 1043
+NIEDERHASLI:
+- 8155
+CLARO:
+- 6702
+WISLIKOFEN:
+- 5463
+DIESSBACH B. BÜREN:
+- 3264
+VILLARZEL:
+- 1555
+BRÈ SOPRA LUGANO:
+- 6979
+BERINGEN:
+- 8222
+CAMORINO:
 - 6528
-Homberg b. Thun:
-- 3622
-Bévilard:
-- 2735
-Brunnenthal:
-- 3307
-Areuse:
-- 2015
-Wengi b. Frutigen:
-- 3714
-Orpund:
-- 2552
-Merenschwand:
-- 5634
-Soyhières:
-- 2805
-Däniken SO:
-- 4658
-Les Valettes (Bovernier):
-- 1932
-Gorgier:
-- 2023
-Neyruz-sur-Moudon:
-- 1515
-Hellikon:
-- 4316
-Rickenbach b. Wil:
-- 9532
-Minusio:
-- 6648
-Trasadingen:
-- 8219
-Flumserberg Bergheim:
-- 8896
-Hochdorf:
-- 6280
-Morges:
-- 1110
-St-Séverin:
-- 1975
-Les Enfers:
-- 2363
-- 2875
-Oulens-sous-Echallens:
-- 1377
-St. Antönien:
-- 7246
-St-Oyens:
-- 1187
-Hondrich:
+CORCELLES-PRÈS-CONCISE:
+- 1426
+ALLE:
+- 2942
+BASSERSDORF:
+- 8303
+FULL-REUENTHAL:
+- 5324
+CHÉSOPELLOZ:
+- 1720
+FRASCO:
+- 6636
+MASSONGEX:
+- 1869
+BREGANZONA:
+- 6932
+LÜTSCHENTAL:
+- 3816
+CHARDONNE:
+- 1803
+GINGINS:
+- 1276
+CUDREFIN:
+- 1588
+FEHREN:
+- 4232
+DOMMARTIN:
+- 1041
+ABTWIL SG:
+- 9030
+HALLWIL:
+- 5705
+PONTE CREMENAGA:
+- 6996
+STEINERBERG:
+- 6416
+VILLARIAZ:
+- 1685
+MONTLINGEN:
+- 9462
+KRÄILIGEN:
+- 3315
+ROMANEL-SUR-MORGES:
+- 1122
+RIETHEIM:
+- 5323
+WÜRENLOS:
+- 5436
+BRÜGGLEN:
+- 4582
+MAYENS-DE-CHAMOSON:
+- 1911
+RAMOSCH:
+- 7556
+ZIEGELBRÜCKE:
+- 8866
+CONCHES:
+- 1231
+TÄGERTSCHI:
+- 3111
+CAVIGLIANO:
+- 6654
+SOTTENS:
+- 1062
+PAILLY:
+- 1416
+VUISTERNENS-EN-OGOZ:
+- 1696
+BISSONE:
+- 6816
+OTTIKON B. KEMPTTHAL:
+- 8307
+WERTHENSTEIN:
+- 6106
+EHRENDINGEN:
+- 5420
+VAUFFELIN:
+- 2537
+WINZNAU:
+- 4652
+WILEROLTIGEN:
+- 3207
+BOTTERENS:
+- 1652
+FILISUR:
+- 7477
+WOLFHAUSEN:
+- 8633
+OBERROHRDORF:
+- 5452
+TURBACH:
+- 3781
+LATSCH:
+- 7484
+CHANDOLIN-PRÈS-SAVIÈSE:
+- 1965
+LIGERZ:
+- 2514
+GERRA (VERZASCA):
+- 6635
+MONT-TRAMELAN:
+- 2723
+OBERGÖSGEN:
+- 4653
+ISENTHAL:
+- 6461
+SIGNAU:
+- 3534
+LUSTMÜHLE:
+- 9062
+BIOLEY-MAGNOUX:
+- 1407
+CEVIO:
+- 6675
+PRÉVONDAVAUX:
+- 1410
+QUARTINO:
+- 6572
+BURTIGNY:
+- 1268
+ERLINSBACH:
+- 5018
+WETZIKON ZH:
+- 8623
+- 8620
+LE PÂQUIER NE:
+- 2058
+CASTANEDA:
+- 6540
+CAUX:
+- 1824
+SCHWARZENEGG:
+- 3616
+THERWIL:
+- 4106
+BENKEN ZH:
+- 8463
+BIEL-BENKEN BL:
+- 4105
+KALTACKER:
+- 3413
+FOREL (LAVAUX):
+- 1072
+LUCHSINGEN:
+- 8775
+FULLY:
+- 1926
+WANGEN SZ:
+- 8855
+SOUBOZ:
+- 2748
+NIEDERSTOCKEN:
+- 3632
+DIEPFLINGEN:
+- 4442
+LES VIEUX-PRÉS:
+- 2054
+WIGGEN:
+- 6192
+VUARRENS:
+- 1418
+BOUDRY:
+- 2017
+HOSPENTAL:
+- 6493
+ANDELFINGEN:
+- 8450
+COPPET:
+- 1296
+LEUKERBAD:
+- 3954
+BLAUEN:
+- 4223
+BOPPELSEN:
+- 8113
+OCHLENBERG:
+- 3367
+BIONNENS:
+- 1670
+KLEINANDELFINGEN:
+- 8451
+GRÜT (GOSSAU ZH):
+- 8624
+SORNETAN:
+- 2716
+CRESCIANO:
+- 6705
+HAUTERIVE NE:
+- 2068
+SORENGO:
+- 6924
+ZILLIS:
+- 7432
+GEBERTINGEN:
+- 8725
+VENTHÔNE:
+- 3973
+ENGELBERG:
+- 6390
+SCHÜBELBACH:
+- 8862
+OBERGLATT ZH:
+- 8154
+GRENS:
+- 1274
+ERMENSWIL:
+- 8734
+RAPPERSWIL BE:
+- 3255
+NUGLAR:
+- 4412
+COURCHAPOIX:
+- 2825
+GLASHÜTTEN:
+- 4856
+SPIEZ:
+- 3700
+MEINISBERG:
+- 2554
+HETTLINGEN:
+- 8442
+VALEYRES-SOUS-RANCES:
+- 1358
+WALLISWIL B. WANGEN:
+- 3377
+CARONA:
+- 6914
+OBERURNEN:
+- 8868
+GOSSAU SG:
+- 9200
+PENTHAZ:
+- 1303
+HONDRICH:
 - 3702
-Lignières:
-- 2523
-Weesen:
-- 8872
-Laura:
-- 6549
-Les Emibois:
-- 2338
-Ottoberg:
-- 8561
-Vuissens:
-- 1486
-Ettiswil:
-- 6218
-Zofingen:
+BETTWIESEN:
+- 9553
+TRACHSLAU:
+- 8840
+CHURWALDEN:
+- 7075
+LUZEIN:
+- 7242
+AUVERNIER:
+- 2012
+ATTALENS:
+- 1616
+ST. MARGRETHENBERG:
+- 7313
+LA JOUX FR:
+- 1697
+KAPPELEN:
+- 3273
+UORS (LUMNEZIA):
+- 7114
+SENNHOF (WINTERTHUR):
+- 8482
+ST. ANTÖNIEN:
+- 7246
+ENNETBÜHL:
+- 9651
+TRÉLEX:
+- 1270
+CLÈBES (NENDAZ):
+- 1993
+ALLERHEILIGENBERG:
+- 4615
+CHAMPFÈR:
+- 7512
+BERLENS:
+- 1680
+PALAGNEDRA:
+- 6657
+SULZ LU:
+- 6284
+HELGISRIED-ROHRBACH:
+- 3155
+FRINVILLIER:
+- 2535
+BRÜTTEN:
+- 8311
+SAVAGNIER:
+- 2065
+SFAZÙ:
+- 7742
+EPAUTHEYRES:
+- 1417
+SALEZ:
+- 9465
+BINNINGEN:
+- 4102
+FÉCHY:
+- 1173
+ALTISHOFEN:
+- 6246
+BACHENBÜLACH:
+- 8184
+AVRY-DEVANT-PONT:
+- 1644
+BIGENTHAL:
+- 3513
+BARGEN BE:
+- 3282
+WEISSTANNEN:
+- 7326
+ZETZWIL:
+- 5732
+WITTENBACH:
+- 9300
+ST. MORITZ:
+- 7500
+DISENTIS/MUSTÉR:
+- 7180
+FISCHINGEN:
+- 8376
+VALCHAVA:
+- 7535
+BIEMBACH IM EMMENTAL:
+- 3419
+CHÂTEL-ST-DENIS:
+- 1618
+NIEDERWENINGEN:
+- 8166
+AETIGKOFEN:
+- 4583
+BIRRHARD:
+- 5244
+SIGRISWIL:
+- 3655
+UNTERKULM:
+- 5726
+VALANGIN:
+- 2042
+INDEN:
+- 3953
+OBERIBERG:
+- 8843
+BELLINZONA:
+- 6500
+- 6503
+UNTEREGGEN:
+- 9033
+IBACH:
+- 6438
+BIÈRE:
+- 1145
+GRÜNEN:
+- 3455
+BISCHOFSZELL:
+- 9220
+WILLISAU:
+- 6130
+BUCHILLON:
+- 1164
+OSTERFINGEN:
+- 8218
+SEFTIGEN:
+- 3662
+SAMEDAN:
+- 7503
+FRENKENDORF:
+- 4402
+GOTTLIEBEN:
+- 8274
+KAISERSTUHL AG:
+- 5466
+PORTALBAN:
+- 1568
+SCHWARZHÄUSERN:
+- 4911
+MAMISHAUS:
+- 3152
+ARLESHEIM:
+- 4144
+HOTTWIL:
+- 5277
+LUFINGEN:
+- 8426
+VRIN:
+- 7149
+SCHWARZENBACH BEROMÜNSTER:
+- 6215
+GUSCHELMUTH:
+- 1792
+FANKHAUS (TRUB):
+- 3557
+GRÔNE:
+- 3979
+GRÜNINGEN:
+- 8627
+RAMSEN:
+- 8262
+IFFWIL:
+- 3305
+RAMSEI:
+- 3435
+NIEDERGLATT ZH:
+- 8172
+SCHÖNENGRUND:
+- 9105
+MOLARE:
+- 6760
+RUEYRES-LES-PRÉS:
+- 1542
+SCHMERIKON:
+- 8716
+JUSSY:
+- 1254
+LONAY:
+- 1027
+RORSCHACH:
+- 9400
+SUSCÉVAZ:
+- 1437
+ZIEFEN:
+- 4417
+SOYHIÈRES:
+- 2805
+LUSTDORF:
+- 8512
+HOMBURG:
+- 8508
+RIEMENSTALDEN:
+- 6452
+SUMVITG:
+- 7175
+ZWEILÜTSCHINEN:
+- 3815
+ZOFINGEN:
 - 4800
-Aire-la-Ville:
-- 1288
-Geroldswil:
-- 8954
-Gümligen:
-- 3073
-Ruggell:
-- 9491
-Illgau:
-- 6434
-Wernetshausen:
+GÄCHLIWIL:
+- 4584
+ZWISCHENFLÜH:
+- 3756
+MULEGNS:
+- 7455
+PIGNIA:
+- 7443
+WILEN B. WOLLERAU:
+- 8832
+OBERMUMPF:
+- 4324
+SERVION:
+- 1077
+LA CROIX (LUTRY):
+- 1090
+SCHACHEN B. HERISAU:
+- 9112
+HAUPTIKON:
+- 8926
+GASEL:
+- 3144
+MÄDRIS-VERMOL:
+- 8886
+BICHELSEE:
+- 8363
+ECUBLENS VD:
+- 1024
+MALTERS:
+- 6102
+BÖZEN:
+- 5076
+ATTELWIL:
+- 5056
+NIEDERWALD:
+- 3989
+SÄRISWIL:
+- 3049
+SIAT:
+- 7157
+TRIBOLTINGEN:
+- 8273
+BRÜGG BE:
+- 2555
+SCHANGNAU:
+- 6197
+LUZERN:
+- 6000
+- 6003
+- 6005
+- 6004
+- 6014
+- 6015
+- 6006
+ESCHOLZMATT:
+- 6182
+COTTENS FR:
+- 1741
+SEGNAS:
+- 7186
+WATTWIL:
+- 9630
+ZOLLIKON:
+- 8702
+CIMADERA:
+- 6959
+MÜHLAU:
+- 5642
+SONNENTAL:
+- 9245
+KIRCHBERG SG:
+- 9533
+AMLIKON-BISSEGG:
+- 8514
+RIVA SAN VITALE:
+- 6826
+ENGOLLON:
+- 2063
+MONTANA:
+- 3963
+OBERBÖZBERG:
+- 5225
+SCHWENDIBACH:
+- 3624
+CHABREY:
+- 1589
+LES ACACIAS:
+- 1227
+MELLIKON:
+- 5465
+ETTISWIL:
+- 6218
+DEVELIER:
+- 2802
+BÜRISWILEN:
+- 9442
+FTAN:
+- 7551
+VALS:
+- 7132
+HAUPTWIL:
+- 9213
+ROTHENTHURM:
+- 6418
+FÜRSTENAU:
+- 7414
+BRESSAUCOURT:
+- 2904
+LE PÂQUIER-MONTBARRY:
+- 1661
+PIGNIU:
+- 7156
+URMEIN:
+- 7427
+OBERSTETTEN:
+- 9249
+ALBINEN:
+- 3955
+SEEWEN SZ:
+- 6423
+RENNAZ:
+- 1847
+BÜREN ZUM HOF:
+- 3313
+SEEWEN SO:
+- 4206
+OLTEN:
+- 4600
+BREMGARTEN AG:
+- 5620
+BETTEN:
+- 3991
+LE PRÉVOUX:
+- 2400
+FLÄSCH:
+- 7306
+FUSIO:
+- 6696
+MÜNCHENSTEIN:
+- 4142
+CLUGIN:
+- 7442
+EPESSES:
+- 1098
+GRANDSON:
+- 1422
+OBERBUCHSITEN:
+- 4625
+WITTENWIL:
+- 9547
+VALEYRES-SOUS-MONTAGNY:
+- 1441
+MÜNTSCHEMIER:
+- 3225
+WALTENSBURG/VUORZ:
+- 7158
+JONA:
+- 8645
+HÜTTEN:
+- 8825
+RODERSDORF:
+- 4118
+NOTTWIL:
+- 6207
+STILLI:
+- 5233
+THÖRISHAUS:
+- 3174
+LAMBOING:
+- 2516
+HOFEN SH:
+- 8242
+MURZELEN:
+- 3034
+KRIESSERN:
+- 9451
+LA TOUR-DE-TRÊME:
+- 1635
+WEGGIS:
+- 6353
+IPSACH:
+- 2563
+SCHEUREN:
+- 2556
+ST-BLAISE:
+- 2072
+ASCONA:
+- 6612
+PROMONTOGNO:
+- 7606
+EGG (FLAWIL):
+- 9231
+LES POSSES-SUR-BEX:
+- 1882
+LES VERRIÈRES:
+- 2126
+REVEROLLE:
+- 1128
+MAROGGIA:
+- 6817
+BOURG-ST-PIERRE:
+- 1946
+BRIENZ/BRINZAULS GR:
+- 7084
+LEIMBACH AG:
+- 5733
+LES AGETTES:
+- 1992
+MEILEN:
+- 8706
+NIEDERGLATT SG:
+- 9240
+AEDERMANNSDORF:
+- 4714
+ZOLLBRÜCK:
+- 3436
+STECKBORN:
+- 8266
+CRANS-PRÈS-CÉLIGNY:
+- 1299
+GENÈVE 15 AÉROPORT:
+- 1215
+LES MONTS-DE-CORSIER:
+- 1808
+SURCUOLM:
+- 7138
+BELLIKON:
+- 5454
+ZWEIDLEN:
+- 8192
+WILDERSWIL:
+- 3812
+VICO MORCOTE:
+- 6921
+LAAX GR:
+- 7031
+BERNEX:
+- 1233
+MÄNNEDORF:
+- 8708
+RODI-FIESSO:
+- 6772
+PASPELS:
+- 7417
+STEINHUSERBERG:
+- 6114
+LAVIN:
+- 7543
+ROSSA:
+- 6548
+SCHACHEN B. REUTE:
+- 9414
+WINDEN:
+- 9315
+GORDUNO:
+- 6518
+HILDISRIEDEN:
+- 6024
+NIEDERUZWIL:
+- 9244
+MÜNSINGEN:
+- 3110
+RENGG:
+- 6162
+DIETLIKON:
+- 8305
+VILLA LUGANESE:
+- 6966
+GERLAFINGEN:
+- 4563
+MADISWIL:
+- 4934
+CHAMPLAN (GRIMISUAT):
+- 1971
+DENENS:
+- 1135
+RIKON IM TÖSSTAL:
+- 8486
+AUTIGNY:
+- 1742
+LE PONT:
+- 1342
+LÜSCHERZ:
+- 2576
+FORNET-DESSOUS:
+- 2717
+BARGEN SH:
+- 8233
+FONTENAIS:
+- 2902
+FULENBACH:
+- 4629
+DÄNIKEN SO:
+- 4658
+LA CHAUX-DU-MILIEU:
+- 2405
+LA CIBOURG:
+- 2333
+- 2616
+DORNACH:
+- 4143
+SCHÜPFEN:
+- 3054
+OLTINGEN:
+- 4494
+RIGGISBERG:
+- 3132
+MOLLIE-MARGOT:
+- 1073
+NESSELNBACH:
+- 5524
+AESCHIRIED:
+- 3703
+JEUSS:
+- 1793
+OBERKIRCH LU:
+- 6208
+MENZNAU:
+- 6122
+SARNEN:
+- 6060
+CRESSIER FR:
+- 1785
+VUFFLENS-LE-CHÂTEAU:
+- 1134
+INNERTHAL:
+- 8858
+AUDDES-SUR-RIDDES:
+- 1914
+TREITEN:
+- 3226
+BLANKENBURG:
+- 3771
+SEENGEN:
+- 5707
+STEHRENBERG:
+- 9503
+SEEHOF:
+- 2747
+WICHTRACH:
+- 3114
+OETWIL AM SEE:
+- 8618
+CORCELLES NE:
+- 2035
+SION:
+- 1950
+DEGERSHEIM:
+- 9113
+GIMMELWALD:
+- 3826
+MOLINIS:
+- 7056
+REBSTEIN:
+- 9445
+SISSACH:
+- 4450
+FOUNEX:
+- 1297
+SIVIRIEZ:
+- 1678
+CHAMPÉRY:
+- 1874
+MUZZANO:
+- 6933
+LOPAGNO:
+- 6956
+LUSSY FR:
+- 1690
+WALDHÄUSERN AG:
+- 5624
+GIVRINS:
+- 1271
+BRÜTTISELLEN:
+- 8306
+HALDI B. SCHATTDORF:
+- 6469
+HERBRIGGEN:
+- 3927
+WIEDLISBACH:
+- 4537
+PEIST:
+- 7029
+HASLIBERG REUTI:
+- 6086
+AROGNO:
+- 6822
+DAVOS PLATZ:
+- 7270
+CAMPIONE D'ITALIA:
+- 6911
+WERNETSHAUSEN:
 - 8342
-Susten:
-- 3952
-Herlisberg:
-- 6028
-Eich:
+UDLIGENSWIL:
+- 6044
+SAXETEN:
+- 3813
+FLUMSERBERG TANNENHEIM:
+- 8897
+ANZONICO:
+- 6748
+HASLIBERG HOHFLUH:
+- 6083
+VIANO:
+- 7747
+BRUSINO ARSIZIO:
+- 6827
+BONSTETTEN:
+- 8906
+NIEDERBUCHSITEN:
+- 4626
+CORSEAUX:
+- 1802
+REMETSCHWIL:
+- 5453
+CORTEGLIA:
+- 6873
+SÜDEREN:
+- 3618
+TURBENTHAL:
+- 8488
+ANDHAUSEN:
+- 8572
+DAIWIL:
+- 6126
+ESCHEN:
+- 9492
+GURBRÜ:
+- 3208
+METTAU:
+- 5274
+PRANGINS:
+- 1197
+CONTERS IM PRÄTTIGAU:
+- 7241
+GOSSAU ZH:
+- 8625
+SATTEL:
+- 6417
+URNERBODEN:
+- 8751
+VAZ/OBERVAZ:
+- 7082
+ORIENT:
+- 1341
+BODIO TI:
+- 6743
+INKWIL:
+- 3375
+BALMBERG:
+- 4524
+WIDEN:
+- 8967
+ETTINGEN:
+- 4107
+CORBIÈRES:
+- 1647
+CUMBEL:
+- 7142
+OBERENTFELDEN:
+- 5036
+BEVAIX:
+- 2022
+VALLORBE:
+- 1337
+NESSLAU:
+- 9650
+UZNACH:
+- 8730
+BUCHBERG:
+- 8454
+UNTERBACH BE:
+- 3857
+TENTLINGEN:
+- 1734
+RONGELLEN:
+- 7430
+ZÜBERWANGEN:
+- 9523
+KOBLENZ:
+- 5322
+SOAZZA:
+- 6562
+ROTHRIST:
+- 4852
+ALTIKON:
+- 8479
+LE BRY:
+- 1645
+MARACON:
+- 1613
+LA FORCLAZ VD:
+- 1866
+MÄGENWIL:
+- 5506
+OBERWIL IM SIMMENTAL:
+- 3765
+DUILLIER:
+- 1266
+BASEL UNIVERSITÄTSSPITAL:
+- 4031
+AVEN:
+- 1976
+OGENS:
+- 1045
+FALERA:
+- 7153
+SÉDEILLES:
+- 1554
+CRESSIER NE:
+- 2088
+VEYRIER:
+- 1255
+TENNWIL:
+- 5617
+LA TINE:
+- 1658
+PFÄFERS:
+- 7312
+RONCO SOPRA ASCONA:
+- 6622
+EPTINGEN:
+- 4458
+COURFAIVRE:
+- 2853
+GUARDA:
+- 7545
+COUVET:
+- 2108
+OHMSTAL:
+- 6143
+HOHENRAIN:
+- 6276
+TREMONA:
+- 6865
+MOUTIER:
+- 2740
+SOULCE:
+- 2864
+BEURNEVÉSIN:
+- 2935
+SPREITENBACH:
+- 8957
+GIORNICO:
+- 6745
+ROTHENFLUH:
+- 4467
+OBERENGSTRINGEN:
+- 8102
+PERLY:
+- 1258
+GOHL:
+- 3553
+UTTWIL:
+- 8592
+HÜTTWILEN:
+- 8536
+IM FANG:
+- 1656
+ISLISBERG:
+- 8905
+SCHLEITHEIM:
+- 8226
+SCHÄNIS:
+- 8718
+TAGELSWANGEN:
+- 8317
+SCHNOTTWIL:
+- 3253
+BEGGINGEN:
+- 8228
+GRENGIOLS:
+- 3993
+PERSONICO:
+- 6744
+NENDELN:
+- 9485
+RIDDES:
+- 1908
+STEINMAUR:
+- 8162
+GORDEVIO:
+- 6672
+MERLISCHACHEN:
+- 6402
+RUPPOLDSRIED:
+- 3251
+BAD RAGAZ:
+- 7310
+OTTIKON (GOSSAU ZH):
+- 8626
+SIEBNEN:
+- 8854
+ERLINSBACH SO:
+- 5015
+SUGIEZ:
+- 1786
+ALBLIGEN:
+- 3183
+LE BROUILLET:
+- 2406
+RAMLINSBURG:
+- 4433
+SCUOL:
+- 7550
+MÖTSCHWIL:
+- 3324
+OBERARTH:
+- 6414
+LANDSCHLACHT:
+- 8597
+PIOTTA:
+- 6776
+TAFERS:
+- 1712
+LIEDERTSWIL:
+- 4436
+EICH:
 - 6205
-Dörflingen:
-- 8239
-Lalden:
-- 3931
-Nusshof:
-- 4453
-Laupersdorf:
-- 4712
-Wiliberg:
-- 5058
-Eggenwil:
+TSCHLIN:
+- 7559
+ETZELKOFEN:
+- 3306
+S. BENEDETG:
+- 7174
+CORIN-DE-LA-CRÊTE:
+- 3960
+ROVIO:
+- 6821
+LI CURT:
+- 7745
+S. PIETRO:
+- 6854
+KANDERGRUND:
+- 3716
+OBERRÜTI:
+- 5647
+MORISSEN:
+- 7143
+ST-SÉVERIN:
+- 1975
+FISIBACH:
+- 5467
+VAIRANO:
+- 6575
+FENALET-SUR-BEX:
+- 1880
+URSENBACH:
+- 4937
+SORVILIER:
+- 2736
+FOREL-SUR-LUCENS:
+- 1526
+NIEDERWIL SO:
+- 4523
+RIGI KLÖSTERLI:
+- 6410
+ROHRBACHGRABEN:
+- 4938
+BASEL:
+- 4000
+- 4001
+- 4051
+- 4052
+- 4053
+- 4054
+- 4055
+- 4056
+- 4057
+- 4058
+- 4059
+SCHEID:
+- 7419
+NIEDERWIL SG:
+- 9203
+FLEURIER:
+- 2114
+ST-URSANNE:
+- 2882
+OTTENBACH:
+- 8913
+SCHACHEN LU:
+- 6105
+RICKENBACH SO:
+- 4613
+RABIUS:
+- 7172
+BURG AG:
+- 5736
+HERISAU:
+- 9100
+WINTERBERG ZH:
+- 8312
+BÄRISWIL BE:
+- 3323
+THUNSTETTEN:
+- 4922
+HORGEN:
+- 8810
+ROTTENSCHWIL:
+- 8919
+PAMPIGNY:
+- 1142
+TÜBACH:
+- 9327
+VUADENS:
+- 1628
+BORGONOVO:
+- 7604
+AETINGEN:
+- 4587
+COLLOMBEY:
+- 1868
+CARABIETTA:
+- 6919
+MORGARTEN:
+- 6315
+RIFFENMATT:
+- 3156
+VERDABBIO:
+- 6538
+KLEINGURMELS:
+- 3212
+ECUVILLENS:
+- 1730
+RONA:
+- 7454
+HAUTEVILLE:
+- 1648
+CAVIANO:
+- 6578
+GURZELEN:
+- 3663
+SALVENACH:
+- 1794
+GLATTPARK (OPFIKON):
+- 8152
+KILCHBERG ZH:
+- 8802
+CURTILLES:
+- 1521
+WOHLEN B. BERN:
+- 3033
+MARTHALEN:
+- 8460
+LES GRANGES (SALVAN):
+- 1922
+VALBELLA:
+- 7077
+CRASSIER:
+- 1263
+UEBESCHI:
+- 3635
+GRANCIA:
+- 6916
+ROOT:
+- 6037
+UNTERSTECKHOLZ:
+- 4916
+NIEDERÖSCH:
+- 3424
+FELSENAU AG:
+- 5316
+PAUDEX:
+- 1094
+WAGEN:
+- 8646
+WILER B. UTZENSTORF:
+- 3428
+OCOURT:
+- 2889
+RIGI KALTBAD:
+- 6356
+GEMPENACH:
+- 3215
+LENS:
+- 1978
+DÜDINGEN:
+- 3186
+EUSEIGNE:
+- 1982
+GIBSWIL-RIED:
+- 8498
+ALPNACHSTAD:
+- 6053
+WIL SG:
+- 9500
+TEGERFELDEN:
+- 5306
+LINESCIO:
+- 6682
+MOMPÉ MEDEL:
+- 7183
+CASTELROTTO:
+- 6980
+VULLIENS:
+- 1085
+ESSERTINES-SUR-ROLLE:
+- 1186
+LAUSANNE:
+- 1000
+- 1011
+- 1010
+- 1007
+- 1006
+- 1005
+- 1004
+- 1003
+- 1018
+- 1015
+- 1012
+RICKENBACH ZH:
+- 8545
+DETLIGEN:
+- 3036
+ROSENLAUI:
+- 3860
+PRUGIASCO:
+- 6723
+KÄGISWIL:
+- 6056
+VISPERTERMINEN:
+- 3932
+ALCHENSTORF:
+- 3473
+CHÊNE-BOUGERIES:
+- 1224
+ALPNACH DORF:
+- 6055
+BIEZWIL:
+- 4585
+CASACCIA:
+- 7602
+TRIMSTEIN:
+- 3083
+ARCEGNO:
+- 6618
+DITTINGEN:
+- 4243
+LANGWIESEN:
+- 8246
+LEIMISWIL:
+- 4935
+OESCHSEITE:
+- 3776
+SARN:
+- 7423
+VEZIO:
+- 6938
+GLOVELIER:
+- 2855
+NEGGIO:
+- 6991
+INNERFERRERA:
+- 7445
+RIKEN AG:
+- 4853
+GIUBIASCO:
+- 6512
+BOUGY-VILLARS:
+- 1172
+VEZIA:
+- 6943
+COMBREMONT-LE-GRAND:
+- 1535
+CHANDOLIN:
+- 3961
+BÖNIGEN B. INTERLAKEN:
+- 3806
+BUSSIGNY-PRÈS-LAUSANNE:
+- 1030
+ALTBÜRON:
+- 6147
+RECHTHALTEN:
+- 1718
+ROVEREDO TI:
+- 6957
+VAUDERENS:
+- 1675
+WALDE SG:
+- 8727
+GÄHWIL:
+- 9534
+ROCHE VD:
+- 1852
+COMOLOGNO:
+- 6663
+HERBLIGEN:
+- 3671
+AMBRÌ:
+- 6775
+GRINDEL:
+- 4247
+BASSECOURT:
+- 2854
+AIGLE:
+- 1860
+HAGENBUCH ZH:
+- 8523
+TRIMMIS:
+- 7203
+LE BÉMONT JU:
+- 2877
+LUSSERY-VILLARS:
+- 1307
+EBERSOL:
+- 9122
+GRONO:
+- 6537
+QUINTO:
+- 6777
+ZULLWIL:
+- 4234
+OBERRIET SG:
+- 9463
+RUGGELL:
+- 9491
+ADLIKON B. ANDELFINGEN:
+- 8452
+GIMEL:
+- 1188
+MONTAGNE-DE-COURTELARY:
+- 2608
+MAUBORGET:
+- 1453
+VAULRUZ:
+- 1627
+SUMISWALD:
+- 3454
+CHIGGIOGNA:
+- 6764
+CAUCO:
+- 6546
+GIEBENACH:
+- 4304
+CADEMARIO:
+- 6936
+ZWEISIMMEN:
+- 3770
+NIEDERROHRDORF:
+- 5443
+EPIQUEREZ:
+- 2886
+SELZACH:
+- 2545
+OBERLUNKHOFEN:
+- 8917
+CRONAY:
+- 1406
+KERNS:
+- 6064
+WALTERSWIL SO:
+- 5746
+MERIDE:
+- 6866
+WIL ZH:
+- 8196
+BÄRETSWIL:
+- 8344
+HUBERSDORF:
+- 4535
+LÖHNINGEN:
+- 8224
+SAYS:
+- 7202
+MONTE BRÈ SOPRA LOCARNO:
+- 6605
+PURASCA:
+- 6989
+LANDQUART:
+- 7302
+SCHLATT TG:
+- 8252
+VADURA:
+- 7314
+LENK IM SIMMENTAL:
+- 3775
+RUVIGLIANA:
+- 6977
+HIMMELRIED:
+- 4204
+ASUEL:
+- 2954
+MARTINA:
+- 7560
+ROSÉ:
+- 1754
+VACALLO:
+- 6833
+ARNI BE:
+- 3508
+NIEDERRICKENBACH:
+- 6383
+DAVOS WOLFGANG:
+- 7265
+LINDEN:
+- 3673
+TRAVERS:
+- 2105
+FILZBACH:
+- 8757
+WYNAU:
+- 4923
+RAPERSWILEN:
+- 8558
+GUGGISBERG:
+- 3158
+ENDINGEN:
+- 5304
+MÜSWANGEN:
+- 6289
+MORSCHACH:
+- 6443
+MAUREN FL:
+- 9493
+REMIGEN:
+- 5236
+SCHÖNENBERG ZH:
+- 8824
+GIVISIEZ:
+- 1762
+GROSS:
+- 8841
+HINWIL:
+- 8340
+CHÉSEREX:
+- 1275
+CONTRA:
+- 6646
+CASTRISCH:
+- 7126
+THIERACHERN:
+- 3634
+GRABEN:
+- 3376
+VILLAREPOS:
+- 1583
+KREUZLINGEN:
+- 8280
+KAISERAUGST:
+- 4303
+SALENSTEIN:
+- 8268
+SAGOGN:
+- 7152
+TINIZONG:
+- 7453
+GESCHINEN:
+- 3985
+LA SAGE:
+- 1985
+SUSTEN:
+- 3952
+BULLE:
+- 1630
+TROINEX:
+- 1256
+COURTEMAUTRUY:
+- 2950
+HEIMENSCHWAND:
+- 3615
+KLOTEN:
+- 8302
+MOLLENS VS:
+- 3974
+SAFENWIL:
+- 5745
+UNTERLANGENEGG:
+- 3614
+MOLLENS VD:
+- 1146
+KIENBERG:
+- 4468
+NEUENEGG:
+- 3176
+S. VITTORE:
+- 6534
+CINUOS-CHEL:
+- 7526
+LEIBSTADT:
+- 5325
+RIED (FRUTIGEN):
+- 3724
+HOLZIKEN:
+- 5043
+HAUENSTEIN:
+- 4633
+UMIKEN:
+- 5222
+VEYRAS:
+- 3968
+SAUBRAZ:
+- 1189
+MALOJA:
+- 7516
+CHÉNENS:
+- 1744
+WILLISDORF:
+- 8253
+PREZ-VERS-NORÉAZ:
+- 1746
+MALADERS:
+- 7026
+STAMPA:
+- 7605
+TSCHINGEL OB GUNTEN:
+- 3656
+GRAND-LANCY:
+- 1212
+ETTENHAUSEN TG:
+- 8356
+RANDOGNE:
+- 3975
+PÉRY:
+- 2603
+RUDOLFINGEN:
+- 8465
+WISEN SO:
+- 4634
+TSCHUGG:
+- 3233
+SCHUDERS:
+- 7228
+ALTERSWILEN:
+- 8573
+DENSBÜREN:
+- 5026
+UNTERENDINGEN:
+- 5305
+BERTSCHIKON:
+- 8543
+INSONE:
+- 6951
+FARDEN:
+- 7433
+COURT:
+- 2738
+LINDAU:
+- 8315
+ERIZ:
+- 3619
+ST. SILVESTER:
+- 1736
+GEISS:
+- 6123
+LÄUFELFINGEN:
+- 4448
+LE LIEU:
+- 1345
+GRETSCHINS:
+- 9479
+OBERSAXEN GIRANIGA:
+- 7135
+FROIDEVILLE:
+- 1055
+FEY (NENDAZ):
+- 1996
+TOLOCHENAZ:
+- 1131
+PERREFITTE:
+- 2742
+OBERGESTELN:
+- 3988
+SUFERS:
+- 7434
+FONTANNEN B. WOLHUSEN:
+- 6110
+RUERAS:
+- 7189
+SIGGENTHAL STATION:
+- 5301
+HUTTWIL:
+- 4950
+SULZ AG:
+- 5085
+MARTIGNY:
+- 1920
+HUNZENSCHWIL:
+- 5502
+MAGGLINGEN/MACOLIN:
+- 2532
+BIBERIST:
+- 4562
+SELEUTE:
+- 2888
+DIETWIL:
+- 6042
+KLINGNAU:
+- 5313
+FREIENBACH:
+- 8807
+VERS-L'EGLISE:
+- 1864
+SESSA:
+- 6997
+MARTIGNY-CROIX:
+- 1921
+WÄDENSWIL:
+- 8820
+SIGIRINO:
+- 6806
+SCHWARZENBACH SG:
+- 9536
+BUSENO:
+- 6542
+DÄLLIKON:
+- 8108
+ARNEGG:
+- 9212
+PETIT-LANCY:
+- 1213
+AUSLIKON:
+- 8331
+SCHERZ:
+- 5246
+LOSONE:
+- 6616
+BOLLINGEN:
+- 8715
+SCHMIDRÜTI:
+- 8495
+UERKHEIM:
+- 4813
+TREYVAUX:
+- 1733
+GNOSCA:
+- 6525
+LAVEY-LES-BAINS:
+- 1892
+SONVICO:
+- 6968
+ALMENS:
+- 7416
+SOGLIO:
+- 7610
+TAMINS:
+- 7015
+LOHN SH:
+- 8235
+MERISHAUSEN:
+- 8232
+RIEHEN:
+- 4125
+BOGIS-BOSSEY:
+- 1279
+PONT-DE-LA-MORGE (SION):
+- 1962
+EMBRACH:
+- 8424
+AGARONE:
+- 6597
+PANY:
+- 7243
+LENZBURG:
+- 5600
+WEISSENBURG:
+- 3764
+BILLENS:
+- 1681
+FLUMSERBERG BERGHEIM:
+- 8896
+BÜSINGEN:
+- 8238
+VÉTROZ:
+- 1963
+FERREYRES:
+- 1313
+NIEDERSCHERLI:
+- 3145
+MIEX:
+- 1896
+LEGGIA:
+- 6556
+SIVIEZ (NENDAZ):
+- 1997
+AGIEZ:
+- 1352
+MIES:
+- 1295
+SERGEY:
+- 1355
+WALDSTATT:
+- 9104
+HELLBÜHL:
+- 6016
+SCHÖNENBUCH:
+- 4124
+KOLLBRUNN:
+- 8483
+MIGLIEGLIA:
+- 6986
+HEMMENTAL:
+- 8231
+DOMDIDIER:
+- 1564
+DIETIKON:
+- 8953
+DANIS:
+- 7163
+SAGNO:
+- 6839
+WALENSTADT:
+- 8880
+NIEDERHELFENSCHWIL:
+- 9527
+FLERDEN:
+- 7426
+ORSIÈRES:
+- 1937
+BALLAIGUES:
+- 1338
+AARAU ROHR:
+- 5032
+SCHÖTZ:
+- 6247
+MORBIO SUPERIORE:
+- 6835
+BOURGUILLON:
+- 1722
+SAXON:
+- 1907
+TÖRBEL:
+- 3923
+GONDISWIL:
+- 4955
+WABERN:
+- 3084
+BEVER:
+- 7502
+BURGISTEIN:
+- 3664
+WILER (LÖTSCHEN):
+- 3918
+UNTERLUNKHOFEN:
+- 8918
+GRETZENBACH:
+- 5014
+NIDAU:
+- 2560
+HORGENBERG:
+- 8815
+KILCHBERG BL:
+- 4496
+KEHRSATZ:
+- 3122
+MARBACH SG:
+- 9437
+CHAMBÉSY:
+- 1292
+ENNEY:
+- 1667
+BIGNASCO:
+- 6676
+INS:
+- 3232
+BENZENSCHWIL:
+- 5636
+LANZENNEUNFORN:
+- 8506
+SARGANS:
+- 7320
+AETTENSCHWIL:
+- 5645
+ADLIKON B. REGENSDORF:
+- 8106
+CHAVORNAY:
+- 1373
+KLEINDÖTTINGEN:
+- 5314
+KEMPTTHAL:
+- 8310
+DORF:
+- 8458
+NASSEN:
+- 9123
+WALTERSWIL BE:
+- 4942
+KRUMMENAU:
+- 9643
+SURIN:
+- 7148
+TRÜLLIKON:
+- 8466
+ITTIGEN:
+- 3063
+MARIASTEIN:
+- 4115
+CORCELLES-SUR-CHAVORNAY:
+- 1374
+HÜNENBERG SEE:
+- 6333
+MONTALCHEZ:
+- 2027
+MONT-SOLEIL:
+- 2610
+HUÉMOZ:
+- 1884
+MEINIER:
+- 1252
+SAMNAUN DORF:
+- 7563
+RADELFINGEN B. AARBERG:
+- 3271
+EPAUVILLERS:
+- 2885
+OBERSAXEN MEIERHOF:
+- 7134
+SURAVA:
+- 7472
+GRUB AR:
+- 9035
+EBNAT-KAPPEL:
+- 9642
+LES RASSES:
+- 1452
+GRAFENRIED:
+- 3308
+TORGON:
+- 1899
+UETTLIGEN:
+- 3043
+VUISSENS:
+- 1486
+WIENACHT-TOBEL:
+- 9405
+SEEBERG:
+- 3365
+TSCHEPPACH:
+- 4576
+AUBONNE:
+- 1170
+SCHWANDEN B. BRIENZ:
+- 3855
+BACHS:
+- 8164
+GANSINGEN:
+- 5272
+RÜTSCHELEN:
+- 4933
+RUMENDINGEN:
+- 3472
+TÄGERSCHEN:
+- 9554
+VICOSOPRANO:
+- 7603
+BINZ:
+- 8122
+REUTLINGEN (WINTERTHUR):
+- 8404
+LUTHERN BAD:
+- 6156
+KÜBLIS:
+- 7240
+AARAU:
+- 5000
+- 5004
+LOSTALLO:
+- 6558
+ADLISWIL:
+- 8134
+BINN:
+- 3996
+INWIL:
+- 6034
+SAFNERN:
+- 2553
+SUMMAPRADA:
+- 7421
+BALTERSWIL:
+- 8362
+ST. STEPHAN:
+- 3772
+DÄRSTETTEN:
+- 3763
+ZUG:
+- 6300
+NATERS:
+- 3904
+VENDLINCOURT:
+- 2943
+PUIDOUX:
+- 1070
+HAGNECK:
+- 2575
+RANCES:
+- 1439
+KAISTEN:
+- 5082
+GRANGETTES-PRÈS-ROMONT:
+- 1686
+GOLLION:
+- 1124
+MONTAGNY-PRÈS-YVERDON:
+- 1442
+PRESINGE:
+- 1243
+LAUFEN:
+- 4242
+ITINGEN:
+- 4452
+RUSSIN:
+- 1281
+CELERINA/SCHLARIGNA:
+- 7505
+BENKEN SG:
+- 8717
+PAGIG:
+- 7028
+PRÊLES:
+- 2515
+UNTERENGSTRINGEN:
+- 8103
+BÉVILARD:
+- 2735
+KALTENBACH:
+- 8259
+DOZWIL:
+- 8582
+LAMONE:
+- 6814
+VOGORNO:
+- 6632
+FORNET-DESSUS:
+- 2718
+GEBENSTORF:
+- 5412
+MOLLIS:
+- 8753
+WILEN (GOTTSHAUS):
+- 9225
+BAAR:
+- 6340
+AQUILA:
+- 6719
+BARBENGO:
+- 6917
+KÖNIZ:
+- 3098
+FRIESWIL:
+- 3035
+SCHINDELLEGI:
+- 8834
+DAGMERSELLEN:
+- 6252
+FLUMENTHAL:
+- 4534
+OULENS-SOUS-ECHALLENS:
+- 1377
+SCHINZNACH BAD:
+- 5116
+CABBIO:
+- 6838
+SPEICHER:
+- 9042
+SAAS-BALEN:
+- 3908
+BEROLLE:
+- 1149
+COURTAMAN:
+- 1791
+CHAVANNES-LES-FORTS:
+- 1676
+STEIN AM RHEIN:
+- 8260
+MOSOGNO:
+- 6611
+BIRR:
+- 5242
+PFEFFIKON LU:
+- 5735
+DULLIKEN:
+- 4657
+LOMMIS:
+- 9506
+ST-LÉGIER-LA CHIÉSAZ:
+- 1806
+JOUXTENS-MÉZERY:
+- 1008
+DELÉMONT:
+- 2800
+MEDEGLIA:
+- 6809
+MIÈGE:
+- 3972
+DOTNACHT:
+- 8566
+UETENDORF:
+- 3661
+ARBOLDSWIL:
+- 4424
+FÄLLANDEN:
+- 8117
+FULDERA:
+- 7533
+EGGENWIL:
 - 5445
-Zürich:
+MONTIGNEZ:
+- 2924
+DAVOS FRAUENKIRCH:
+- 7276
+BONISWIL:
+- 5706
+WEGENSTETTEN:
+- 4317
+OSPIZIO BERNINA:
+- 7710
+BOUSSENS:
+- 1034
+EBIKON:
+- 6030
+PRARREYER (VERSEGÈRES):
+- 1947
+SCHÜPBACH:
+- 3535
+AU ZH:
+- 8804
+BOÉCOURT:
+- 2856
+BOLKEN:
+- 4556
+KÜSSNACHT AM RIGI:
+- 6403
+CLAVALEYRES:
+- 1595
+ORSELINA:
+- 6644
+KASTANIENBAUM:
+- 6047
+PLASSELB:
+- 1737
+RUSCHEIN:
+- 7154
+RUTSCHWIL (DÄGERLEN):
+- 8471
+LIPPERSWIL:
+- 8564
+AREUSE:
+- 2015
+NIEDERHÜNIGEN:
+- 3504
+VILLERET:
+- 2613
+WORBEN:
+- 3252
+STRENGELBACH:
+- 4802
+SCHIERS:
+- 7220
+MANDACH:
+- 5318
+ERSCHWIL:
+- 4228
+ERGISCH:
+- 3947
+BLONAY:
+- 1807
+DANGIO-TORRE:
+- 6717
+THAYNGEN:
+- 8240
+STAAD SG:
+- 9422
+WALKRINGEN:
+- 3512
+SENARCLENS:
+- 1304
+KRIENS:
+- 6010
+FALTIGBERG:
+- 8639
+ERMENSEE:
+- 6294
+LE MUIDS:
+- 1273
+MÜNCHWILEN TG:
+- 9542
+WOLFWIL:
+- 4628
+CHÂTEL-SUR-MONTSALVENS:
+- 1653
+VILLARIMBOUD:
+- 1691
+TAVERNE:
+- 6807
+BLAUSEE-MITHOLZ:
+- 3717
+WALDKIRCH:
+- 9205
+GAMPEL:
+- 3945
+ESCHENBACH SG:
+- 8733
+FLÜELEN:
+- 6454
+AUBORANGES:
+- 1673
+RÜFENACHT BE:
+- 3075
+SEEWIS-PARDISLA:
+- 7214
+ARBAZ:
+- 1974
+REGENSDORF:
+- 8105
+VIRA (GAMBAROGNO):
+- 6574
+BALM B. MESSEN:
+- 3254
+KEHRSITEN:
+- 6365
+OLSBERG:
+- 4305
+MAUREN TG:
+- 8576
+VIGNOGN:
+- 7147
+PASSUGG-ARASCHGEN:
+- 7062
+SAANEN:
+- 3792
+COURCELON:
+- 2823
+SORENS:
+- 1642
+MONT-SUR-ROLLE:
+- 1185
+MÜSELBACH:
+- 9602
+TROISTORRENTS:
+- 1872
+AUGST BL:
+- 4302
+HERSIWIL:
+- 4558
+LIMPACH:
+- 3317
+THALHEIM AG:
+- 5112
+RICKETWIL (WINTERTHUR):
+- 8352
+RAPPERSWIL SG:
+- 8640
+NETSTAL:
+- 8754
+GORDOLA:
+- 6596
+MIÉCOURT:
+- 2946
+WILLADINGEN:
+- 3425
+NEUHEIM:
+- 6345
+VERMES:
+- 2829
+BÜRCHEN:
+- 3935
+ORZENS:
+- 1413
+CHÂTONNAYE:
+- 1553
+BAULMES:
+- 1446
+GUMEFENS:
+- 1643
+ARISTAU:
+- 5628
+VUITEBOEUF:
+- 1445
+ORGES:
+- 1430
+KIRCHENTHURNEN:
+- 3128
+CUARNY:
+- 1404
+MOOSSEEDORF:
+- 3302
+ALIKON:
+- 5643
+COURTÉTELLE:
+- 2852
+VERNIER:
+- 1214
+RÜNENBERG:
+- 4497
+RICKENBACH BL:
+- 4462
+ESSERTES:
+- 1078
+ENGES:
+- 2073
+GRANDVAL:
+- 2745
+AUSSERBERG:
+- 3938
+LOCARNO:
+- 6600
+GRUB SG:
+- 9036
+ALLAMAN:
+- 1165
+BRÜTTELEN:
+- 3237
+MONT-DE-BUTTES:
+- 2116
+HINTERFORST:
+- 9452
+KLOSTERS:
+- 7250
+LONGIROD:
+- 1261
+ZEIHEN:
+- 5079
+MÜMLISWIL:
+- 4717
+STELS:
+- 7226
+VILLENEUVE FR:
+- 1527
+ST-AUBIN-SAUGES:
+- 2024
+GRÄCHEN:
+- 3925
+CHARRAT:
+- 1906
+LA PUNT-CHAMUES-CH:
+- 7522
+BROC:
+- 1636
+CRIES (VOLLÈGES):
+- 1941
+INNERBERG:
+- 3044
+ZÜRICH:
 - 8002
 - 8003
 - 8000
@@ -4052,2280 +5990,342 @@ Zürich:
 - 8064
 - 8063
 - 8099
-Guntmadingen:
-- 8223
-Beatenberg:
-- 3803
-Thayngen:
-- 8240
-Lenzburg:
-- 5600
-Mex VD:
-- 1031
-Zollbrück:
-- 3436
-Zihlschlacht:
-- 8588
-Sitterdorf:
-- 8589
-Ebersol:
-- 9122
-Flawil:
-- 9230
-Roggenburg:
-- 2814
-Gohl:
-- 3553
-Ermensee:
-- 6294
-Bellwald:
-- 3997
-Lampenberg:
-- 4432
-Bossonnens:
-- 1615
-St-Livres:
-- 1176
-Waldenburg:
-- 4437
-Vauffelin:
-- 2537
-Mex VS:
-- 1890
-Chêne-Bourg:
-- 1225
-Sihlbrugg Station:
-- 8135
-La Tour-de-Peilz:
-- 1814
-Gommiswald:
-- 8737
-Gisikon:
-- 6038
-Kleindöttingen:
-- 5314
-Sorens:
-- 1642
-Corcelles-près-Concise:
-- 1426
-Gerra (Verzasca):
-- 6635
-Bellmund:
-- 2564
-Krinau:
-- 9622
-Pohlern:
-- 3638
-Schneisingen:
-- 5425
-Chardonne:
-- 1803
-Kriessern:
-- 9451
-Uetikon am See:
-- 8707
-Ramiswil:
-- 4719
-Ruschein:
-- 7154
-Premier:
-- 1324
-Sevelen:
-- 9475
-Gunzgen:
-- 4617
-Sufers:
-- 7434
-Châtel-St-Denis:
-- 1618
-Oberwil-Lieli:
-- 8966
-Mollens VS:
-- 3974
-Künten:
-- 5444
-Fürstenau:
-- 7414
-Tamins:
-- 7015
-Lauenen b. Gstaad:
-- 3782
-Schangnau:
-- 6197
-Mollens VD:
-- 1146
-Abtwil SG:
-- 9030
-Rebeuvelier:
-- 2832
-Walkringen:
-- 3512
-Lipperswil:
-- 8564
-Hittnau:
-- 8335
-Siebnen:
-- 8854
-Stierva:
-- 7459
-Adlikon b. Regensdorf:
-- 8106
-Hofstetten SO:
-- 4114
-Serpiano:
-- 6867
-Killwangen:
-- 8956
-Steckborn:
-- 8266
-La Sage:
-- 1985
-Castione:
-- 6532
-Wünnewil:
-- 3184
-Gümmenen:
-- 3205
-Steinhuserberg:
-- 6114
-Dicken:
-- 9115
-Bramois:
-- 1967
-Horriwil:
-- 4557
-Hauenstein:
-- 4633
-Cureggia:
-- 6963
-Alpnach Dorf:
-- 6055
-Ausserberg:
-- 3938
-Hersiwil:
-- 4558
-Villars-sur Fontenais:
-- 2903
-Forel (Lavaux):
-- 1072
-Knoblisbühl:
-- 8881
-Ettenhausen TG:
-- 8356
-Degen:
-- 7145
-Sédeilles:
-- 1554
-Tegna:
-- 6652
-Dompierre FR:
-- 1563
-Figino:
-- 6918
-Rona:
-- 7454
-Knutwil:
-- 6213
-Bodio TI:
-- 6743
-Epauvillers:
-- 2885
-Boniswil:
-- 5706
-Realta:
-- 7408
-Chandolin-près-Savièse:
-- 1965
-Courtételle:
-- 2852
-Sarn:
-- 7423
-Rüedisbach:
-- 3474
-Ottikon b. Kemptthal:
-- 8307
-Lommis:
-- 9506
-Biel/Bienne:
-- 2504
-- 2503
-- 2502
-- 2500
-- 2505
-Choulex:
-- 1244
-Hohenrain:
-- 6276
-Madrano:
-- 6780
-Kottwil:
-- 6217
-Zuzwil SG:
-- 9524
-Root:
-- 6037
-Pratval:
-- 7415
-La Sagne (Ste-Croix):
-- 1450
-Bister:
-- 3983
-Stampa:
-- 7605
-Wuppenau:
-- 9514
-Arlesheim:
-- 4144
-Romanshorn:
-- 8590
-Laufen:
-- 4242
-Augio:
-- 6547
-Luven:
-- 7141
-Mairengo:
-- 6763
-Rieden SG:
-- 8739
-Almens:
-- 7416
-Lens:
-- 1978
-Cabbio:
-- 6838
-St-Pierre-de-Clages:
-- 1955
-Oey:
-- 3753
-La Cibourg:
-- 2333
-- 2616
-Personico:
-- 6744
-Melide:
-- 6815
-Engelberg:
-- 6390
-Corteglia:
-- 6873
-Zunzgen:
-- 4455
-Vella:
-- 7144
-Andermatt:
-- 6490
-Bettmeralp:
-- 3992
-Bichwil:
-- 9248
-Lauwil:
-- 4426
-Nufenen:
-- 7437
-Oberentfelden:
-- 5036
-Massonnens:
-- 1692
-Chambésy:
-- 1292
-Illighausen:
-- 8574
-Simplon Hospiz:
-- 3907
-Gächlingen:
-- 8214
-Leuzigen:
-- 3297
-Grüningen:
-- 8627
-Vernier:
-- 1214
-Medeglia:
-- 6809
-Sangernboden:
-- 1738
-Jungfraujoch:
-- 3801
-Hasliberg Hohfluh:
-- 6083
-Hertenstein AG:
-- 5415
-Binningen:
-- 4102
-Leysin:
-- 1854
-Zezikon:
+VINZEL:
+- 1184
+TRANS:
+- 7407
+NEYRUZ FR:
+- 1740
+ZEZIKON:
 - 9556
-Schwyz:
-- 6430
-Herrliberg:
-- 8704
-Avry-devant-Pont:
-- 1644
-Giswil:
-- 6074
-Davos Wolfgang:
-- 7265
-Delémont:
-- 2800
-Leutwil:
-- 5725
-Aeschlen b. Oberdiessbach:
-- 3672
-Levron:
-- 1942
-Feusisberg:
-- 8835
-Barbengo:
-- 6917
-Arnegg:
-- 9212
-Volken:
-- 8459
-Rosé:
-- 1754
-Isole di Brissago:
-- 6614
-Merlischachen:
-- 6402
-Wolfisberg:
-- 4704
-Mirchel:
-- 3532
-Triesen:
-- 9495
-Les Paccots:
-- 1619
-Vordemwald:
-- 4803
-Innerferrera:
-- 7445
-Zizers:
-- 7205
-Chemin:
-- 1927
-Fribourg:
+GRANGES VS:
+- 3977
+ASP:
+- 5025
+BUSSWIL B. BÜREN:
+- 3292
+REICHENBURG:
+- 8864
+SAAS IM PRÄTTIGAU:
+- 7247
+HIRSCHTHAL:
+- 5042
+OBERWIL BL:
+- 4104
+ZOLLIKOFEN:
+- 3052
+VIGANELLO:
+- 6962
+ST-BRAIS:
+- 2364
+LALDEN:
+- 3931
+ILLGAU:
+- 6434
+HIRZEL:
+- 8816
+S-CHANF:
+- 7525
+AU SG:
+- 9434
+ROBASACCO:
+- 6599
+OBERAACH:
+- 8587
+ROMBACH:
+- 5022
+BREIL/BRIGELS:
+- 7165
+GERRA (GAMBAROGNO):
+- 6576
+AEUGSTERTAL:
+- 8914
+HÜNENBERG:
+- 6331
+LES GENEVEYS-SUR-COFFRANE:
+- 2206
+HÄUSLENEN:
+- 8522
+YVERDON-LES-BAINS:
+- 1400
+GALMIZ:
+- 3285
+CHÂTILLON JU:
+- 2843
+ZENEGGEN:
+- 3934
+NEERACH:
+- 8173
+SURCASTI:
+- 7115
+MAGGIA:
+- 6673
+TAVANNES:
+- 2710
+PONTE CAPRIASCA:
+- 6946
+CAMPO (BLENIO):
+- 6720
+KRINAU:
+- 9622
+AUW:
+- 5644
+VILLARVOLARD:
+- 1651
+FRIBOURG:
 - 1700
 - 1708
-Känerkinden:
-- 4447
-Uerikon:
-- 8713
-Portalban:
-- 1568
-Grengiols:
-- 3993
-Pratteln:
-- 4133
-Schnaus:
-- 7130
-Farvagny-le-Petit:
-- 1726
-Mathod:
-- 1438
-Felben-Wellhausen:
-- 8552
-Genestrerio:
-- 6852
-Saanen:
-- 3792
-Pfaffhausen:
-- 8118
-Dettighofen:
-- 8505
-Collombey:
-- 1868
-Götighofen:
-- 8583
-Spiegel b. Bern:
-- 3095
-Oberegg:
-- 9413
-Says:
-- 7202
-Weissenstein b. Solothurn:
-- 4515
-Eisten:
-- 3922
-Vauderens:
-- 1675
-Reverolle:
-- 1128
-Schlatt TG:
-- 8252
-Eglisau:
-- 8193
-Attinghausen:
-- 6468
-Duvin:
-- 7112
-Pambio-Noranco:
-- 6915
-Dotzigen:
-- 3293
-Dinhard:
-- 8474
-Gallenkirch:
-- 5224
-Sullens:
-- 1036
-Hugelshofen:
-- 8565
-Villars-sur-Glâne:
-- 1752
-Lohn-Ammannsegg:
-- 4573
-Corsier-sur-Vevey:
-- 1804
-Masein:
-- 7425
-Gelterkinden:
-- 4460
-Neu St. Johann:
-- 9652
-Epsach:
-- 3272
-Bennwil:
-- 4431
-Schmitten FR:
-- 3185
-Schmiedrued:
-- 5046
-Tenniken:
-- 4456
-St. Pantaleon:
-- 4421
-Anglikon:
-- 5611
-Meien:
-- 6485
-Wittenwil:
-- 9547
-Hauptikon:
-- 8926
-Glattpark (Opfikon):
-- 8152
-Hendschiken:
-- 5604
-Frieswil:
-- 3035
-Aarberg:
-- 3270
-Péry:
-- 2603
-Melano:
-- 6818
-Braunau:
-- 9502
-Lauperswil:
-- 3438
-Le Fuet:
-- 2712
-Tuttwil:
-- 9546
-Renens VD:
-- 1020
-Réchy:
-- 3966
-Kleine Scheidegg:
-- 3823
-Ennetbühl:
-- 9651
-Eriz:
-- 3619
-Rikon im Tösstal:
-- 8486
-Schmidrüti:
-- 8495
-Hüttwilen:
-- 8536
-Tscheppach:
-- 4576
-Strengelbach:
-- 4802
-Beggingen:
-- 8228
-Granges-près-Marnand:
-- 1523
-Môtier (Vully):
-- 1787
-Bolken:
-- 4556
-Libingen:
-- 9614
-Weingarten-Kalthäusern:
-- 9508
-Latterbach:
-- 3758
-Flumenthal:
-- 4534
-La Conversion:
-- 1093
-Hinterforst:
-- 9452
-Kirchleerau:
-- 5054
-Abtwil AG:
-- 5646
-Erlach:
-- 3235
-Lützelflüh-Goldbach:
-- 3432
-Eggersriet:
-- 9034
-Lamone:
-- 6814
-Belpberg:
-- 3124
-Sugiez:
-- 1786
-Le Noirmont:
-- 2340
-Ponte Capriasca:
-- 6946
-Parsonz:
-- 7464
-Belprahon:
-- 2744
-Fischbach-Göslikon:
-- 5525
-Gersau:
-- 6442
-Zernez:
-- 7530
-Oberhelfenschwil:
-- 9621
-Genolier:
-- 1272
-Balsthal:
-- 4710
-Reigoldswil:
-- 4418
-Busswil b. Büren:
-- 3292
-Morens FR:
-- 1541
-Adligenswil:
-- 6043
-Rüeterswil:
-- 8735
-Villars-Tiercelin:
-- 1058
-Le Trétien:
-- 1923
-Niederweningen:
-- 8166
-Vulpera:
-- 7552
-Arboldswil:
-- 4424
-Davos Frauenkirch:
-- 7276
-Russin:
-- 1281
-Fornet-Dessous:
-- 2717
-Stans:
-- 6370
-Rothwald:
-- 3901
-Blonay:
-- 1807
-Muolen:
-- 9313
-Grandval:
-- 2745
-Fontenais:
-- 2902
-Stechelberg:
-- 3824
-Benken SG:
-- 8717
-Combremont-le-Grand:
-- 1535
-Les Friques:
-- 1566
-Cottens FR:
-- 1741
-Egg SZ:
-- 8847
-Pianezzo:
-- 6582
-Celerina/Schlarigna:
-- 7505
-Filzbach:
-- 8757
-Sommentier:
-- 1688
-Schocherswil:
-- 8581
-Zweilütschinen:
-- 3815
-Kallern:
-- 5625
-Zumikon:
-- 8126
-Langnau b. Reiden:
-- 6262
-Hermatswil:
-- 8330
-Wohlenschwil:
-- 5512
-Obernau:
-- 6012
-Miex:
-- 1896
-Peccia:
-- 6695
-Hedingen:
-- 8908
-Huttwil:
-- 4950
-Mies:
-- 1295
-Münsingen:
-- 3110
-Stetten AG:
-- 5608
-Krauchthal:
-- 3326
-Schellenberg:
-- 9488
-Cavardiras:
-- 7182
-Charmoille:
-- 2947
-Faltigberg:
-- 8639
-Neudorf:
-- 6025
-Le Prévoux:
-- 2400
-Wichtrach:
-- 3114
-Oberönz:
-- 3363
-Heldswil:
-- 9216
-Häusernmoos im Emmental:
-- 3463
-Grossdietwil:
-- 6146
-Sévery:
-- 1141
-Niederried b. Interlaken:
-- 3853
-Aedermannsdorf:
-- 4714
-Aarau Rohr:
-- 5032
-Männedorf:
-- 8708
-Tafers:
-- 1712
-Kyburg-Buchegg:
-- 4586
-Niederwangen b. Bern:
-- 3172
-Uffikon:
-- 6253
-Kriens:
-- 6010
-Sigriswil:
-- 3655
-Hofstetten ZH:
-- 8354
-Sundlauenen:
-- 3800
-Laufenburg:
-- 5080
-Trachslau:
-- 8840
-Vuippens:
-- 1633
-Serneus:
-- 7249
-Oberbuchsiten:
-- 4625
-Grandfontaine:
-- 2908
-Flond:
-- 7137
-Pany:
-- 7243
-Bremgarten AG:
-- 5620
-Niedergesteln:
-- 3942
-St-Blaise:
-- 2072
-Haldenstein:
-- 7023
-Villa Bedretto:
-- 6781
-Benzenschwil:
-- 5636
-Montreux:
-- 1820
-La Côte-aux-Fées:
-- 2117
-Boécourt:
-- 2856
-Billens:
-- 1681
-Möhlin:
-- 4313
-Alterswil FR:
-- 1715
-Regensdorf:
-- 8105
-Laconnex:
-- 1287
-Bratsch:
-- 3957
-Mollie-Margot:
-- 1073
-Borgonovo:
-- 7604
-Hagneck:
-- 2575
-Ruvigliana:
-- 6977
-Bellevue:
-- 1293
-Ittenthal:
-- 5083
-Wanzwil:
-- 3372
-Valeyres-sous-Ursins:
-- 1412
-Châtonnaye:
-- 1553
-Buch SH:
-- 8263
-Alpnachstad:
-- 6053
-Wilen b. Wil:
-- 9535
-Hessigkofen:
-- 4577
-Sumiswald:
-- 3454
-Densbüren:
-- 5026
-Zuckenriet:
-- 9526
-Oberbütschel:
-- 3088
-Neuenkirch:
-- 6206
-Castelrotto:
-- 6980
-Hofstatt:
-- 6154
-Röthenbach im Emmental:
-- 3538
-Flüelen:
-- 6454
-Gadenstätt:
-- 7244
-Mühlrüti:
-- 9613
-Fontanezier:
-- 1423
-Bäretswil:
-- 8344
-Auenstein:
-- 5105
-Ebnat-Kappel:
-- 9642
-Dorf:
-- 8458
-Falera:
-- 7153
-Wermatswil:
-- 8615
-Zelg (Wolfhalden):
-- 9427
-Alt St. Johann:
-- 9656
-S-chanf:
-- 7525
-Chapelle (Glâne):
-- 1608
-Schlossrued:
-- 5044
-Aadorf:
-- 8355
-Uhwiesen:
-- 8248
-Agriswil:
-- 3216
-Flumserberg Saxli:
-- 8894
-Mauborget:
-- 1453
-Aeschiried:
-- 3703
-Obersaxen Affeier:
-- 7133
-Binz:
-- 8122
-Riva San Vitale:
-- 6826
-Binn:
-- 3996
-Vinzel:
-- 1184
-Brülisau:
-- 9058
-Lussery-Villars:
-- 1307
-Vers-l'Eglise:
-- 1864
-Morrens VD:
-- 1054
-La Vraconnaz:
-- 1454
-Dittingen:
-- 4243
-Jenins:
-- 7307
-Castrisch:
-- 7126
-Brugg AG:
-- 5200
-Hermenches:
-- 1513
-Peney-le-Jorat:
-- 1059
-Beinwil am See:
-- 5712
-Erlenbach im Simmental:
-- 3762
-Saicourt:
-- 2732
-Zignau:
-- 7167
-Mittelhäusern:
-- 3147
-Unterbäch VS:
-- 3944
-Löhningen:
-- 8224
-Founex:
-- 1297
-Rünenberg:
-- 4497
-Collonge-Bellerive:
-- 1245
-Müswangen:
-- 6289
-Penthaz:
-- 1303
-Gsteigwiler:
-- 3814
-Fehraltorf:
-- 8320
-Puidoux:
-- 1070
-La Chaux (Cossonay):
-- 1308
-Birsfelden:
-- 4127
-Littenheid:
-- 9573
-Zetzwil:
-- 5732
-Baar:
-- 6340
-Arnex-sur-Nyon:
-- 1277
-Strada:
-- 7558
-Innerthal:
-- 8858
-Peiden:
-- 7110
-Mandach:
-- 5318
-Attiswil:
-- 4536
-Hoffeld:
-- 9114
-Zuchwil:
-- 4528
-Schwarzenbach Beromünster:
-- 6215
-Mittellunden:
-- 7222
-Niederbuchsiten:
-- 4626
-Trimstein:
-- 3083
-Birr:
-- 5242
-Fulenbach:
-- 4629
-Capolago:
-- 6825
-Liedertswil:
-- 4436
-Brail:
-- 7527
-Gempenach:
-- 3215
-Berg am Irchel:
-- 8415
-Gordola:
-- 6596
-St-Prex:
+OSTERMUNDIGEN:
+- 3072
+MÜHLEDORF BE:
+- 3116
+ST-PREX:
 - 1162
-Wiggen:
-- 6192
-Morissen:
-- 7143
-Wahlen b. Laufen:
-- 4246
-Heimenhausen:
-- 3373
-Stein AR:
-- 9063
-Chêne-Pâquier:
-- 1464
-Orient:
-- 1341
-Ricken SG:
-- 8726
-Verdabbio:
-- 6538
-Schiers:
-- 7220
-Rifferswil:
-- 8911
-Dietlikon:
-- 8305
-Sonceboz-Sombeval:
-- 2605
-Siggenthal Station:
-- 5301
-Rudolfstetten:
-- 8964
-Urnerboden:
-- 8751
-Oberwil im Simmental:
-- 3765
-Mosogno:
-- 6611
-Pollegio:
-- 6742
-Limpach:
-- 3317
-Tavanasa:
-- 7162
-Carabbia:
-- 6913
-Maggia:
-- 6673
-Davos Clavadel:
-- 7272
-Lanzenhäusern:
-- 3148
-Cheseaux-sur-Lausanne:
-- 1033
-Hirzel:
-- 8816
-Süderen:
-- 3618
-Englisberg:
-- 3086
-Flüeli-Ranft:
-- 6073
-Bürchen:
-- 3935
-Stettlen:
-- 3066
-Campione d'Italia:
-- 6911
-Berikon:
-- 8965
-Schwendibach:
-- 3624
-Mettmenstetten:
-- 8932
-Baulmes:
-- 1446
-Vernamiège:
-- 1961
-Servion:
-- 1077
-Willerzell:
-- 8846
-Saas-Grund:
-- 3910
-Evilard:
-- 2533
-Otelfingen:
-- 8112
-La Tine:
-- 1658
-Denges:
-- 1026
-Nuglar:
-- 4412
-Remigen:
-- 5236
-Kleinwangen:
-- 6277
-Pailly:
-- 1416
-Gysenstein:
-- 3503
-Alterswilen:
-- 8573
-Taverne:
-- 6807
-Wettswil:
-- 8907
-Holziken:
-- 5043
-Robasacco:
-- 6599
-Andhausen:
-- 8572
-Kernenried:
-- 3309
-Cavergno:
-- 6690
-Haag (Rheintal):
-- 9469
-Jenaz:
-- 7233
-Lourtier:
-- 1948
-Montagny-les-Monts:
-- 1774
-St. Niklausen OW:
-- 6066
-Rudolfingen:
-- 8465
-Grindelwald:
-- 3818
-Cuarny:
-- 1404
-Pitasch:
-- 7111
-Matzendorf:
-- 4713
-Troinex:
-- 1256
-Beckenried:
-- 6375
-Lumino:
-- 6533
-Stein AG:
-- 4332
-Froideville:
-- 1055
-Bosco Luganese:
-- 6935
-Ependes VD:
-- 1434
-Bachenbülach:
-- 8184
-Eschen:
-- 9492
-Wolfwil:
-- 4628
-Gollion:
-- 1124
-Salouf:
-- 7462
-Rigi Klösterli:
-- 6410
-Schnottwil:
-- 3253
-Fuldera:
-- 7533
-Zillis:
-- 7432
-Rongellen:
-- 7430
-Alchenstorf:
-- 3473
-Valeyres-sous-Montagny:
-- 1441
-Kulmerau:
-- 6234
-Marthalen:
-- 8460
-Höfen b. Thun:
-- 3631
-Bürglen OW:
-- 6078
-Liebistorf:
-- 3213
-Lengnau AG:
-- 5426
-Bühler:
-- 9055
-Curtilles:
-- 1521
-L'Abbaye:
-- 1344
-Ferreyres:
-- 1313
-Roveredo GR:
-- 6535
-Oberhofen AG:
-- 5273
-Ulisbach:
-- 9631
-Epiquerez:
-- 2886
-Seengen:
-- 5707
-Waldstatt:
-- 9104
-Witterswil:
-- 4108
-Basel Universitätsspital:
-- 4031
-Avegno:
-- 6670
-Oschwand:
-- 3476
-Niederteufen:
-- 9052
-Bronschhofen:
-- 9552
-Fornet-Dessus:
-- 2718
-Dürrenäsch:
-- 5724
-Krummenau:
-- 9643
-Courtemaîche:
-- 2923
-Kemptthal:
-- 8310
-Cortaillod:
-- 2016
-Morgarten:
-- 6315
-Herbligen:
-- 3671
-Münchenstein:
-- 4142
-Vignogn:
-- 7147
-Plons:
-- 8889
-Turgi:
-- 5300
-Wangs:
-- 7323
-La Sarraz:
-- 1315
-Trient:
-- 1929
-Dalpe:
-- 6774
-Cademario:
-- 6936
-Lienz:
-- 9464
-Trüllikon:
-- 8466
-Rüti ZH:
-- 8630
-Linthal:
-- 8783
-Broc:
-- 1636
-Widnau:
-- 9443
-Vaglio:
-- 6947
-Weissenburg:
-- 3764
-Aefligen:
-- 3426
-Chevilly:
-- 1316
-Auslikon:
-- 8331
-Davos Dorf:
-- 7260
-Egerkingen:
-- 4622
-Schönenbuch:
-- 4124
-Bäch SZ:
-- 8806
-Aristau:
-- 5628
-Aesch BL:
-- 4147
-Gamsen:
-- 3900
-Uerkheim:
-- 4813
-Gurzelen:
-- 3663
-Kradolf:
-- 9214
-Leimiswil:
-- 4935
-Rances:
-- 1439
-Ludiano:
-- 6721
-Arolla:
-- 1986
-Stetten SH:
-- 8234
-Winterthur:
-- 8400
-- 8406
-- 8405
-- 8408
-- 8409
-Oberbalm:
-- 3096
-Thalheim AG:
-- 5112
-Bourguillon:
-- 1722
-Oleyres:
-- 1580
-Kollbrunn:
-- 8483
-Lully VD:
-- 1132
-Kehrsatz:
-- 3122
-Lucelle:
-- 2807
-Orsières:
-- 1937
-Monte Carasso:
-- 6513
-Bretonnières:
-- 1329
-Kerzers:
-- 3210
-Tschiertschen:
-- 7064
-Murist:
-- 1489
-Madonna del Piano:
-- 6995
-Biezwil:
-- 4585
-Gwatt (Thun):
-- 3645
-Melchsee-Frutt:
-- 6068
-Nürensdorf:
-- 8309
-Bürglen UR:
-- 6463
-Stäfa:
-- 8712
-Allaman:
-- 1165
-Stalden (Sarnen):
-- 6063
-Rosenlaui:
-- 3860
-Moghegno:
-- 6677
-Freidorf TG:
-- 9306
-Treyvaux:
-- 1733
-Grindel:
-- 4247
-Obbürgen:
-- 6363
-Arosa:
-- 7050
-Prugiasco:
-- 6723
-Vitznau:
-- 6354
-Steinen:
-- 6422
-Fischbach LU:
-- 6145
-Meierskappel:
-- 6344
-Bollingen:
-- 8715
-Villette (Lavaux):
-- 1096
-Bruderholz:
-- 4101
-Ottenbach:
-- 8913
-Claro:
-- 6702
-Mollis:
-- 8753
-Trimmis:
-- 7203
-Lengnau BE:
-- 2543
-Neuenhof:
-- 5432
-Mendrisio:
-- 6850
-Nenzlingen:
-- 4224
-Ursenbach:
-- 4937
-Tartar:
-- 7422
-Domdidier:
-- 1564
-Frasco:
-- 6636
-Gockhausen:
-- 8044
-Doppleschwand:
-- 6112
-Menznau:
-- 6122
-Villnachern:
-- 5213
-Worb:
-- 3076
-Stein SG:
-- 9655
-Salvenach:
-- 1794
-Penthéréaz:
-- 1375
-Oberbipp:
-- 4538
-Azmoos:
-- 9478
-Courgevaux:
-- 1796
-Safien Platz:
-- 7107
-Enggistein:
-- 3077
-Affoltern am Albis:
-- 8910
-Montavon:
-- 2857
-Matt:
-- 8766
-Rümikon AG:
-- 5464
-Ramlinsburg:
-- 4433
-Obergoldbach:
-- 3434
-Veyrier:
-- 1255
-Madulain:
-- 7523
-Mase:
+GILLY:
+- 1182
+LE PRESE:
+- 7746
+SUNDLAUENEN:
+- 3800
+HINTERKAPPELEN:
+- 3032
+DOMBRESSON:
+- 2056
+MASE:
 - 1968
-Fontaines-sur-Grandson:
-- 1421
-Porrentruy:
-- 2900
-Toffen:
-- 3125
-Berolle:
-- 1149
-Wauwil:
-- 6242
-Altenrhein:
-- 9423
-Buchs AG:
-- 5033
-Aesch LU:
-- 6287
-Mont-sur-Rolle:
-- 1185
-Bretzwil:
-- 4207
-Albligen:
-- 3183
-Forel-sur-Lucens:
-- 1526
-Cournillens:
-- 1784
-Les Sagnettes:
-- 2124
-Fläsch:
-- 7306
-Giebenach:
-- 4304
-Ohmstal:
-- 6143
-Dürrenroth:
-- 3465
-Dieterswil:
-- 3256
-Mettembert:
-- 2806
-Platta:
-- 7185
-Goldach:
-- 9403
-Winkel:
-- 8185
-Deisswil b. Münchenbuchsee:
-- 3053
-Champex-Lac:
-- 1938
-Schafisheim:
-- 5503
-Les Bois:
-- 2336
-Kirchlindach:
-- 3038
-Maur:
-- 8124
-Suberg:
-- 3262
-Ponthaux:
-- 1772
-Obfelden:
-- 8912
-Obersteckholz:
-- 4924
-Bonvillars:
-- 1427
-Dreien:
-- 9612
-Gurtnellen:
-- 6482
-Cevio:
-- 6675
-Gachnang:
-- 8547
-Spiez:
-- 3700
-Passugg-Araschgen:
-- 7062
-Oberweningen:
-- 8165
-Prosito:
-- 6526
-Fislisbach:
-- 5442
-Buochs:
-- 6374
-Le Cerneux-Péquignot:
-- 2414
-Riggisberg:
-- 3132
-Valbella:
-- 7077
-Hasliberg Goldern:
-- 6085
-Euseigne:
-- 1982
-Sonnental:
-- 9245
-Vens (Sembrancher):
-- 1933
-Vaulion:
-- 1325
-Charrat:
-- 1906
-Unterkulm:
-- 5726
-Cugnasco:
-- 6516
-Comologno:
-- 6663
-Locarno:
-- 6600
-Hasle LU:
-- 6166
-Biberist:
-- 4562
-Fully:
-- 1926
-Uetliburg SG:
-- 8738
-Sorvilier:
-- 2736
-Saillon:
-- 1913
-Bedano:
-- 6930
-Morschach:
-- 6443
-Rombach:
-- 5022
-Fahrweid:
-- 8951
-Wasterkingen:
-- 8195
-Goumois:
-- 2354
-Pazzallo:
-- 6912
-Coffrane:
-- 2207
-Bofflens:
-- 1353
-Laax GR 2:
-- 7032
-Arisdorf:
-- 4422
-Rubigen:
-- 3113
-Grens:
-- 1274
-Maladers:
-- 7026
-Altnau:
-- 8595
-Ponte Cremenaga:
-- 6996
-Fontannen b. Wolhusen:
-- 6110
-Mezzovico:
-- 6805
-Tegerfelden:
-- 5306
-Vermes:
-- 2829
-Chandolin:
-- 3961
-Surrein:
-- 7173
-Unterentfelden:
-- 5035
-Holderbank AG:
-- 5113
-La Neuveville:
-- 2520
-Wassen UR:
-- 6484
-Hemmental:
-- 8231
-Herbriggen:
-- 3927
-Schachen b. Reute:
-- 9414
-Längenbühl:
-- 3636
-Ospizio Bernina:
-- 7710
-Villmergen:
-- 5612
-Amsteg:
-- 6474
-Selzach:
-- 2545
-Luchsingen:
-- 8775
-Féchy:
-- 1173
-Küttigen:
-- 5024
-Oberbözberg:
-- 5225
-Develier:
-- 2802
-Tarasp:
-- 7553
-Gamprin-Bendern:
-- 9487
-Oetwil an der Limmat:
-- 8955
-S. Bernardino:
-- 6565
-Züberwangen:
-- 9523
-Mellikon:
-- 5465
-Salez:
-- 9465
-Villarzel:
-- 1555
-Sfazù:
-- 7742
-Aarwangen:
-- 4912
-Dübendorf:
-- 8600
-Wädenswil:
-- 8820
-Sursee:
-- 6210
-Besenbüren:
-- 5627
-Rothenthurm:
-- 6418
-Unterramsern:
-- 4588
-Ittigen:
-- 3063
-Bière:
-- 1145
-Sonvico:
-- 6968
-Mauren FL:
-- 9493
-Jussy:
-- 1254
-Romanel-sur-Lausanne:
-- 1032
-Brüttelen:
-- 3237
-Flumserberg Tannenheim:
-- 8897
-Bogis-Bossey:
-- 1279
-Inden:
-- 3953
-Mayens-de-Chamoson:
-- 1911
-Baltschieder:
-- 3937
-Dänikon ZH:
-- 8114
-Derendingen:
-- 4552
-Agno:
-- 6982
-Bettwil:
-- 5618
-Grandson:
-- 1422
-Dierikon:
-- 6036
-Büriswilen:
-- 9442
-Ibach:
-- 6438
-Winden:
-- 9315
-Cugy FR:
-- 1482
-Uvrier:
-- 1958
-Langenbruck:
-- 4438
-Grancia:
-- 6916
-Oberwangen TG:
-- 8374
-Cresciano:
-- 6705
-Arosio:
-- 6939
-Lonay:
-- 1027
-Herisau:
-- 9100
-Roggwil TG:
-- 9325
-Flims Dorf:
-- 7017
-Murzelen:
-- 3034
-Gurbrü:
-- 3208
-Mézières VD:
-- 1083
-Kräiligen:
-- 3315
-Niederhelfenschwil:
-- 9527
-Steinerberg:
-- 6416
-Courcelon:
-- 2823
-Kaltacker:
-- 3413
-Schaanwald:
-- 9486
-Veyras:
-- 3968
-Eischoll:
-- 3943
-Lichtensteig:
-- 9620
-Romoos:
-- 6113
-Grône:
-- 3979
-Aesch (Neftenbach):
-- 8412
-Alvaneu Dorf:
-- 7492
-Semsales:
-- 1623
-Würenlos:
-- 5436
-Agra:
-- 6927
-Montcherand:
-- 1354
-Vuadens:
-- 1628
-Geschinen:
-- 3985
-Hofstetten b. Brienz:
-- 3858
-Mannens:
-- 1775
-Vairano:
-- 6575
-Riaz:
-- 1632
-Waldkirch:
-- 9205
-Charmey (Gruyère):
-- 1637
-Valendas:
-- 7122
-Bad Ragaz:
-- 7310
-Bleiken b. Oberdiessbach:
-- 3674
-Menzberg:
-- 6125
-Giez:
-- 1429
-Lobsigen:
-- 3268
-Bassersdorf:
-- 8303
-Abländschen:
-- 1657
-Bironico:
-- 6804
-Cortébert:
-- 2607
-Ennenda:
-- 8755
-Sissach:
-- 4450
-Vaulruz:
-- 1627
-Losone:
-- 6616
-Camuns:
-- 7113
-Gasel:
-- 3144
-Schmidigen-Mühleweg:
-- 3464
-Montlingen:
-- 9462
-Bözen:
-- 5076
-Opfertshofen SH:
-- 8236
-Maloja:
-- 7516
-Grünen:
-- 3455
-Brè sopra Lugano:
-- 6979
-Gandria:
-- 6978
-Schwarzenburg:
-- 3150
-Wolfhausen:
-- 8633
-Blankenburg:
-- 3771
-Bettenhausen:
-- 3366
-Colombier VD:
-- 1114
-Gondiswil:
-- 4955
-Niederdorf:
-- 4435
-Herznach:
-- 5027
-Chavornay:
-- 1373
-Pfungen:
-- 8422
-Undervelier:
-- 2863
-Bäriswil BE:
-- 3323
-Aetigkofen:
-- 4583
-Riex:
-- 1097
-Obergösgen:
-- 4653
-Castaneda:
-- 6540
-Brislach:
-- 4225
-Grafenort:
-- 6388
-Schachen LU:
-- 6105
-Brunnadern:
-- 9125
-Roveredo TI:
-- 6957
-Oberschrot:
-- 1716
-Huémoz:
-- 1884
-Hägglingen:
-- 5607
-Rothenfluh:
-- 4467
-Bourrignon:
-- 2803
-Olten:
-- 4600
-Canobbio:
-- 6952
-Mümliswil:
-- 4717
-Villariaz:
-- 1685
-Rovray:
-- 1463
-Buch b. Frauenfeld:
-- 8524
-Uetendorf:
-- 3661
-Hinwil:
-- 8340
-Toos:
-- 8577
-Vacallo:
-- 6833
-Avully:
-- 1237
-Aesch ZH:
-- 8904
-Fusio:
-- 6696
-Fehren:
-- 4232
-Langwies:
-- 7057
-Contra:
-- 6646
-Märstetten:
-- 8560
-Wittwil:
-- 5053
-Suscévaz:
-- 1437
-Wildhaus:
-- 9658
-Reitnau:
-- 5057
-Bleienbach:
-- 3368
-Viganello:
-- 6962
-Starrkirch-Wil:
-- 4656
-Guarda:
-- 7545
-Osterfingen:
-- 8218
-Botterens:
-- 1652
-Remetschwil:
-- 5453
-Les Avanchets:
-- 1220
-Borgnone:
-- 6658
-Monible:
-- 2715
-Yens:
-- 1169
-Bergdietikon:
-- 8962
-Madiswil:
-- 4934
-Les Reussilles:
-- 2722
-Bussigny-près-Lausanne:
-- 1030
-Hünenberg:
-- 6331
-Hettlingen:
-- 8442
-Glashütten:
-- 4856
-Ederswiler:
-- 2813
-Tschappina:
-- 7428
-Mompé Medel:
-- 7183
-Chevroux:
-- 1545
-Schwellbrunn:
-- 9103
-Mörschwil:
-- 9402
-Jeuss:
-- 1793
-Saubraz:
-- 1189
-Vugelles-La Mothe:
-- 1431
-Fällanden:
-- 8117
-Fenalet-sur-Bex:
-- 1880
-Rengg:
-- 6162
-Chavannes-sur-Moudon:
-- 1512
-Clarens:
-- 1815
-Wallisellen:
-- 8304
-Schaffhausen:
-- 8200
-- 8203
-- 8208
-- 8207
-Landquart:
-- 7302
-Ausserferrera:
-- 7444
-Rossa:
-- 6548
-Kölliken:
-- 5742
-Elfingen:
-- 5077
-Lavin:
-- 7543
-Stansstad:
-- 6362
-Heiligkreuz (Mels):
-- 8888
-Trin Mulin:
-- 7016
-Wölflinswil:
-- 5063
-Holderbank SO:
-- 4718
-Rancate:
-- 6862
-Seewis-Pardisla:
-- 7214
-Gordevio:
-- 6672
-Riom:
-- 7463
-Muraz (Collombey):
-- 1893
-Les Charbonnières:
-- 1343
-Villars-sous-Yens:
-- 1168
-Cormoret:
-- 2612
-Colombier NE:
-- 2013
-Horgen:
-- 8810
-Kaltbach:
-- 6212
-Bettingen:
-- 4126
-Gänsbrunnen:
-- 4716
-Quinto:
-- 6777
-Arbedo:
-- 6517
-Rabius:
-- 7172
-Giornico:
-- 6745
-Lantsch/Lenz:
-- 7083
-Travers:
-- 2105
-Zwischenflüh:
-- 3756
-Le Landeron:
-- 2525
-Crans-près-Céligny:
-- 1299
-Buchen im Prättigau:
-- 7223
-Neirivue:
-- 1669
-Innertkirchen:
-- 3862
-St. Silvester:
-- 1736
-Fürstenaubruck:
-- 7413
-Villard-sur-Chamby:
-- 1832
-Bennau:
-- 8836
-Nussbaumen TG:
-- 8537
-Scheuren:
-- 2556
-Oberrohrdorf:
-- 5452
-Feldis/Veulden:
-- 7404
-Forch:
-- 8127
-Viano:
-- 7747
-Peist:
-- 7029
-Igis:
-- 7206
-Benglen:
-- 8121
-Courtedoux:
-- 2905
-Crissier:
-- 1023
-Champ-du-Moulin:
-- 2149
-Albinen:
-- 3955
-La Heutte:
-- 2604
-Brot-Plamboz:
-- 2318
-Oppens:
-- 1047
-Schwerzenbach:
-- 8603
-Etoy:
-- 1163
-Liebefeld:
-- 3097
-Goldswil b. Interlaken:
-- 3805
-Leimbach AG:
-- 5733
-Sisseln AG:
-- 4334
-Mötschwil:
-- 3324
-Giubiasco:
-- 6512
-Bercher:
-- 1038
-Bissone:
-- 6816
-Grosswangen:
-- 6022
-Cartigny:
-- 1236
-Roggwil BE:
-- 4914
-Kehrsiten:
-- 6365
-Aathal-Seegräben:
-- 8607
-Herbetswil:
-- 4715
-Châtillens:
-- 1610
-Sternenberg:
-- 8499
-St-Cergue:
-- 1264
-Ueberstorf:
-- 3182
-Römerswil LU:
-- 6027
-Widen:
-- 8967
-Les Planchettes:
-- 2325
-Daillens:
-- 1306
-Rickenbach b. Schwyz:
-- 6432
-Ferlens VD:
-- 1076
-Steffisburg:
-- 3613
-- 3612
-Autavaux:
-- 1475
-Suhr:
-- 5034
-Thörishaus:
-- 3174
-Belmont-sur-Yverdon:
-- 1432
-Balgach:
-- 9436
-Altdorf SH:
-- 8243
-Oberkulm:
-- 5727
-Ramosch:
-- 7556
-Umiken:
-- 5222
-Corcelles-le-Jorat:
-- 1082
-Sargans:
-- 7320
-Rafz:
-- 8197
-Rumisberg:
+GEROLDSWIL:
+- 8954
+LA RIPPE:
+- 1278
+LINTHAL:
+- 8783
+SAIGNELÉGIER:
+- 2350
+BERIKON:
+- 8965
+ESCHENBACH LU:
+- 6274
+ROVEREDO GR:
+- 6535
+STALDEN (SARNEN):
+- 6063
+STECHELBERG:
+- 3824
+OSOGNA:
+- 6703
+KRADOLF:
+- 9214
+ZEININGEN:
+- 4314
+BICHWIL:
+- 9248
+FÜLLINSDORF:
+- 4414
+PENTHALAZ:
+- 1305
+SUBINGEN:
+- 4553
+BRIENZWILER:
+- 3856
+AARBURG:
+- 4663
+RIEDEN SG:
+- 8739
+LIESBERG DORF:
+- 4254
+RUMISBERG:
 - 4539
-Kefikon TG:
-- 8546
-Volketswil:
-- 8604
-Agasul:
-- 8308
-Meinier:
-- 1252
-Ziefen:
-- 4417
-Untereggen:
-- 9033
-Treytorrens (Payerne):
-- 1538
-Nesselnbach:
-- 5524
-Vérossaz:
-- 1891
-Eppenberg:
-- 5012
-Haldi b. Schattdorf:
-- 6469
-Uettligen:
-- 3043
-Bellikon:
-- 5454
-Ogens:
-- 1045
-Seleute:
-- 2888
-Pfäffikon SZ:
-- 8808
-Gais:
-- 9056
-Graben:
-- 3376
-Vadura:
-- 7314
-Silvaplana-Surlej:
+GOLDACH:
+- 9403
+WINIKON:
+- 6235
+CAGIALLO:
+- 6955
+DETTIGHOFEN:
+- 8505
+BUCH AM IRCHEL:
+- 8414
+WILIBERG:
+- 5058
+ORMALINGEN:
+- 4466
+PRAZ-DE-FORT:
+- 1943
+STEINHAUSEN:
+- 6312
+BRITTNAU:
+- 4805
+MARLY:
+- 1723
+FENIL-SUR-CORSIER:
+- 1809
+MAUR:
+- 8124
+ZUCHWIL:
+- 4528
+SOMMERI:
+- 8580
+QUARTEN:
+- 8883
+GUNZWIL:
+- 6222
+VILLIERS:
+- 2057
+LEYSIN:
+- 1854
+HERGISWIL NW:
+- 6052
+ALDESAGO:
+- 6974
+MÜNCHWILEN AG:
+- 4333
+WORB:
+- 3076
+LEUGGELBACH:
+- 8774
+ST. MARGRETHEN SG:
+- 9430
+IMMENSEE:
+- 6405
+BÖTTSTEIN:
+- 5315
+LEVRON:
+- 1942
+WINDISCH:
+- 5210
+HALDENSTEIN:
+- 7023
+MATT:
+- 8766
+MOSEN:
+- 6295
+LAUPERSDORF:
+- 4712
+ZWINGEN:
+- 4222
+GOUMOIS:
+- 2354
+GAMPRIN-BENDERN:
+- 9487
+CORCELLES-LE-JORAT:
+- 1082
+MÖRSCHWIL:
+- 9402
+LAUWIL:
+- 4426
+OPFERTSHOFEN SH:
+- 8236
+PEYRES-POSSENS:
+- 1063
+BONNEFONTAINE:
+- 1724
+RICKENBACH LU:
+- 6221
+VITZNAU:
+- 6354
+BISTER:
+- 3983
+TENERO:
+- 6598
+BERNHARDZELL:
+- 9304
+ANZÈRE:
+- 1972
+WEININGEN TG:
+- 8532
+VAGLIO:
+- 6947
+ASTANO:
+- 6999
+LIEBEFELD:
+- 3097
+EYSINS:
+- 1262
+VADUZ:
+- 9490
+WEIER IM EMMENTAL:
+- 3462
+CORTÉBERT:
+- 2607
+LA SAGNE (STE-CROIX):
+- 1450
+WOLFISBERG:
+- 4704
+LE CRÊT-DU-LOCLE:
+- 2322
+SAANENMÖSER:
+- 3777
+SCHARNACHTAL:
+- 3722
+CAMPOCOLOGNO:
+- 7744
+VILLARD-SUR-CHAMBY:
+- 1832
+BETTINGEN:
+- 4126
+RUBIGEN:
+- 3113
+CADRO:
+- 6965
+HUGELSHOFEN:
+- 8565
+PERLEN:
+- 6035
+OBERBURG:
+- 3414
+NUSSHOF:
+- 4453
+WEININGEN ZH:
+- 8104
+SCHWYZ:
+- 6430
+OBERNEUNFORN:
+- 8526
+ESCHIKOFEN:
+- 8553
+HOCHWALD:
+- 4146
+OBERWALD:
+- 3999
+KRIECHENWIL:
+- 3179
+SAX:
+- 9468
+CHÂBLES FR:
+- 1474
+SILVAPLANA-SURLEJ:
 - 7513
-Langnau im Emmental:
-- 3550
-Montfavergier:
-- 2362
-- 2874
-Rüti GL:
-- 8782
-Rain:
-- 6026
-Laax GR:
-- 7031
-Tiefencastel:
-- 7450
-Pigniu:
-- 7156
-Meride:
-- 6866
-Feldbach:
-- 8714
-Courtaman:
-- 1791
-Biberstein:
-- 5023
-Corserey:
-- 1747
-Pignia:
-- 7443
-Ependes FR:
-- 1731
-Cronay:
-- 1406
-Lenggenwil:
-- 9525
-Montignez:
-- 2924
-Berg SG:
-- 9305
-Gelterfingen:
-- 3126
-Urdorf:
-- 8902
-Heimberg:
-- 3627
-La Croix (Lutry):
-- 1090
-Embrach:
-- 8424
-Elgg:
-- 8353
-Wald ZH:
-- 8636
-Agarone:
-- 6597
-Weggis:
-- 6353
-Ins:
-- 3232
-Frinvillier:
-- 2535
-Estévenens:
-- 1687
-Wiesen GR:
-- 7494
-S. Vittore:
-- 6534
-Perly:
-- 1258
-Alvaneu Bad:
-- 7473
-Schwarzenberg LU:
-- 6103
-Oltingen:
-- 4494
-Häuslenen:
-- 8522
-Fruthwilen:
-- 8269
-Produit (Leytron):
-- 1912
-Altdorf UR:
-- 6460
-Udligenswil:
-- 6044
-Corsier GE:
-- 1246
-Diessbach b. Büren:
-- 3264
-Prato (Leventina):
-- 6773
-Rueyres-les-Prés:
-- 1542
+UNTEREMS:
+- 3948
+DENGES:
+- 1026
+STANSSTAD:
+- 6362
+ZOLLIKERBERG:
+- 8125
+ANWIL:
+- 4469
+AGARN:
+- 3951
+LUMINO:
+- 6533
+DÜBENDORF:
+- 8600
+HILTERFINGEN:
+- 3652
+WÜRENLINGEN:
+- 5303
+TEUFENTHAL AG:
+- 5723
+SACHSELN:
+- 6072
+MASCHWANDEN:
+- 8933
+OBERHOFEN AM THUNERSEE:
+- 3653
+GRENCHEN:
+- 2540
+WANGENRIED:
+- 3374
+MÉZIÈRES FR:
+- 1684
