@@ -13,6 +13,28 @@ public class Controller {
         private List<String> Countries = dbm.getAvailableCountries();
         HashMap<String,List<String>> plzs = dbm.getPostcodes(Country);
 
+    public String capitalize(String in){
+        char[] input = in.toLowerCase().toCharArray();
+        String result = "";
+        Character previous = input[0];
+        result += Character.toString(input[0]).toUpperCase();
+
+        for (Character curr : input){
+            if (curr == input[0]) {
+                previous = curr; continue;
+            }
+            switch (previous){
+                case (' '):
+                case ('-'):
+                    result += Character.toString(curr).toUpperCase();
+                    break;
+                default: result += curr;
+            }
+            previous = curr;
+        }
+        return result;
+    }
+
         public String getChosenCountry() {
             for (String cities : plzs.get(Ort))
                 System.out.println(cities);
