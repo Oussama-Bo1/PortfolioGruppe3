@@ -1,6 +1,7 @@
-package Postleitzahl;
+package View;
 
 public class City {
+
     private String name;
     private int plz;
 
@@ -18,4 +19,3 @@ public class City {
     }
 
 }
-
