@@ -1,4 +1,4 @@
-package View;
+package GUIPackage;
 
 public class City {
 

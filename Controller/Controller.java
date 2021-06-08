@@ -6,7 +6,7 @@ import java.util.Iterator;
 import java.util.List;
 
 public class Controller {
-
+/*
         private String Ort = "Frankfurt am Main";
         private String PLZ;
         private String Country;
@@ -22,5 +22,5 @@ public class Controller {
         public List<String> getPostCodes() {
             List<String> PLZ = plzs.get(Ort);
             return PLZ;
-        }
+        }*/
 }
