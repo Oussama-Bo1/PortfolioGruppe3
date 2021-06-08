@@ -17,5 +17,5 @@ public class City {
     public int getPLZ() {
         return plz;
     }
-
 }
+

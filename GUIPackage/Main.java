@@ -1,14 +1,18 @@
-package View;
+package Postleitzahl;
 
-import javax.swing.*;
-import java.awt.*;
-import java.awt.event.ActionEvent;
+
+import javax.swing.JFrame;
+import javax.swing.JComboBox;
+import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
+import java.awt.event.ActionEvent;
+import javax.swing.JLabel;
+import javax.swing.JTextPane;
+import java.awt.Color;
 
 public class Main {
 
-    private String[] countries;
     private JFrame frame;
     private JTextPane txtCity;
     private JTextPane txtZipcode;
@@ -17,10 +21,6 @@ public class Main {
     public static void main(String[] args) {
         Main window = new Main();
         window.frame.setVisible(true);
-    }
-
-    public void setCountries(String [] countries1) {
-        this.countries = countries1;
     }
 
     public Main() {
@@ -124,6 +124,7 @@ public class Main {
         lblZipcode.setBounds(331, 47, 82, 14);
         frame.getContentPane().add(lblZipcode);
 
+        String[] countries = {"Deutschland", "Oesterreich", "USA"};
         cbCountryList = new JComboBox<String>(countries);
         cbCountryList.setBounds(10, 23, 120, 22);
         cbCountryList.setSelectedItem("Deutschland");
@@ -179,3 +180,4 @@ public class Main {
         return result;
     }
 }
+
