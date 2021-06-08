@@ -73,5 +73,4 @@ public class YAMLListReader { //Lässt als YAML-Parser nur wenig Syntax zu
         }
     }
 
-
 }
