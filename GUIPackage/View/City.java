@@ -1,4 +1,4 @@
-package Postleitzahl;
+package View;
 
 public class City {
 
@@ -17,7 +17,5 @@ public class City {
     public int getPLZ() {
         return plz;
     }
-
 }
-
 
