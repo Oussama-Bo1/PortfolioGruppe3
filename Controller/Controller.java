@@ -1,8 +1,7 @@
 package Controller;
-import Model.DatabaseManager;
 
+import Model.DatabaseManager;
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.List;
 
 public class Controller {
@@ -15,8 +14,9 @@ public class Controller {
         HashMap<String,List<String>> plzs = dbm.getPostcodes(Country);
 
         public String getChosenCountry() {
-            for (String cities : plzs)
+            for (String cities : plzs.get(Ort))
                 System.out.println(cities);
+            return Ort;
         }
 
         public List<String> getPostCodes() {
