@@ -73,23 +73,58 @@ public class Controller implements ActionListener, FocusListener, KeyListener{
             if (item.getValue().contains(plz))
                 return capitalize(item.getKey());
         }
-        return null;
+        return "";
     }
 
     /*
     anderes Feld auf dem GUI ergänzen
      */
     private void complete(){
+        clearErrors();
         if (leftFieldSelected){
             String text = "";
             List<String> plzs = getPostCodes(window.getTxtCity().getText().trim());
-            for (String plz : plzs){
-                text += plz + "\n";
+            if (plzs == null){
+                errorNoPlace();
+                window.getTxtZipcode().setText("");
             }
-            window.getTxtZipcode().setText(text);
+            else {
+                for (String plz : plzs){
+                    text += plz + "\n";
+                }
+                window.getTxtZipcode().setText(text);
+            }
         }
-        else
-            window.getTxtCity().setText(getOrt(window.getTxtZipcode().getText().trim()));
+        else{
+            String ort = getOrt(evaluatePlzString(window.getTxtZipcode().getText().trim()));
+            if (ort == ""){ //Plz nicht gefunden abfangen
+                errorNoPlz();
+            }
+            window.getTxtCity().setText(ort);
+        }
+    }
+
+    /*
+    Splittet die eingabe an Zeilensprüngen auf,
+     */
+    private String evaluatePlzString(String string){
+        String[] array = string.split("\n");
+        if (array != null){
+            return array[0];
+        }
+        return string;
+    }
+
+    private void errorNoPlz(){
+        window.getLblInfo().setText("Postleitzahl nicht gefunden");
+    }
+
+    private void errorNoPlace(){
+        window.getLblInfo().setText("Ort nicht gefunden");
+    }
+
+    private void clearErrors(){
+        window.getLblInfo().setText("");
     }
 
     @Override
@@ -97,6 +132,8 @@ public class Controller implements ActionListener, FocusListener, KeyListener{
         if (e.getSource().equals(window.getCBCountryList())){
             String country = ((JComboBox)e.getSource()).getSelectedItem().toString();
             plzs = dbm.getPostcodes(country);
+            window.getTxtCity().setText("");
+            window.getTxtZipcode().setText("");
         }
         else if(e.getSource().equals(window.getBtnLookForCity())){
             leftFieldSelected = false;
