@@ -4,51 +4,113 @@ package View;
 import javax.swing.*;
 import java.awt.*;
 import java.util.List;
+import Controller.*;
 
 public class View {
 
     private JFrame frame;
     private JTextPane txtCity;
     private JTextPane txtZipcode;
+    private JComboBox cbCountryList;
     private List<String> countries;
+    private Controller controller;
+    private JButton btnLookForZipCode;
+    private JButton btnLookForCity;
 
-    public View() {
+
+    public View(Controller controller) {
+        this.controller = controller;
+
         frame = new JFrame();
         frame.setBounds(100, 100, 513, 288);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.getContentPane().setLayout(null);
-        txtCity = new JTextPane();
-        txtCity.setEditable(true);
-        txtCity.setBounds(10, 60, 311, 88);
-        frame.getContentPane().add(txtCity);
-        txtZipcode = new JTextPane();
-        txtZipcode.setEditable(true);
-        txtZipcode.setBounds(331, 60, 155, 88);
-        frame.getContentPane().add(txtZipcode);
-        JButton btnLookForZipCode = new JButton("PLZ suchen");
-        btnLookForZipCode.setBounds(10, 186, 311, 23);
-        frame.getContentPane().add(btnLookForZipCode);
-        JButton btnLookForCity = new JButton("Name suchen");
-        btnLookForCity.setBounds(331, 186, 155, 23);
-        frame.getContentPane().add(btnLookForCity);
+        frame.setTitle("Supernicer Postleitzahlsucher");
+
+        frame.getContentPane().add(getTxtCity());
+
+        frame.getContentPane().add(getTxtZipcode());
+
+        frame.getContentPane().add(getBtnLookForZipcode());
+
+        frame.getContentPane().add(getBtnLookForCity());
+
+        frame.getContentPane().add(getCBCountryList());
+
         JLabel lblInfo;
         lblInfo = new JLabel("");
         lblInfo.setBackground(Color.WHITE);
         lblInfo.setBounds(10, 221, 473, 15);
         frame.getContentPane().add(lblInfo);
+
         JLabel lblCity = new JLabel("Stadt");
         lblCity.setBounds(10, 47, 46, 14);
         frame.getContentPane().add(lblCity);
+
         JLabel lblZipcode = new JLabel("Postleitzahl");
         lblZipcode.setBounds(331, 47, 82, 14);
         frame.getContentPane().add(lblZipcode);
-        JComboBox<String> cbCountryList;
-        cbCountryList = new JComboBox<String>();
-        cbCountryList.setBounds(10, 23, 120, 22);
-        frame.getContentPane().add(cbCountryList);
+
+
         JLabel lblCountry = new JLabel("Land");
         lblCountry.setBounds(10, 11, 46, 14);
         frame.getContentPane().add(lblCountry);
         this.frame.setVisible(true);
+    }
+
+    public JTextPane getTxtCity() {
+        if (txtCity == null){
+            txtCity = new JTextPane();
+            txtCity.setEditable(true);
+            txtCity.setBounds(10, 60, 311, 88);
+            txtCity.addFocusListener(controller);
+            txtCity.addKeyListener(controller);
+        }
+        return txtCity;
+    }
+
+    public JTextPane getTxtZipcode() {
+        if (txtZipcode == null){
+            txtZipcode = new JTextPane();
+            txtZipcode.setEditable(true);
+            txtZipcode.setBounds(331, 60, 155, 88);
+            txtZipcode.addFocusListener(controller);
+            txtZipcode.addKeyListener(controller);
+        }
+        return txtZipcode;
+    }
+
+    public JComboBox getCBCountryList(){
+        if (cbCountryList == null){
+            cbCountryList = new JComboBox<String>();
+            cbCountryList.setBounds(10, 23, 120, 22);
+            cbCountryList.addActionListener(controller);
+        }
+        return cbCountryList;
+    }
+
+    public JButton getBtnLookForZipcode(){
+        if (btnLookForZipCode == null){
+            btnLookForZipCode = new JButton("PLZ suchen");
+            btnLookForZipCode.setBounds(10, 186, 311, 23);
+            btnLookForZipCode.addActionListener(controller);
+        }
+        return btnLookForZipCode;
+    }
+
+    public JButton getBtnLookForCity(){
+        if (btnLookForCity == null){
+            btnLookForCity = new JButton("PLZ suchen");
+            btnLookForCity.setBounds(331, 186, 155, 23);
+            btnLookForCity.addActionListener(controller);
+        }
+        return btnLookForCity;
+    }
+
+    public void setCBContent(List<String> countries){
+        cbCountryList.removeAllItems();
+        for (String country : countries){
+            cbCountryList.addItem(country);
+        }
     }
 }
