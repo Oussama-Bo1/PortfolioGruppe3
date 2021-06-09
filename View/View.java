@@ -16,20 +16,24 @@ public class View {
     private Controller controller;
     private JButton btnLookForZipCode;
     private JButton btnLookForCity;
+    private JLabel lblInfo;
 
-
-    public View(Controller controller) {
+    public View(Controller controller){
         this.controller = controller;
 
         frame = new JFrame();
         frame.setBounds(100, 100, 513, 288);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.getContentPane().setLayout(null);
-        frame.setTitle("Supernicer Postleitzahlsucher");
+        frame.setTitle("Supernicer Postleitzahlensucher");
 
-        frame.getContentPane().add(getTxtCity());
+        JScrollPane jsp1 = new JScrollPane(getTxtCity());
+        jsp1.setBounds(10, 60, 311, 88);
+        frame.getContentPane().add(jsp1);
 
-        frame.getContentPane().add(getTxtZipcode());
+        JScrollPane jsp2 = new JScrollPane(getTxtZipcode());
+        jsp2.setBounds(331, 60, 155, 88);
+        frame.getContentPane().add(jsp2);
 
         frame.getContentPane().add(getBtnLookForZipcode());
 
@@ -37,11 +41,7 @@ public class View {
 
         frame.getContentPane().add(getCBCountryList());
 
-        JLabel lblInfo;
-        lblInfo = new JLabel("");
-        lblInfo.setBackground(Color.WHITE);
-        lblInfo.setBounds(10, 221, 473, 15);
-        frame.getContentPane().add(lblInfo);
+        frame.getContentPane().add(getLblInfo());
 
         JLabel lblCity = new JLabel("Stadt");
         lblCity.setBounds(10, 47, 46, 14);
@@ -105,6 +105,15 @@ public class View {
             btnLookForCity.addActionListener(controller);
         }
         return btnLookForCity;
+    }
+
+    public JLabel getLblInfo(){
+        if (lblInfo == null){
+            lblInfo = new JLabel("");
+            lblInfo.setBackground(Color.WHITE);
+            lblInfo.setBounds(10, 221, 473, 15);
+        }
+        return lblInfo;
     }
 
     public void setCBContent(List<String> countries){
