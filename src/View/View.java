@@ -1,10 +1,10 @@
-package View;
+package src.View;
 
 
 import javax.swing.*;
 import java.awt.*;
 import java.util.List;
-import Controller.*;
+import src.Controller.*;
 
 public class View {
 

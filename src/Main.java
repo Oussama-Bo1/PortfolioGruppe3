@@ -1,6 +1,6 @@
-package MainPackage;
+package src;
 
-import Controller.*;
+import src.Controller.*;
 
 public class Main {
 

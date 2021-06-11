@@ -1,14 +1,13 @@
-package Controller;
+package src.Controller;
 
-import Model.DatabaseManager;
-import View.*;
+import src.Model.DatabaseManager;
+import src.View.*;
 
 import java.awt.event.*;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import javax.swing.*;
 
 public class Controller implements ActionListener, FocusListener, KeyListener{
 
@@ -117,7 +116,7 @@ public class Controller implements ActionListener, FocusListener, KeyListener{
 
     /*
     Ausgewähltes land wechseln.
-    Lädt ort-postleitzahlen-map des gewählten lands in den Controller und leert das GUI
+    Lädt ort-postleitzahlen-map des gewählten lands in den src.Controller und leert das GUI
      */
     private void switchCountry(String country){
         plzs = dbm.getPostcodes(country);
