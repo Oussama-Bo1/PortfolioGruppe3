@@ -124,8 +124,16 @@ public class Controller implements ActionListener, FocusListener, KeyListener{
         window.getTxtCity().setText("");
         window.getTxtZipcode().setText("");
         if (plzs == null){
+            databaseError();
             window.setCBContent(dbm.getAvailableCountries());
         }
+        else {
+            clearErrors();
+        }
+    }
+
+    private void databaseError(){
+        window.getLblInfo().setText("Datei kann nicht ausgelesen werden");
     }
 
     private void errorNoPlz(){
@@ -143,7 +151,7 @@ public class Controller implements ActionListener, FocusListener, KeyListener{
     @Override
     public void actionPerformed(ActionEvent e) {
         if (e.getSource().equals(window.getCBCountryList())){
-            String country = ((JComboBox)e.getSource()).getSelectedItem().toString();
+            String country = window.getCBCountryList().getSelectedItem().toString();
             switchCountry(country);
         }
         else if(e.getSource().equals(window.getBtnLookForCity())){
