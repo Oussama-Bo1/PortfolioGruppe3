@@ -12,7 +12,6 @@ public class View {
     private JTextPane txtCity;
     private JTextPane txtZipcode;
     private JComboBox cbCountryList;
-    private List<String> countries;
     private Controller controller;
     private JButton btnLookForZipCode;
     private JButton btnLookForCity;

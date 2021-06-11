@@ -105,7 +105,7 @@ public class Controller implements ActionListener, FocusListener, KeyListener{
     }
 
     /*
-    Splittet die eingabe an Zeilensprüngen auf,
+    Splittet die eingabe an Zeilensprüngen auf, dass von einer mehrzeiligen PLZ-Eingabe wieder auf den Ort geschlossen werden kann
      */
     private String evaluatePlzString(String string){
         String[] array = string.split("\n");
