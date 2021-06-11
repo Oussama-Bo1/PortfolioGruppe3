@@ -16,6 +16,10 @@ public class DatabaseManager {
         yamlListReader = new YAMLListReader();
     }
 
+    /*
+    Sucht im in path hinterlegten Ordnerpfad nach yamldateien, und gibt eine
+    Liste der Länder aus.
+     */
     public List<String> getAvailableCountries(){
         List<String> result = new ArrayList<>();
 
@@ -27,34 +31,14 @@ public class DatabaseManager {
         return result;
     }
 
+    /*
+    Wenn es eine zugehörige Yamldatei gibt, wird eine HashMap daraus ausgelesen
+     */
     public HashMap<String, List<String>> getPostcodes(String country){
         if (getAvailableCountries().contains(country)){
             yamlListReader.setFile(new File(path + country + ".yaml"));
-            return yamlListReader.read();
+            return yamlListReader.generateHashMap();
         }
         return null;
     }
-
-    public String capitalize(String in){
-        char[] input = in.toLowerCase().toCharArray();
-        String result = "";
-        Character previous = input[0];
-        result += Character.toString(input[0]).toUpperCase();
-
-        for (Character curr : input){
-            if (curr == input[0]) {
-                previous = curr; continue;
-            }
-            switch (previous){
-                case (' '):
-                case ('-'):
-                    result += Character.toString(curr).toUpperCase();
-                    break;
-                default: result += curr;
-            }
-            previous = curr;
-        }
-        return result;
-    }
-
 }

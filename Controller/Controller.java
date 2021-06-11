@@ -12,7 +12,7 @@ import javax.swing.*;
 
 public class Controller implements ActionListener, FocusListener, KeyListener{
 
-    private Boolean leftFieldSelected; //Welches Feld zuletzt den Mauszeiger hatte
+    private Boolean postleitzahlErgaenzen; //Welches Feld zuletzt den Mauszeiger hatte
     private HashMap<String, List<String>> plzs; // Key: Ortsname Value: PLZs
 
     private View window; //GUI
@@ -81,7 +81,7 @@ public class Controller implements ActionListener, FocusListener, KeyListener{
      */
     private void complete(){
         clearErrors();
-        if (leftFieldSelected){
+        if (postleitzahlErgaenzen){         // aus Ort Postleitzahl ergänzen
             String text = "";
             List<String> plzs = getPostCodes(window.getTxtCity().getText().trim());
             if (plzs == null){
@@ -95,9 +95,9 @@ public class Controller implements ActionListener, FocusListener, KeyListener{
                 window.getTxtZipcode().setText(text);
             }
         }
-        else{
+        else{                               //Aus Postleitzahl Ort ergänzen
             String ort = getOrt(evaluatePlzString(window.getTxtZipcode().getText().trim()));
-            if (ort == ""){ //Plz nicht gefunden abfangen
+            if (ort == ""){
                 errorNoPlz();
             }
             window.getTxtCity().setText(ort);
@@ -113,6 +113,19 @@ public class Controller implements ActionListener, FocusListener, KeyListener{
             return array[0];
         }
         return string;
+    }
+
+    /*
+    Ausgewähltes land wechseln.
+    Lädt ort-postleitzahlen-map des gewählten lands in den Controller und leert das GUI
+     */
+    private void switchCountry(String country){
+        plzs = dbm.getPostcodes(country);
+        window.getTxtCity().setText("");
+        window.getTxtZipcode().setText("");
+        if (plzs == null){
+            window.setCBContent(dbm.getAvailableCountries());
+        }
     }
 
     private void errorNoPlz(){
@@ -131,16 +144,14 @@ public class Controller implements ActionListener, FocusListener, KeyListener{
     public void actionPerformed(ActionEvent e) {
         if (e.getSource().equals(window.getCBCountryList())){
             String country = ((JComboBox)e.getSource()).getSelectedItem().toString();
-            plzs = dbm.getPostcodes(country);
-            window.getTxtCity().setText("");
-            window.getTxtZipcode().setText("");
+            switchCountry(country);
         }
         else if(e.getSource().equals(window.getBtnLookForCity())){
-            leftFieldSelected = false;
+            postleitzahlErgaenzen = false;
             complete();
         }
         else if (e.getSource().equals(window.getBtnLookForZipcode())){
-            leftFieldSelected = true;
+            postleitzahlErgaenzen = true;
             complete();
         }
     }
@@ -148,10 +159,10 @@ public class Controller implements ActionListener, FocusListener, KeyListener{
     @Override
     public void focusGained(FocusEvent e) {
         if (e.getSource().equals(window.getTxtCity())) {
-            leftFieldSelected = true;
+            postleitzahlErgaenzen = true;
         }
         else if (e.getSource().equals(window.getTxtZipcode())){
-            leftFieldSelected = false;
+            postleitzahlErgaenzen = false;
         }
     }
 

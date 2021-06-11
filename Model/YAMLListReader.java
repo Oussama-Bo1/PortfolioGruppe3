@@ -22,7 +22,20 @@ public class YAMLListReader { //Lässt als YAML-Parser nur wenig Syntax zu
         this.file = file;
     }
 
-    public HashMap<String, List<String>> read(){
+    /*
+    ruft die funktionen auf, die die File auslesen und einen output erzeugen
+     */
+    public HashMap<String, List<String>> generateHashMap(){
+        output = new HashMap<>();
+        read();
+        analyze();
+        return output;
+    }
+
+    /*
+    Liest Datei zeilenweise aus und speichert in einer List<String>
+     */
+    private void read(){
         try{
             BufferedReader reader = new BufferedReader(new FileReader(file.getPath()));
             lines = new ArrayList<>();
@@ -34,14 +47,13 @@ public class YAMLListReader { //Lässt als YAML-Parser nur wenig Syntax zu
         catch (Exception e){
             System.out.println(e.getMessage());
             e.printStackTrace();
-            return null;
         }
-        output = new HashMap<>();
-        analyze();
-
-        return output;
     }
 
+    /*
+    Weil die Value eine List ist, muss aufgepasst werden, wenn man die Listen erweitern will
+    Wenn es zu einem Key schon eine List gibt, wird sie appended statt überschrieben
+     */
     private void appendOutput(String key, List<String> value){
         if (output.containsKey(key)){
             output.get(key).addAll(value);
@@ -49,6 +61,15 @@ public class YAMLListReader { //Lässt als YAML-Parser nur wenig Syntax zu
         output.put(key, value);
     }
 
+    /*
+    Liest die Zeilen der lines-liste. Hat extrem simple Logik, und liest nur Listen der Form
+    Key:
+    - value1
+    - value2
+    - value3
+    Die Form von Keys und values werden mittels regexes geprüft, zugeschnitten und in die Output Hashmap gelegt.
+    Der Output hat den Datentyp HashMap<String,List<String>>
+     */
     private void analyze(){
         String key = null;
         List<String> value = new ArrayList<>();
