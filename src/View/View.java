@@ -42,7 +42,7 @@ public class View {
 
         frame.getContentPane().add(getLblInfo());
 
-        JLabel lblCity = new JLabel("Stadt");
+        JLabel lblCity = new JLabel("Ort");
         lblCity.setBounds(10, 47, 46, 14);
         frame.getContentPane().add(lblCity);
 
@@ -99,7 +99,7 @@ public class View {
 
     public JButton getBtnLookForCity(){
         if (btnLookForCity == null){
-            btnLookForCity = new JButton("PLZ suchen");
+            btnLookForCity = new JButton("Ort suchen");
             btnLookForCity.setBounds(331, 186, 155, 23);
             btnLookForCity.addActionListener(controller);
         }
